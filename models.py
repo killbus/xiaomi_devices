@@ -5,15 +5,19 @@ import re
 import json
 from requests import get
 
-DEVICES = {}
-
-
-def main():
+def main(lang='en'):
     """
     scrapes Xiaomi devices md into json
     """
+    DEVICES = {}
+
+    filestem = 'xiaomi'
+    if lang:
+        filename = f'{filestem}_{lang}.md'
+    else:
+        filename = f'{filestem}.md'
     data = get("https://raw.githubusercontent.com/KHwang9883/MobileModels/" +
-               "master/brands/xiaomi_en.md").text
+               f"master/brands/{filename}").text
     data = [i for i in data.splitlines() if not str(i).startswith('#') and i]
     data = '\n'.join(data).replace('\n\n', '\n').replace('\n\n', '\n')
     devices = re.findall(r"\*(?:[\s\S]*?)\n\*|\*(?:[\s\S]*?)\Z", data, re.MULTILINE)
@@ -30,7 +34,10 @@ def main():
         except IndexError:
             internal = ''
         try:
-            name = details[0].split(']')[1].split('(')[0].strip()
+            if ']' in details[0]:
+                name = details[0].split(']')[1].split('(')[0].strip()
+            else:
+                name = details[0].split('(')[0].strip()
         except IndexError:
             name = details[0].split(':')[0].strip()
         models = details[1].replace('\n\n', '\n').strip().splitlines()
@@ -50,9 +57,15 @@ def main():
                 DEVICES[codename]['models'] = {**DEVICES[codename]['models'], **models_}
         except KeyError:
             DEVICES.update({codename: info})
-    with open('models.json', 'w') as output:
-        json.dump(DEVICES, output, indent=1)
+
+    if lang:
+        outf = f'models_{lang}.json'
+    else:
+        outf = 'models.json'
+    with open(outf, 'w') as output:
+        json.dump(DEVICES, output, ensure_ascii=False, indent=1)
 
 
 if __name__ == '__main__':
     main()
+    main('')

@@ -1,1066 +1,1096 @@
 {
  "mione_plus": {
   "internal_name": "X1",
-  "name": "Mi 1/Mi 1S",
+  "name": "小米 1/小米 1S",
   "models": {
-   "MI-ONE PLUS": "Mi 1 WCDMA",
-   "MI-ONE C1": "Mi 1 CDMA",
-   "MI-ONE": "Mi 1 Lite",
-   "2012051": "Mi 1S WCDMA",
-   "2012053": "Mi 1S CDMA",
-   "2012052": "Mi 1S Lite"
+   "MI-ONE PLUS": "小米 1 联通版",
+   "MI-ONE C1": "小米 1 电信版",
+   "MI-ONE": "小米 1 青春版",
+   "2012051": "小米 1S 联通版",
+   "2012053": "小米 1S 电信版",
+   "2012052": "小米 1S 青春版"
   }
  },
  "aries": {
   "internal_name": "X2",
-  "name": "Mi 2/Mi 2S",
+  "name": "小米 2/小米 2S",
   "models": {
-   "2012061": "Mi 2 WCDMA",
-   "2012062": "Mi 2 CDMA",
-   "2013012": "Mi 2S WCDMA",
-   "2013021": "Mi 2S CDMA"
+   "2012061": "小米 2 联通版",
+   "2012062": "小米 2 电信版",
+   "2013012": "小米 2S 联通版",
+   "2013021": "小米 2S 电信版"
   }
  },
  "taurus": {
   "internal_name": "X2A",
-  "name": "Mi 2A",
+  "name": "小米 2A",
   "models": {
-   "2012121": "Mi 2A"
+   "2012121": "小米 2A 联通版"
   }
  },
  "pisces": {
   "internal_name": "X3TD",
-  "name": "Mi 3",
+  "name": "小米 3",
   "models": {
-   "2013061": "Mi 3 TD-SCDMA"
+   "2013061": "小米 3 移动版"
   }
  },
  "cancro": {
   "internal_name": "X3W/X4",
-  "name": "Mi 3/Mi 4",
+  "name": "小米 3/小米 4",
   "models": {
-   "2013062": "Mi 3 WCDMA",
-   "2013063": "Mi 3 CDMA",
-   "2014215": "Mi 4 WCDMA",
-   "2014218": "Mi 4 CDMA",
-   "2014216": "Mi 4 LTE China Mobile",
-   "2014719": "Mi 4 LTE China Unicom"
+   "2013062": "小米 3 联通版",
+   "2013063": "小米 3 电信版",
+   "2014215": "小米 4 联通 3G 版",
+   "2014218": "小米 4 电信 3G 版",
+   "2014216": "小米 4 移动 4G 版",
+   "2014719": "小米 4 联通 4G 版"
   }
  },
  "cancro_lte_ct": {
   "internal_name": "X4LTE-CT",
-  "name": "Mi 4",
+  "name": "小米 4",
   "models": {
-   "2014716, 2014726": "Mi 4 LTE China Telecom"
+   "2014716": "小米 4 电信 4G 版",
+   "2014726": "小米 4 电信 4G 合约版"
   }
  },
  "ferrari": {
   "internal_name": "X9",
-  "name": "Mi 4i",
+  "name": "小米 4i",
   "models": {
-   "2015015": "Mi 4i Global"
+   "2015015": "小米 4i 国际版"
   }
  },
  "libra": {
   "internal_name": "X11",
-  "name": "Mi 4c",
+  "name": "小米 4c",
   "models": {
-   "2015561": "Mi 4c",
-   "2015562": "Mi 4c China Mobile"
+   "2015561": "小米 4c 全网通版",
+   "2015562": "小米 4c 移动合约版"
   }
  },
  "aqua": {
   "internal_name": "A10",
-  "name": "Mi 4S",
+  "name": "小米 4S",
   "models": {
-   "2015911": "Mi 4S"
+   "2015911": "小米 4S 全网通版"
   }
  },
  "gemini": {
   "internal_name": "A1",
-  "name": "Mi 5",
+  "name": "小米 5",
   "models": {
-   "2015105": "Mi 5 32GB Global",
-   "2015201": "Mi 5 32GB China",
-   "2015628": "Mi 5 64GB / 128GB China"
+   "2015201": "小米 5 标准版",
+   "2015628": "小米 5 高配版 / 尊享版",
+   "2015105": "小米 5 国际版"
   }
  },
  "capricorn": {
   "internal_name": "A7",
-  "name": "Mi 5s",
+  "name": "小米 5s",
   "models": {
-   "2015711": "Mi 5s"
+   "2015711": "小米 5s 全网通版"
   }
  },
  "natrium": {
   "internal_name": "B7",
-  "name": "Mi 5s Plus",
+  "name": "小米 5s Plus",
   "models": {
-   "2016070": "Mi 5s Plus"
+   "2016070": "小米 5s Plus 全网通版"
   }
  },
  "meri": {
   "internal_name": "C10",
-  "name": "Mi 5c",
+  "name": "小米 5c",
   "models": {
-   "2016089": "Mi 5c"
+   "2016089": "小米 5c 移动版"
   }
  },
  "tiffany": {
   "internal_name": "D2",
-  "name": "Mi 5X",
+  "name": "小米 5X",
   "models": {
-   "MDE2": "Mi 5X China",
-   "MDT2": "Mi 5X China Mobile"
+   "MDE2": "小米 5X 全网通版",
+   "MDT2": "小米 5X 移动 4G+ 版"
   }
  },
  "sagit": {
   "internal_name": "C1",
-  "name": "Mi 6",
+  "name": "小米 6",
   "models": {
-   "MCE16": "Mi 6",
-   "MCT1": "Mi 6 China Mobile"
+   "MCE16": "小米 6 全网通版",
+   "MCT1": "小米 6 移动 4G+ 版"
   }
  },
  "wayne": {
   "internal_name": "D2S",
-  "name": "Mi 6X",
+  "name": "小米 6X",
   "models": {
-   "M1804D2SE": "Mi 6X China",
-   "M1804D2ST": "Mi 6X China Mobile",
-   "M1804D2SC": "Mi 6X China Unicom / China Telecom"
+   "M1804D2SE": "小米 6X 全网通版",
+   "M1804D2ST": "小米 6X 移动 4G+ 版",
+   "M1804D2SC": "小米 6X 联通电信定制版"
   }
  },
  "dipper": {
   "internal_name": "E1",
-  "name": "Mi 8",
+  "name": "小米 8",
   "models": {
-   "M1803E1A": "Mi 8",
-   "M1803E1T": "Mi 8 China Mobile",
-   "M1803E1C": "Mi 8 China Unicom / China Telecom"
+   "M1803E1A": "小米 8 全网通版",
+   "M1803E1T": "小米 8 移动 4G+ 版",
+   "M1803E1C": "小米 8 联通电信定制版"
   }
  },
  "ursa": {
   "internal_name": "E8",
-  "name": "Mi 8 Explorer Edition",
+  "name": "小米 8 透明探索版",
   "models": {
-   "M1807E8S": "Mi 8 Explorer Edition"
+   "M1807E8S": "小米 8 透明探索版"
   }
  },
  "equuleus": {
   "internal_name": "E1S",
-  "name": "Mi 8 Pro",
+  "name": "小米 8 屏幕指纹版",
   "models": {
-   "M1807E8A": "Mi 8 Pro"
+   "M1807E8A": "小米 8 屏幕指纹版"
   }
  },
  "sirius": {
   "internal_name": "E2",
-  "name": "Mi 8 SE",
+  "name": "小米 8 SE",
   "models": {
-   "M1805E2A": "Mi 8 SE"
+   "M1805E2A": "小米 8 SE 全网通版"
   }
  },
  "platina": {
   "internal_name": "D2T",
-  "name": "Mi 8 Lite",
+  "name": "小米 8 青春版",
   "models": {
-   "M1808D2TG": "Mi 8 Lite Global",
-   "M1808D2TE": "Mi 8 Lite China",
-   "M1808D2TT": "Mi 8 Lite China Mobile",
-   "M1808D2TC": "Mi 8 Lite China Unicom / China Telecom"
+   "M1808D2TE": "小米 8 青春版 全网通版",
+   "M1808D2TT": "小米 8 青春版 移动 4G+ 版",
+   "M1808D2TC": "小米 8 青春版 联通电信定制版",
+   "M1808D2TG": "小米 8 Lite 国际版"
   }
  },
  "cepheus": {
   "internal_name": "F1",
-  "name": "Mi 9",
+  "name": "小米 9",
   "models": {
-   "M1902F1G": "Mi 9 Global",
-   "M1902F1A": "Mi 9 China",
-   "M1902F1T": "Mi 9 China Mobile",
-   "M1902F1C": "Mi 9 China Unicom / China Telecom"
+   "M1902F1A": "小米 9 全网通版",
+   "M1902F1T": "小米 9 移动 4G+ 版",
+   "M1902F1C": "小米 9 联通电信定制版",
+   "M1902F1G": "小米 9 国际版"
   }
  },
  "crux": {
   "internal_name": "F1X",
-  "name": "Mi 9 Pro",
+  "name": "小米 9 Pro",
   "models": {
-   "M1908F1XE": "Mi 9 Pro 5G China"
+   "M1908F1XE": "小米 9 Pro 5G 全网通版"
   }
  },
  "grus": {
   "internal_name": "F2",
-  "name": "Mi 9 SE",
+  "name": "小米 9 SE",
   "models": {
-   "M1903F2G": "Mi 9 SE Global",
-   "M1903F2A": "Mi 9 SE China"
+   "M1903F2A": "小米 9 SE 全网通版",
+   "M1903F2G": "小米 9 SE 国际版"
   }
  },
  "davinci": {
   "internal_name": "F10",
-  "name": "Mi 9T/Redmi K20",
+  "name": "小米 9T/Redmi K20",
   "models": {
-   "M1903F10G": "Mi 9T Global",
-   "M1903F10A": "Redmi K20 China",
-   "M1903F10C": "Redmi K20 Chinese Carrier Version"
+   "M1903F10G": "小米 9T 国际版",
+   "M1903F10A": "Redmi K20 全网通版",
+   "M1903F10C": "Redmi K20 运营商全网通版"
   }
  },
  "raphael": {
   "internal_name": "F11",
-  "name": "Mi 9T Pro/Redmi K20 Pro",
+  "name": "小米 9T Pro/Redmi K20 Pro",
   "models": {
-   "M1903F11G": "Mi 9T Pro Global",
-   "M1903F11A": "Redmi K20 Pro China",
-   "M1903F11C": "Redmi K20 Pro Chinese Carrier Version"
+   "M1903F11G": "小米 9T Pro 国际版",
+   "M1903F11A": "Redmi K20 Pro 全网通版",
+   "M1903F11C": "Redmi K20 Pro 运营商全网通版"
   }
  },
  "pyxis": {
   "internal_name": "F3B",
-  "name": "Mi 9 Lite/Mi CC 9",
+  "name": "小米 9 Lite/小米 CC9",
   "models": {
-   "M1904F3BG": "Mi 9 Lite Global",
-   "M1904F3BC": "Mi CC 9 China"
+   "M1904F3BG": "小米 9 Lite 国际版",
+   "M1904F3BC": "小米 CC9 全网通版"
   }
  },
  "umi": {
   "internal_name": "J2",
-  "name": "Mi 10",
+  "name": "小米 10",
   "models": {
-   "M2001J2G": "Mi 10 Global",
-   "M2001J2I": "Mi 10 India",
-   "M2001J2E, M2001J2C": "Mi 10 China"
+   "M2001J2E, M2001J2C": "小米 10 全网通版",
+   "M2001J2G": "小米 10 国际版",
+   "M2001J2I": "小米 10 印度版"
   }
  },
  "cmi": {
   "internal_name": "J1",
-  "name": "Mi 10 Pro",
+  "name": "小米 10 Pro",
   "models": {
-   "M2001J1G": "Mi 10 Pro Global",
-   "M2001J1E, M2001J1C": "Mi 10 Pro China"
-  }
- },
- "monet": {
-  "internal_name": "J9",
-  "name": "Mi 10 Lite",
-  "models": {
-   "M2002J9G": "Mi 10 Lite Global",
-   "M2002J9S": "Mi 10 Lite Korea",
-   "M2002J9R, XIG01": "Mi 10 Lite Japan"
+   "M2001J1E, M2001J1C": "小米 10 Pro 全网通版",
+   "M2001J1G": "小米 10 Pro 国际版"
   }
  },
  "vangogh": {
   "internal_name": "J9",
-  "name": "Mi 10 Lite Zoom",
+  "name": "小米 10 青春版",
   "models": {
-   "M2002J9E": "Mi 10 Lite Zoom China"
+   "M2002J9E": "小米 10 青春版 全网通版"
+  }
+ },
+ "monet": {
+  "internal_name": "J9",
+  "name": "小米 10 Lite",
+  "models": {
+   "M2002J9G": "小米 10 Lite 国际版",
+   "M2002J9S": "小米 10 Lite 韩国版",
+   "M2002J9R, XIG01": "小米 10 Lite 日本版"
+  }
+ },
+ "cas": {
+  "internal_name": "J1S",
+  "name": "小米 10 至尊纪念版",
+  "models": {
+   "M2007J1SC": "小米 10 至尊纪念版 全网通版"
   }
  },
  "virgo": {
   "internal_name": "X5",
-  "name": "Mi Note",
+  "name": "小米 Note",
   "models": {
-   "2015011": "Mi Note Global",
-   "2014616, 2014619": "Mi Note China",
-   "2014618": "Mi Note China Mobile",
-   "2014617": "Mi Note China Unicom"
+   "2014616": "小米 Note 双网通版",
+   "2014619": "小米 Note 全网通版",
+   "2014618": "小米 Note 移动合约版",
+   "2014617": "小米 Note 联通合约版",
+   "2015011": "小米 Note 国际版"
   }
  },
  "leo": {
   "internal_name": "X7",
-  "name": "Mi Note Pro",
+  "name": "小米 Note 顶配版",
   "models": {
-   "2015021, 2015022": "Mi Note Pro",
-   "2015501": "Mi Note Pro China Mobile"
+   "2015021": "小米 Note 顶配版 双网通版",
+   "2015022": "小米 Note 顶配版 全网通版",
+   "2015501": "小米 Note 顶配版 移动合约版"
   }
  },
  "scorpio": {
   "internal_name": "A4",
-  "name": "Mi Note 2",
+  "name": "小米 Note 2",
   "models": {
-   "2015213": "Mi Note 2 Global",
-   "2015211": "Mi Note 2 China",
-   "2015212": "Mi Note 2 China Mobile"
+   "2015211": "小米 Note 2 全网通版",
+   "2015212": "小米 Note 2 移动 4G+ 版",
+   "2015213": "小米 Note 2 全球版"
   }
  },
  "jason": {
   "internal_name": "C8",
-  "name": "Mi Note 3",
+  "name": "小米 Note 3",
   "models": {
-   "MCE8": "Mi Note 3",
-   "MCT8": "Mi Note 3 China Mobile"
+   "MCE8": "小米 Note 3 全网通版",
+   "MCT8": "小米 Note 3 移动 4G+ 版"
   }
  },
  "tucana": {
   "internal_name": "F4",
-  "name": "Mi Note 10/Mi CC 9 Pro",
+  "name": "小米 Note 10/小米 CC9 Pro",
   "models": {
-   "M1910F4G": "Mi Note 10 Global",
-   "M1910F4S": "Mi Note 10 Pro Global",
-   "M1910F4E": "Mi CC 9 Pro China"
+   "M1910F4G": "小米 Note 10 国际版",
+   "M1910F4S": "小米 Note 10 Pro 国际版",
+   "M1910F4E": "小米 CC9 Pro 全网通版"
   }
  },
  "toco": {
   "internal_name": "F4L",
-  "name": "Mi Note 10 Lite",
+  "name": "小米 Note 10 Lite",
   "models": {
-   "M2002F4LG": "Mi Note 10 Lite Global"
+   "M2002F4LG": "小米 Note 10 Lite 国际版"
   }
  },
  "lithium": {
   "internal_name": "A8",
-  "name": "Mi MIX",
+  "name": "小米 MIX",
   "models": {
-   "2016080": "Mi MIX"
+   "2016080": "小米 MIX 全网通版"
   }
  },
  "chiron": {
   "internal_name": "D5",
-  "name": "Mi MIX 2",
+  "name": "小米 MIX 2",
   "models": {
-   "MDE5": "Mi MIX 2",
-   "MDT5": "Mi MIX 2 China Mobile",
-   "MDE5S": "Mi MIX 2 Unibody Ceramic Edition"
+   "MDE5": "小米 MIX 2 黑色陶瓷版 全网通版",
+   "MDT5": "小米 MIX 2 黑色陶瓷版 移动 4G+ 版",
+   "MDE5S": "小米 MIX 2 全陶瓷尊享版"
   }
  },
  "polaris": {
   "internal_name": "D5X",
-  "name": "Mi MIX 2S",
+  "name": "小米 MIX 2S",
   "models": {
-   "M1803D5XA": "Mi MIX 2S Global",
-   "M1803D5XE": "Mi MIX 2S China",
-   "M1803D5XT": "Mi MIX 2S China Mobile",
-   "M1803D5XC": "Mi MIX 2S China Unicom / China Telecom"
+   "M1803D5XE": "小米 MIX 2S 全网通版",
+   "M1803D5XA": "小米 MIX 2S 尊享版",
+   "M1803D5XT": "小米 MIX 2S 移动 4G+ 版",
+   "M1803D5XC": "小米 MIX 2S 联通电信定制版"
   }
  },
  "perseus": {
   "internal_name": "E5",
-  "name": "Mi MIX 3",
+  "name": "小米 MIX 3",
   "models": {
-   "M1810E5A": "Mi MIX 3 Global",
-   "M1810E5E": "Mi MIX 3 China"
+   "M1810E5E": "小米 MIX 3 全网通版",
+   "M1810E5A": "小米 MIX 3 全网通版 (全球频段)"
   }
  },
  "andromeda": {
   "internal_name": "E5G",
-  "name": "Mi MIX 3 5G",
+  "name": "小米 MIX 3 5G",
   "models": {
-   "M1810E5GG": "Mi MIX 3 5G"
+   "M1810E5GG": "小米 MIX 3 5G"
   }
  },
  "hydrogen": {
   "internal_name": "B3",
-  "name": "Mi Max",
+  "name": "小米 Max",
   "models": {
-   "2016002": "Mi Max Global",
-   "2016001": "Mi Max China"
+   "2016001": "小米 Max 标准版 全网通版",
+   "2016002": "小米 Max 标准版 国际版"
   }
  },
  "helium": {
   "internal_name": "B3_PRO",
-  "name": "Mi Max Prime",
+  "name": "小米 Max",
   "models": {
-   "2016007": "Mi Max Prime"
+   "2016007": "小米 Max 高配版"
   }
  },
  "oxygen": {
   "internal_name": "D4",
-  "name": "Mi Max 2",
+  "name": "小米 Max 2",
   "models": {
-   "MDE40": "Mi Max 2",
-   "MDT4": "Mi Max 2 China Mobile",
-   "MDI40": "Mi Max 2 India"
+   "MDE40": "小米 Max 2 全网通版",
+   "MDT4": "小米 Max 2 移动 4G+ 版",
+   "MDI40": "小米 Max 2 印度版"
   }
  },
  "nitrogen": {
   "internal_name": "E4",
-  "name": "Mi Max 3",
+  "name": "小米 Max 3",
   "models": {
-   "M1804E4A": "Mi Max 3",
-   "M1804E4T": "Mi Max 3 China Mobile",
-   "M1804E4C": "Mi Max 3 China Unicom / China Telecom"
+   "M1804E4A": "小米 Max 3 全网通版",
+   "M1804E4T": "小米 Max 3 移动 4G+ 版",
+   "M1804E4C": "小米 Max 3 联通电信定制版"
   }
  },
  "vela": {
   "internal_name": "F3M",
-  "name": "Mi CC 9 Meitu Edition",
+  "name": "小米 CC9 美图定制版",
   "models": {
-   "M1904F3BT": "Mi CC 9 Meitu Edition"
+   "M1904F3BT": "小米 CC9 美图定制版"
   }
  },
  "laurus": {
   "internal_name": "F9S",
-  "name": "Mi CC 9e",
+  "name": "小米 CC9e",
   "models": {
-   "M1906F9SC": "Mi CC 9e China"
+   "M1906F9SC": "小米 CC9e 全网通版"
   }
  },
  "lotus": {
   "internal_name": "F9",
-  "name": "Mi Play",
+  "name": "小米 Play",
   "models": {
-   "M1901F9E": "Mi Play",
-   "M1901F9T": "Mi Play China Mobile"
+   "M1901F9E": "小米 Play 全网通版",
+   "M1901F9T": "小米 Play 移动 4G+ 版"
   }
  },
  "tissot": {
   "internal_name": "D2",
-  "name": "Mi A1",
+  "name": "小米 A1",
   "models": {
-   "MDG2": "Mi A1 Global",
-   "MDI2": "Mi A1 India"
+   "MDG2": "小米 A1 国际版",
+   "MDI2": "小米 A1 印度版"
   }
  },
  "jasmine": {
   "internal_name": "D2S",
-  "name": "Mi A2",
+  "name": "小米 A2",
   "models": {
-   "M1804D2SG": "Mi A2 Global",
-   "M1804D2SI": "Mi A2 India"
+   "M1804D2SG": "小米 A2 国际版",
+   "M1804D2SI": "小米 A2 印度版"
   }
  },
  "daisy": {
   "internal_name": "D1S",
-  "name": "Mi A2 Lite",
+  "name": "小米 A2 Lite",
   "models": {
-   "M1805D1SG": "Mi A2 Lite Global"
+   "M1805D1SG": "小米 A2 Lite 国际版"
   }
  },
  "laurel_sprout": {
   "internal_name": "F9S",
-  "name": "Mi A3",
+  "name": "小米 A3",
   "models": {
-   "M1906F9SH": "Mi A3 Global",
-   "M1906F9SI": "Mi A3 India"
+   "M1906F9SH": "小米 A3 国际版",
+   "M1906F9SI": "小米 A3 印度版"
   }
  },
  "mocha": {
   "internal_name": "X6",
-  "name": "Mi Pad",
+  "name": "小米平板",
   "models": {
-   "A0101": "Mi Pad"
+   "A0101": "小米平板"
   }
  },
  "latte": {
   "internal_name": "A3",
-  "name": "Mi Pad 2",
+  "name": "小米平板 2",
   "models": {
-   "2015716": "Mi Pad 2"
+   "2015716": "小米平板 2"
   }
  },
  "cappu": {
   "internal_name": "C9",
-  "name": "Mi Pad 3",
+  "name": "小米平板 3",
   "models": {
-   "MCE91": "Mi Pad 3"
+   "MCE91": "小米平板 3"
   }
  },
  "clover": {
   "internal_name": "D9/D9P",
-  "name": "Mi Pad 4/Mi Pad 4 Plus",
+  "name": "小米平板 4/小米平板 4 Plus",
   "models": {
-   "M1806D9W": "Mi Pad 4 Wi-Fi",
-   "M1806D9E": "Mi Pad 4 LTE",
-   "M1806D9PE": "Mi Pad 4 Plus LTE"
+   "M1806D9W": "小米平板 4 Wi-Fi 版",
+   "M1806D9E": "小米平板 4 LTE 版",
+   "M1806D9PE": "小米平板 4 Plus LTE 版"
   }
  },
  "wt93007": {
   "internal_name": "H2TD",
-  "name": "Redmi 1",
+  "name": "红米手机",
   "models": {
-   "2013022": "Redmi 1 TD-SCDMA"
+   "2013022": "红米手机 移动版"
   }
  },
  "wt98007": {
   "internal_name": "H2W",
-  "name": "Redmi 1",
+  "name": "红米手机",
   "models": {
-   "2013023": "Redmi 1 WCDMA"
+   "2013023": "红米手机 联通版"
   }
  },
  "armani": {
   "internal_name": "H2A",
-  "name": "Redmi 1S",
+  "name": "红米 1S",
   "models": {
-   "2013029": "Redmi 1S WCDMA",
-   "2013028": "Redmi 1S CDMA"
+   "2013029": "红米 1S 联通版",
+   "2013028": "红米 1S 电信版"
   }
  },
  "wt93807": {
   "internal_name": "H2S",
-  "name": "Redmi 1S",
+  "name": "红米 1S",
   "models": {
-   "2014011": "Redmi 1S TD-SCDMA"
+   "2014011": "红米 1S 移动 3G 版"
   }
  },
  "wt96007": {
   "internal_name": "H2SLTE",
-  "name": "Redmi 1S",
+  "name": "红米 1S",
   "models": {
-   "2014501": "Redmi 1S 4G China Mobile"
+   "2014501": "红米 1S 移动 4G 版"
   }
  },
  "wt86047": {
   "internal_name": "H2X",
-  "name": "Redmi 2/Redmi 2A",
+  "name": "红米 2/红米 2A",
   "models": {
-   "2014813, 2014112": "Redmi 2 China Mobile",
-   "2014816": "Redmi 2A Prime (Snapdragon 410)"
+   "2014813": "红米 2 移动版",
+   "2014112": "红米 2 移动合约版",
+   "2014816": "红米 2A 高配版"
   }
  },
  "wt88047": {
   "internal_name": "H2X",
-  "name": "Redmi 2",
+  "name": "红米 2",
   "models": {
-   "2014817": "Redmi 2 Global",
-   "2014818": "Redmi 2 India",
-   "2014819": "Redmi 2 Brazil",
-   "2014811": "Redmi 2 China Unicom",
-   "2014812, 2014821": "Redmi 2 China Telecom"
+   "2014811": "红米 2 联通版",
+   "2014812": "红米 2 电信版",
+   "2014821": "红米 2 电信合约版",
+   "2014817": "红米 2 国际版",
+   "2014818": "红米 2 印度版",
+   "2014819": "红米 2 巴西版"
   }
  },
  "lte26007": {
   "internal_name": "H2X(LC)",
-  "name": "Redmi 2A",
+  "name": "红米 2A",
   "models": {
-   "2014502": "Redmi 2A",
-   "2014512, 2014055": "Redmi 2A Prime"
+   "2014502": "红米 2A 标准版",
+   "2014512, 2014055": "红米 2A 增强版"
   }
  },
  "ido_xhdpi": {
   "internal_name": "A9",
-  "name": "Redmi 3",
+  "name": "红米 3",
   "models": {
-   "2015816": "Redmi 3 Global",
-   "2015811, 2015815": "Redmi 3 China",
-   "2015812": "Redmi 3 China Mobile",
-   "2015810": "Redmi 3 China Unicom",
-   "2015817, 2015819": "Redmi 3 Prime China",
-   "2015818": "Redmi 3 Prime China Unicom"
+   "2015811, 2015815": "红米 3 全网通 标准版",
+   "2015812": "红米 3 移动合约 标准版",
+   "2015810": "红米 3 联通合约 标准版",
+   "2015817, 2015819": "红米 3 全网通 高配版",
+   "2015818": "红米 3 联通合约 高配版",
+   "2015816": "红米 3 国际版"
   }
  },
  "land": {
   "internal_name": "A12",
-  "name": "Redmi 3S/Redmi 3X",
+  "name": "红米 3S/红米 3X",
   "models": {
-   "2016031": "Redmi 3S Global",
-   "2016037": "Redmi 3S India",
-   "2016032": "Redmi 3S Prime India",
-   "2016030": "Redmi 3S China",
-   "2016036": "Redmi 3X",
-   "2016035": "Redmi 3X China Mobile",
-   "2016033": "Redmi 3X China Unicom"
+   "2016030": "红米 3S 全网通版",
+   "2016031": "红米 3S 国际版",
+   "2016032": "红米 3S Prime 印度版",
+   "2016037": "红米 3S 印度版",
+   "2016036": "红米 3X 全网通版",
+   "2016035": "红米 3X 移动合约版",
+   "2016033": "红米 3X 全网通版 (联通定制)"
   }
  },
  "prada": {
   "internal_name": "C5",
-  "name": "Redmi 4",
+  "name": "红米 4",
   "models": {
-   "2016090": "Redmi 4"
+   "2016090": "红米 4 标准版"
   }
  },
  "markw": {
   "internal_name": "B5W",
-  "name": "Redmi 4",
+  "name": "红米 4",
   "models": {
-   "2016060": "Redmi 4 Pro"
+   "2016060": "红米 4 高配版"
   }
  },
  "rolex": {
   "internal_name": "C3A",
-  "name": "Redmi 4A",
+  "name": "红米 4A",
   "models": {
-   "2016117": "Redmi 4A Global",
-   "2016116": "Redmi 4A India",
-   "2016111": "Redmi 4A China",
-   "2016112": "Redmi 4A China Mobile"
+   "2016111": "红米 4A 全网通版",
+   "2016112": "红米 4A 移动 4G+ 版",
+   "2016117": "红米 4A 国际版",
+   "2016116": "红米 4A 印度版"
   }
  },
  "santoni": {
   "internal_name": "A13",
-  "name": "Redmi 4X / Redmi 4",
+  "name": "红米 4X / 红米 4",
   "models": {
-   "MAG138": "Redmi 4X Global",
-   "MAI132": "Redmi 4 India",
-   "MAE136": "Redmi 4X China",
-   "MAT136": "Redmi 4X China Mobile"
+   "MAE136": "红米 4X 全网通版",
+   "MAT136": "红米 4X 移动 4G+ 版",
+   "MAG138": "红米 4X 国际版",
+   "MAI132": "红米 4 印度版"
   }
  },
  "rosy": {
   "internal_name": "D1",
-  "name": "Redmi 5",
+  "name": "红米 5",
   "models": {
-   "MDG1": "Redmi 5 Global",
-   "MDI1": "Redmi 5 India",
-   "MDE1": "Redmi 5 China",
-   "MDT1": "Redmi 5 China Mobile"
+   "MDE1": "红米 5 全网通版",
+   "MDT1": "红米 5 移动 4G+ 版",
+   "MDG1": "红米 5 国际版",
+   "MDI1": "红米 5 印度版"
   }
  },
  "vince": {
   "internal_name": "E7",
-  "name": "Redmi 5 Plus/Redmi Note 5",
+  "name": "红米 5 Plus/红米 Note 5",
   "models": {
-   "MEG7": "Redmi 5 Plus Global",
-   "MEE7": "Redmi 5 Plus China",
-   "MET7": "Redmi 5 Plus China Mobile",
-   "MEI7": "Redmi Note 5 India"
+   "MEE7": "红米 5 Plus 全网通版",
+   "MET7": "红米 5 Plus 移动 4G+ 版",
+   "MEG7": "红米 5 Plus 国际版",
+   "MEI7": "红米 Note 5 印度版"
   }
  },
  "riva": {
   "internal_name": "C3B",
-  "name": "Redmi 5A",
+  "name": "红米 5A",
   "models": {
-   "MCG3B": "Redmi 5A Global",
-   "MCI3B": "Redmi 5A India",
-   "MCE3B": "Redmi 5A China",
-   "MCT3B": "Redmi 5A China Mobile"
+   "MCE3B": "红米 5A 全网通版",
+   "MCT3B": "红米 5A 移动 4G+ 版",
+   "MCG3B": "红米 5A 国际版",
+   "MCI3B": "红米 5A 印度版"
   }
  },
  "cereus": {
   "internal_name": "C3D",
-  "name": "Redmi 6",
+  "name": "红米 6",
   "models": {
-   "M1804C3DG, M1804C3DH": "Redmi 6 Global",
-   "M1804C3DI": "Redmi 6 India",
-   "M1804C3DE": "Redmi 6 China",
-   "M1804C3DT": "Redmi 6 China Mobile",
-   "M1804C3DC": "Redmi 6 China Unicom / China Telecom"
+   "M1804C3DE": "红米 6 全网通版",
+   "M1804C3DT": "红米 6 移动 4G+ 版",
+   "M1804C3DC": "红米 6 联通电信定制版",
+   "M1804C3DG, M1804C3DH": "红米 6 国际版",
+   "M1804C3DI": "红米 6 印度版"
   }
  },
  "sakura": {
   "internal_name": "D1S",
-  "name": "Redmi 6 Pro",
+  "name": "红米 6 Pro",
   "models": {
-   "M1805D1SI": "Redmi 6 Pro India",
-   "M1805D1SE": "Redmi 6 Pro China",
-   "M1805D1ST": "Redmi 6 Pro China Mobile",
-   "M1805D1SC": "Redmi 6 Pro China Unicom / China Telecom"
+   "M1805D1SE": "红米 6 Pro 全网通版",
+   "M1805D1ST": "红米 6 Pro 移动 4G+ 版",
+   "M1805D1SC": "红米 6 Pro 联通电信定制版",
+   "M1805D1SI": "红米 6 Pro 印度版"
   }
  },
  "cactus": {
   "internal_name": "C3C",
-  "name": "Redmi 6A",
+  "name": "红米 6A",
   "models": {
-   "M1804C3CG, M1804C3CH": "Redmi 6A Global",
-   "M1804C3CI": "Redmi 6A India",
-   "M1804C3CE": "Redmi 6A China",
-   "M1804C3CT": "Redmi 6A China Mobile",
-   "M1804C3CC": "Redmi 6A China Unicom / China Telecom"
+   "M1804C3CE": "红米 6A 全网通版",
+   "M1804C3CT": "红米 6A 移动 4G+ 版",
+   "M1804C3CC": "红米 6A 联通电信定制版",
+   "M1804C3CG, M1804C3CH": "红米 6A 国际版",
+   "M1804C3CI": "红米 6A 印度版"
   }
  },
  "onclite": {
   "internal_name": "F6L",
   "name": "Redmi 7",
   "models": {
-   "M1810F6LG, M1810F6LH": "Redmi 7 Global",
-   "M1810F6LI": "Redmi 7 India",
-   "M1810F6LE": "Redmi 7 China",
-   "M1810F6LT": "Redmi 7 Chinese Carrier Version"
+   "M1810F6LE": "Redmi 7 全网通版",
+   "M1810F6LT": "Redmi 7 运营商全网通版",
+   "M1810F6LG, M1810F6LH": "Redmi 7 国际版",
+   "M1810F6LI": "Redmi 7 印度版"
   }
  },
  "pine": {
   "internal_name": "C3E",
   "name": "Redmi 7A",
   "models": {
-   "M1903C3EG, M1903C3EH": "Redmi 7A Global",
-   "M1903C3EI": "Redmi 7A India",
-   "M1903C3EE": "Redmi 7A China",
-   "M1903C3ET": "Redmi 7A China Mobile",
-   "M1903C3EC": "Redmi 7A China Unicom / China Telecom"
+   "M1903C3EE": "Redmi 7A 全网通版",
+   "M1903C3ET": "Redmi 7A 移动 4G+ 版",
+   "M1903C3EC": "Redmi 7A 联通电信定制版",
+   "M1903C3EG, M1903C3EH": "Redmi 7A 国际版",
+   "M1903C3EI": "Redmi 7A 印度版"
   }
  },
  "olive": {
   "internal_name": "C3I",
   "name": "Redmi 8",
   "models": {
-   "M1908C3IG, M1908C3IH": "Redmi 8 Global",
-   "M1908C3II": "Redmi 8 India",
-   "M1908C3IE": "Redmi 8 China",
-   "M1908C3IC": "Redmi 8 Chinese Carrier Version"
+   "M1908C3IE": "Redmi 8 全网通版",
+   "M1908C3IC": "Redmi 8 运营商全网通版",
+   "M1908C3IG, M1908C3IH": "Redmi 8 国际版",
+   "M1908C3II": "Redmi 8 印度版"
   }
  },
  "olivelite": {
   "internal_name": "C3K",
   "name": "Redmi 8A",
   "models": {
-   "M1908C3KG, M1908C3KH": "Redmi 8A Global",
-   "M1908C3KI": "Redmi 8A India",
-   "M1908C3KE": "Redmi 8A China"
+   "M1908C3KE": "Redmi 8A 全网通版",
+   "M1908C3KG, M1908C3KH": "Redmi 8A 国际版",
+   "M1908C3KI": "Redmi 8A 印度版"
   }
  },
  "olivewood": {
   "internal_name": "C3K3",
   "name": "Redmi 8A Dual / Redmi 8A Pro",
   "models": {
-   "M2001C3K3I": "Redmi 8A Dual India / Redmi 8A Pro Global"
+   "M2001C3K3I": "Redmi 8A Dual 印度版 / Redmi 8A Pro 国际版"
   }
  },
  "lancelot": {
   "internal_name": "J19",
   "name": "Redmi 9",
   "models": {
-   "M2004J19C": "Redmi 9 China",
-   "M2004J19G": "Redmi 9 Global (No NFC)",
-   "M2004J19I": "Redmi 9 Prime India"
+   "M2004J19C": "Redmi 9 全网通版",
+   "M2004J19G": "Redmi 9 国际版 (无 NFC)",
+   "M2004J19I, M2004J19PI": "Redmi 9 Prime 印度版"
   }
  },
  "galahad": {
   "internal_name": "J19A",
   "name": "Redmi 9",
   "models": {
-   "M2004J19AG": "Redmi 9 Global (NFC)"
+   "M2004J19AG": "Redmi 9 国际版 (有 NFC)"
   }
  },
  "dandelion": {
   "internal_name": "C3L",
-  "name": "Redmi 9A",
+  "name": "Redmi 9A / Redmi 9AT",
   "models": {
-   "M2006C3LG": "Redmi 9A Global",
-   "M2006C3LC": "Redmi 9A China"
+   "M2006C3LC": "Redmi 9A 全网通版",
+   "M2006C3LG": "Redmi 9A 国际版",
+   "M2006C3LVG": "Redmi 9AT 国际版"
   }
  },
  "angelica": {
   "internal_name": "C3M",
   "name": "Redmi 9C",
   "models": {
-   "M2006C3MG": "Redmi 9C Global"
+   "M2006C3MG": "Redmi 9C 国际版"
+  }
+ },
+ "": {
+  "internal_name": "C3MN",
+  "name": "Redmi 9C NFC:",
+  "models": {
+   "M2006C3MNG": "Redmi 9C NFC 国际版"
   }
  },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
-  "name": "Redmi Note",
+  "name": "红米 Note",
   "models": {
-   "2014018": "Redmi Note WCDMA 1GB",
-   "2013121": "Redmi Note WCDMA 2GB"
+   "2014018": "红米 Note 联通 3G 标准版",
+   "2013121": "红米 Note 联通 3G 增强版"
   }
  },
  "lcsh92_wet_xm_td": {
   "internal_name": "H3TD",
-  "name": "Redmi Note",
+  "name": "红米 Note",
   "models": {
-   "2014017": "Redmi Note TD-SCDMA 1GB",
-   "2013122": "Redmi Note TD-SCDMA 2GB"
+   "2014017": "红米 Note 移动 3G 标准版",
+   "2013122": "红米 Note 移动 3G 增强版"
   }
  },
  "dior": {
   "internal_name": "H3LTE",
-  "name": "Redmi Note 4G",
+  "name": "红米 Note",
   "models": {
-   "2014715": "Redmi Note 4G Global",
-   "2014712": "Redmi Note 4G India",
-   "2014022": "Redmi Note 4G China Mobile",
-   "2014021": "Redmi Note 4G China Unicom"
+   "2014022": "红米 Note 移动 4G 增强版",
+   "2014021": "红米 Note 联通 4G 增强版",
+   "2014715": "红米 Note 4G 国际版",
+   "2014712": "红米 Note 4G 印度版"
   }
  },
  "gucci": {
   "internal_name": "H3X",
-  "name": "Redmi Note 1S",
+  "name": "红米 Note 1S",
   "models": {
-   "2014915, 2014911": "Redmi Note 1S China Mobile",
-   "2014912": "Redmi Note 1S China Unicom",
-   "2014916, 2014910": "Redmi Note 1S China Telecom"
+   "2014915": "红米 Note 移动 4G 双卡版",
+   "2014912": "红米 Note 联通 4G 双卡版",
+   "2014916": "红米 Note 电信 4G 双卡版",
+   "2014911": "红米 Note 移动 4G 双卡合约版",
+   "2014910": "红米 Note 电信 4G 双卡合约版"
   }
  },
  "hermes": {
   "internal_name": "H3Y",
-  "name": "Redmi Note 2",
+  "name": "红米 Note 2",
   "models": {
-   "2015051": "Redmi Note 2 16GB",
-   "2015712": "Redmi Note 2 32GB",
-   "2015052, 2015055": "Redmi Note 2 16GB China Mobile",
-   "2015056": "Redmi Note 2 32GB China Mobile"
+   "2015052": "红米 Note 2 移动版",
+   "2015051": "红米 Note 2 双网通版",
+   "2015712": "红米 Note 2 双网通高配版",
+   "2015055": "红米 Note 2 移动合约版",
+   "2015056": "红米 Note 2 移动合约高配版"
   }
  },
  "hennessy": {
   "internal_name": "H3Z",
-  "name": "Redmi Note 3",
+  "name": "红米 Note 3",
   "models": {
-   "2015617": "Redmi Note 3 (Mediatek)",
-   "2015611": "Redmi Note 3 (Mediatek) China Mobile"
+   "2015617": "红米 Note 3 双网通版",
+   "2015611": "红米 Note 3 移动合约版"
   }
  },
  "kenzo": {
   "internal_name": "H3A",
-  "name": "Redmi Note 3",
+  "name": "红米 Note 3",
   "models": {
-   "2015116": "Redmi Note 3 (Qualcomm) Global",
-   "2015112, 2015115": "Redmi Note 3 (Qualcomm) China"
+   "2015112, 2015115": "红米 Note 3 全网通版",
+   "2015116": "红米 Note 3 国际版"
   }
  },
  "kate": {
   "internal_name": "H3B",
-  "name": "Redmi Note 3",
+  "name": "红米 Note 3",
   "models": {
-   "2015161": "Redmi Note 3 (Special Edition) Taiwan"
+   "2015161": "红米 Note 3 台湾特制版"
   }
  },
  "nikel": {
   "internal_name": "B6L/B6A",
-  "name": "Redmi Note 4/Redmi Note 4X",
+  "name": "红米 Note 4/红米 Note 4X",
   "models": {
-   "2016050": "Redmi Note 4 (Mediatek)",
-   "2016051": "Redmi Note 4 (Mediatek) China Mobile",
-   "MBE6A5": "Redmi Note 4X (Mediatek)",
-   "MBT6A5": "Redmi Note 4X (Mediatek) China Mobile"
+   "2016050": "红米 Note 4 全网通版",
+   "2016051": "红米 Note 4 移动版",
+   "MBE6A5": "红米 Note 4X MTK 全网通版",
+   "MBT6A5": "红米 Note 4X MTK 移动 4G+ 版"
   }
  },
  "mido": {
   "internal_name": "C6",
-  "name": "Redmi Note 4 / Redmi Note 4X",
+  "name": "红米 Note 4X / 红米 Note 4",
   "models": {
-   "2016100, 2016102": "Redmi Note 4 (Qualcomm) Global",
-   "2016101": "Redmi Note 4X (Qualcomm) China",
-   "2016130": "Redmi Note 4X (Qualcomm) China Mobile"
+   "2016101": "红米 Note 4X 高通 全网通版",
+   "2016130": "红米 Note 4X 高通 移动 4G+ 版",
+   "2016100, 2016102": "红米 Note 4 / 红米 Note 4X 高通 国际版"
   }
  },
  "whyred": {
   "internal_name": "E7S",
-  "name": "Redmi Note 5 / Redmi Note 5 Pro",
+  "name": "红米 Note 5 / 红米 Note 5 Pro",
   "models": {
-   "M1803E7SG, M1803E7SH": "Redmi Note 5 Global",
-   "MEI7S": "Redmi Note 5 Pro India",
-   "MEE7S": "Redmi Note 5 China",
-   "MET7S": "Redmi Note 5 China Mobile",
-   "MEC7S": "Redmi Note 5 China Unicom / China Telecom"
+   "MEE7S": "红米 Note 5 全网通版",
+   "MET7S": "红米 Note 5 移动 4G+ 版",
+   "MEC7S": "红米 Note 5 联通电信定制版",
+   "M1803E7SG, M1803E7SH": "红米 Note 5 国际版",
+   "MEI7S": "红米 Note 5 Pro 印度版"
   }
  },
  "ugglite": {
   "internal_name": "D6",
-  "name": "Redmi Note 5A / Redmi Y1 Lite",
+  "name": "红米 Note 5A / 红米 Y1 Lite",
   "models": {
-   "MDG6": "Redmi Note 5A Global",
-   "MDI6": "Redmi Y1 Lite India",
-   "MDE6": "Redmi Note 5A China",
-   "MDT6": "Redmi Note 5A China Mobile"
+   "MDE6": "红米 Note 5A 全网通 标准版",
+   "MDT6": "红米 Note 5A 移动 4G+ 标准版",
+   "MDG6": "红米 Note 5A 国际版 标准版",
+   "MDI6": "红米 Y1 Lite 印度版"
   }
  },
  "ugg": {
   "internal_name": "D6S",
-  "name": "Redmi Note 5A / Redmi Y1",
+  "name": "红米 Note 5A / 红米 Y1",
   "models": {
-   "MDG6S": "Redmi Note 5A Prime Global",
-   "MDI6S": "Redmi Y1 India",
-   "MDE6S": "Redmi Note 5A Prime China",
-   "MDT6S": "Redmi Note 5A Prime China Mobile"
+   "MDE6S": "红米 Note 5A 全网通 高配版",
+   "MDT6S": "红米 Note 5A 移动 4G+ 高配版",
+   "MDG6S": "红米 Note 5A 国际版 高配版",
+   "MDI6S": "红米 Y1 印度版"
   }
  },
  "tulip": {
   "internal_name": "E7T",
-  "name": "Redmi Note 6 Pro",
+  "name": "红米 Note 6 Pro",
   "models": {
-   "M1806E7TG, M1806E7TH": "Redmi Note 6 Pro Global",
-   "M1806E7TI": "Redmi Note 6 Pro India"
+   "M1806E7TG, M1806E7TH": "红米 Note 6 Pro 国际版",
+   "M1806E7TI": "红米 Note 6 Pro 印度版"
   }
  },
  "lavender": {
   "internal_name": "F7A",
   "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
-   "M1901F7G, M1901F7H": "Redmi Note 7 Global",
-   "M1901F7I": "Redmi Note 7 / Redmi Note 7S India",
-   "M1901F7E": "Redmi Note 7 China",
-   "M1901F7T": "Redmi Note 7 China Mobile",
-   "M1901F7C": "Redmi Note 7 China Unicom / China Telecom"
+   "M1901F7E": "Redmi Note 7 全网通版",
+   "M1901F7T": "Redmi Note 7 移动 4G+ 版",
+   "M1901F7C": "Redmi Note 7 联通电信定制版",
+   "M1901F7G, M1901F7H": "Redmi Note 7 国际版",
+   "M1901F7I": "Redmi Note 7 / Redmi Note 7S 印度版"
   }
  },
  "violet": {
   "internal_name": "F7B",
   "name": "Redmi Note 7 Pro",
   "models": {
-   "M1901F7S": "Redmi Note 7 Pro India",
-   "M1901F7BE": "Redmi Note 7 Pro China"
+   "M1901F7BE": "Redmi Note 7 Pro 全网通版",
+   "M1901F7S": "Redmi Note 7 Pro 印度版"
   }
  },
  "ginkgo": {
   "internal_name": "C3J",
   "name": "Redmi Note 8",
   "models": {
-   "M1908C3JG, M1908C3JH": "Redmi Note 8 Global",
-   "M1908C3JI": "Redmi Note 8 India",
-   "M1908C3JE": "Redmi Note 8 China",
-   "M1908C3JC": "Redmi Note 8 Chinese Carrier Version"
+   "M1908C3JE": "Redmi Note 8 全网通版",
+   "M1908C3JC": "Redmi Note 8 运营商全网通版",
+   "M1908C3JG, M1908C3JH": "Redmi Note 8 国际版",
+   "M1908C3JI": "Redmi Note 8 印度版"
   }
  },
  "willow": {
   "internal_name": "C3X",
   "name": "Redmi Note 8T",
   "models": {
-   "M1908C3XG": "Redmi Note 8T Global"
+   "M1908C3XG": "Redmi Note 8T 国际版"
   }
  },
  "begonia": {
   "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
   "models": {
-   "M1906G7G": "Redmi Note 8 Pro Global",
-   "M1906G7E": "Redmi Note 8 Pro China",
-   "M1906G7T": "Redmi Note 8 Pro Chinese Carrier Version"
+   "M1906G7E": "Redmi Note 8 Pro 全网通版",
+   "M1906G7T": "Redmi Note 8 Pro 运营商全网通版",
+   "M1906G7G": "Redmi Note 8 Pro 国际版"
   }
  },
  "begoniain": {
   "internal_name": "G7",
   "name": "Redmi Note 8 Pro",
   "models": {
-   "M1906G7I": "Redmi Note 8 Pro India"
+   "M1906G7I": "Redmi Note 8 Pro 印度版"
   }
  },
  "merlin": {
   "internal_name": "J15S",
   "name": "Redmi Note 9/Redmi 10X 4G",
   "models": {
-   "M2003J15SS": "Redmi Note 9 Global (No NFC)",
-   "M2003J15SC": "Redmi 10X 4G China"
+   "M2003J15SS": "Redmi Note 9 国际版 (无 NFC)",
+   "M2003J15SC": "Redmi 10X 4G 全网通版"
   }
  },
  "merlinnfc": {
   "internal_name": "J15S",
   "name": "Redmi Note 9",
   "models": {
-   "M2003J15SG": "Redmi Note 9 Global (NFC)"
+   "M2003J15SG": "Redmi Note 9 国际版 (有 NFC)"
   }
  },
  "merlinin": {
   "internal_name": "J15S",
   "name": "Redmi Note 9",
   "models": {
-   "M2003J15SI": "Redmi Note 9 India"
+   "M2003J15SI": "Redmi Note 9 印度版"
   }
  },
  "curtana": {
   "internal_name": "J6A1",
   "name": "Redmi Note 9 Pro / Redmi Note 9S",
   "models": {
-   "M2003J6A1G": "Redmi Note 9S Global",
-   "M2003J6A1R": "Redmi Note 9S Global (Japan / Korea)",
-   "M2003J6A1I": "Redmi Note 9 Pro India"
+   "M2003J6A1G": "Redmi Note 9S 国际版",
+   "M2003J6A1R": "Redmi Note 9S 国际版 (日本 / 韩国)",
+   "M2003J6A1I": "Redmi Note 9 Pro 印度版"
   }
  },
  "excalibur": {
   "internal_name": "J6B1",
   "name": "Redmi Note 9 Pro Max",
   "models": {
-   "M2003J6B1I": "Redmi Note 9 Pro Max India"
+   "M2003J6B1I": "Redmi Note 9 Pro Max 印度版"
   }
  },
  "joyeuse": {
   "internal_name": "J6B2",
   "name": "Redmi Note 9 Pro",
   "models": {
-   "M2003J6B2G": "Redmi Note 9 Pro Global"
+   "M2003J6B2G": "Redmi Note 9 Pro 国际版"
   }
  },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
   "models": {
-   "M2004J7AC": "Redmi 10X 5G China"
+   "M2004J7AC": "Redmi 10X 5G 全网通版"
   }
  },
  "bomb": {
   "internal_name": "J7B",
   "name": "Redmi 10X Pro 5G",
   "models": {
-   "M2004J7BC": "Redmi 10X Pro 5G China"
+   "M2004J7BC": "Redmi 10X Pro 5G 全网通版"
   }
  },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
   "models": {
-   "M1903F10I": "Redmi K20 India"
+   "M1903F10I": "Redmi K20 印度版"
   }
  },
  "raphaelin": {
   "internal_name": "F11",
   "name": "Redmi K20 Pro",
   "models": {
-   "M1903F11I": "Redmi K20 Pro India"
+   "M1903F11I": "Redmi K20 Pro 印度版"
   }
  },
  "raphaels": {
   "internal_name": "F11",
-  "name": "Redmi K20 Pro Premium Edition",
+  "name": "Redmi K20 Pro 尊享版",
   "models": {
-   "M1903F11A": "Redmi K20 Pro Premium Edition China"
+   "M1903F11A": "Redmi K20 Pro 尊享版 全网通版"
   }
  },
  "picasso": {
   "internal_name": "G7A",
   "name": "Redmi K30 5G",
   "models": {
-   "M2001G7AE": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
-   "M2001G7AC": "Redmi K30 5G China / Redmi K30i China"
+   "M2001G7AE": "Redmi K30 5G 全网通版 / Redmi K30 5G 极速版",
+   "M2001G7AC": "Redmi K30 5G 全网通版 / Redmi K30i 全网通版"
   }
  },
  "phoenix": {
   "internal_name": "G7B",
   "name": "Redmi K30 4G",
   "models": {
-   "M1912G7BE": "Redmi K30 4G China",
-   "M1912G7BC": "Redmi K30 4G Chinese Carrier Version"
+   "M1912G7BE": "Redmi K30 4G 全网通版",
+   "M1912G7BC": "Redmi K30 4G 运营商全网通版"
   }
  },
  "lmi": {
   "internal_name": "J11",
   "name": "Redmi K30 Pro/POCO F2 Pro",
   "models": {
-   "M2001J11C": "Redmi K30 Pro China",
+   "M2001J11C": "Redmi K30 Pro 全网通版",
    "M2004J11G": "POCO F2 Pro"
   }
  },
  "lmipro": {
   "internal_name": "J11",
-  "name": "Redmi K30 Pro Zoom Edition",
+  "name": "Redmi K30 Pro",
   "models": {
-   "M2001J11E": "Redmi K30 Pro Zoom Edition China"
+   "M2001J11E": "Redmi K30 Pro 变焦版 全网通版"
   }
  },
  "lmiin": {
   "internal_name": "J11",
   "name": "Redmi K30 Pro",
   "models": {
-   "M2001J11I": "Redmi K30 Pro India"
+   "M2001J11I": "Redmi K30 Pro 印度版"
   }
  },
  "lmiinpro": {
   "internal_name": "J11",
-  "name": "Redmi K30 Pro Zoom Edition",
+  "name": "Redmi K30 Pro",
   "models": {
-   "M2001J11I": "Redmi K30 Pro Zoom Edition India"
+   "M2001J11I": "Redmi K30 Pro 变焦版 印度版"
+  }
+ },
+ "cezanne": {
+  "internal_name": "J10",
+  "name": "Redmi K30 至尊纪念版",
+  "models": {
+   "M2006J10C": "Redmi K30 至尊纪念版 全网通版"
   }
  },
  "omega": {
   "internal_name": "H3C",
-  "name": "Redmi Pro",
+  "name": "红米 Pro",
   "models": {
-   "2016020": "Redmi Pro 32GB",
-   "2016021": "Redmi Pro 64GB / 128GB"
+   "2016020": "红米 Pro 标准版",
+   "2016021": "红米 Pro 高配版 / 尊享版"
   }
  },
  "ysl": {
   "internal_name": "E6",
-  "name": "Redmi S2 / Redmi Y2",
+  "name": "红米 S2 / 红米 Y2",
   "models": {
-   "M1803E6G, M1803E6H": "Redmi S2 Global",
-   "M1803E6I": "Redmi Y2 India",
-   "M1803E6E": "Redmi S2 China",
-   "M1803E6T": "Redmi S2 China Mobile",
-   "M1803E6C": "Redmi S2 China Unicom / China Telecom"
+   "M1803E6E": "红米 S2 全网通版",
+   "M1803E6T": "红米 S2 移动 4G+ 版",
+   "M1803E6C": "红米 S2 联通电信定制版",
+   "M1803E6G, M1803E6H": "红米 S2 国际版",
+   "M1803E6I": "红米 Y2 印度版"
   }
  },
  "onc": {
   "internal_name": "F6",
   "name": "Redmi Y3",
   "models": {
-   "M1810F6G": "Redmi Y3 Global",
-   "M1810F6I": "Redmi Y3 India"
+   "M1810F6G": "Redmi Y3 国际版",
+   "M1810F6I": "Redmi Y3 印度版"
   }
  },
  "tiare": {
   "internal_name": "C3G",
   "name": "Redmi Go",
   "models": {
-   "M1903C3GG, M1903C3GH": "Redmi Go Global",
-   "M1903C3GI": "Redmi Go India"
+   "M1903C3GG, M1903C3GH": "Redmi Go 国际版",
+   "M1903C3GI": "Redmi Go 印度版"
   }
  },
  "beryllium": {
@@ -1074,61 +1104,61 @@
   "internal_name": "G7B",
   "name": "POCO X2",
   "models": {
-   "M1912G7BI": "POCO X2 India"
+   "M1912G7BI": "POCO X2 印度版"
   }
  },
  "gram": {
   "internal_name": "J6C",
   "name": "POCO M2 Pro",
   "models": {
-   "M2003J6CI": "POCO M2 Pro India"
+   "M2003J6CI": "POCO M2 Pro 印度版"
   }
  },
  "shark": {
   "internal_name": "",
-  "name": "Black Shark (`shark`)",
+  "name": "黑鲨游戏手机",
   "models": {
-   "SKR-H0": "Black Shark Global",
-   "SKR-A0": "Black Shark China"
+   "SKR-A0": "黑鲨游戏手机 全网通版",
+   "SKR-H0": "黑鲨游戏手机 国际版"
   }
  },
  "bullhead": {
   "internal_name": "",
-  "name": "Black Shark Helo (`bullhead`)",
+  "name": "黑鲨游戏手机 Helo",
   "models": {
-   "AWM-A0": "Black Shark Helo China"
+   "AWM-A0": "黑鲨游戏手机 Helo"
   }
  },
  "skywalker": {
   "internal_name": "",
-  "name": "Black Shark 2 (`skywalker`)",
+  "name": "黑鲨游戏手机 2",
   "models": {
-   "SKW-H0": "Black Shark 2 Global",
-   "SKW-A0": "Black Shark 2 China"
+   "SKW-A0": "黑鲨游戏手机 2 全网通版",
+   "SKW-H0": "黑鲨游戏手机 2 国际版"
   }
  },
  "darklighter": {
   "internal_name": "",
-  "name": "Black Shark 2 Pro (`darklighter`)",
+  "name": "黑鲨游戏手机 2 Pro",
   "models": {
-   "DLT-H0": "Black Shark 2 Pro Global",
-   "DLT-A0": "Black Shark 2 Pro China"
+   "DLT-A0": "黑鲨游戏手机 2 Pro 全网通版",
+   "DLT-H0": "黑鲨游戏手机 2 Pro 国际版"
   }
  },
  "klein": {
   "internal_name": "",
-  "name": "Black Shark 3 (`klein`)/Black Shark 3S (`klein`)",
+  "name": "腾讯黑鲨游戏手机 3/腾讯黑鲨游戏手机 3S",
   "models": {
-   "KLE-H0": "Black Shark 3 Global",
-   "KLE-A0": "Black Shark 3S China"
+   "KLE-A0": "腾讯黑鲨游戏手机 3S 全网通版",
+   "KLE-H0": "黑鲨游戏手机 3 国际版"
   }
  },
  "mobius": {
   "internal_name": "",
-  "name": "Black Shark 3 Pro (`mobius`)",
+  "name": "腾讯黑鲨游戏手机 3 Pro",
   "models": {
-   "MBU-H0": "Black Shark 3 Pro Global",
-   "MBU-A0": "Black Shark 3 Pro China"
+   "MBU-A0": "腾讯黑鲨游戏手机 3 Pro 全网通版",
+   "MBU-H0": "黑鲨游戏手机 3 Pro 国际版"
   }
  }
 }
