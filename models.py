@@ -53,7 +53,7 @@ def main(lang='en'):
             if DEVICES[codename]:
                 DEVICES[codename]['internal_name'] = f"{DEVICES[codename]['internal_name']}/{internal}" \
                     if DEVICES[codename]['internal_name'] != internal else internal
-                DEVICES[codename]['name'] = f"{DEVICES[codename]['name']}/{name}"
+                DEVICES[codename]['name'] = f"{DEVICES[codename]['name']} / {name}"
                 DEVICES[codename]['models'] = {**DEVICES[codename]['models'], **models_}
         except KeyError:
             DEVICES.update({codename: info})
