@@ -1,7 +1,7 @@
 {
  "mione_plus": {
   "internal_name": "X1",
-  "name": "Mi 1/Mi 1S",
+  "name": "Mi 1 / Mi 1S",
   "models": {
    "MI-ONE PLUS": "Mi 1 WCDMA",
    "MI-ONE C1": "Mi 1 CDMA",
@@ -13,7 +13,7 @@
  },
  "aries": {
   "internal_name": "X2",
-  "name": "Mi 2/Mi 2S",
+  "name": "Mi 2 / Mi 2S",
   "models": {
    "2012061": "Mi 2 WCDMA",
    "2012062": "Mi 2 CDMA",
@@ -37,7 +37,7 @@
  },
  "cancro": {
   "internal_name": "X3W/X4",
-  "name": "Mi 3/Mi 4",
+  "name": "Mi 3 / Mi 4",
   "models": {
    "2013062": "Mi 3 WCDMA",
    "2013063": "Mi 3 CDMA",
@@ -198,7 +198,7 @@
  },
  "davinci": {
   "internal_name": "F10",
-  "name": "Mi 9T/Redmi K20",
+  "name": "Mi 9T / Redmi K20",
   "models": {
    "M1903F10G": "Mi 9T Global",
    "M1903F10A": "Redmi K20 China",
@@ -207,7 +207,7 @@
  },
  "raphael": {
   "internal_name": "F11",
-  "name": "Mi 9T Pro/Redmi K20 Pro",
+  "name": "Mi 9T Pro / Redmi K20 Pro",
   "models": {
    "M1903F11G": "Mi 9T Pro Global",
    "M1903F11A": "Redmi K20 Pro China",
@@ -216,7 +216,7 @@
  },
  "pyxis": {
   "internal_name": "F3B",
-  "name": "Mi 9 Lite/Mi CC 9",
+  "name": "Mi 9 Lite / Mi CC 9",
   "models": {
    "M1904F3BG": "Mi 9 Lite Global",
    "M1904F3BC": "Mi CC 9 China"
@@ -299,7 +299,7 @@
  },
  "tucana": {
   "internal_name": "F4",
-  "name": "Mi Note 10/Mi CC 9 Pro",
+  "name": "Mi Note 10 / Mi CC 9 Pro",
   "models": {
    "M1910F4G": "Mi Note 10 Global",
    "M1910F4S": "Mi Note 10 Pro Global",
@@ -463,7 +463,7 @@
  },
  "clover": {
   "internal_name": "D9/D9P",
-  "name": "Mi Pad 4/Mi Pad 4 Plus",
+  "name": "Mi Pad 4 / Mi Pad 4 Plus",
   "models": {
    "M1806D9W": "Mi Pad 4 Wi-Fi",
    "M1806D9E": "Mi Pad 4 LTE",
@@ -508,7 +508,7 @@
  },
  "wt86047": {
   "internal_name": "H2X",
-  "name": "Redmi 2/Redmi 2A",
+  "name": "Redmi 2 / Redmi 2A",
   "models": {
    "2014813, 2014112": "Redmi 2 China Mobile",
    "2014816": "Redmi 2A Prime (Snapdragon 410)"
@@ -547,7 +547,7 @@
  },
  "land": {
   "internal_name": "A12",
-  "name": "Redmi 3S/Redmi 3X",
+  "name": "Redmi 3S / Redmi 3X",
   "models": {
    "2016031": "Redmi 3S Global",
    "2016037": "Redmi 3S India",
@@ -604,7 +604,7 @@
  },
  "vince": {
   "internal_name": "E7",
-  "name": "Redmi 5 Plus/Redmi Note 5",
+  "name": "Redmi 5 Plus / Redmi Note 5",
   "models": {
    "MEG7": "Redmi 5 Plus Global",
    "MEE7": "Redmi 5 Plus China",
@@ -810,7 +810,7 @@
  },
  "nikel": {
   "internal_name": "B6L/B6A",
-  "name": "Redmi Note 4/Redmi Note 4X",
+  "name": "Redmi Note 4 / Redmi Note 4X",
   "models": {
    "2016050": "Redmi Note 4 (Mediatek)",
    "2016051": "Redmi Note 4 (Mediatek) China Mobile",
@@ -920,7 +920,7 @@
  },
  "merlin": {
   "internal_name": "J15S",
-  "name": "Redmi Note 9/Redmi 10X 4G",
+  "name": "Redmi Note 9 / Redmi 10X 4G",
   "models": {
    "M2003J15SS": "Redmi Note 9 Global (No NFC)",
    "M2003J15SC": "Redmi 10X 4G China"
@@ -1016,7 +1016,7 @@
  },
  "lmi": {
   "internal_name": "J11",
-  "name": "Redmi K30 Pro/POCO F2 Pro",
+  "name": "Redmi K30 Pro / POCO F2 Pro",
   "models": {
    "M2001J11C": "Redmi K30 Pro China",
    "M2004J11G": "POCO F2 Pro"
@@ -1139,7 +1139,7 @@
  },
  "klein": {
   "internal_name": "",
-  "name": "Black Shark 3/Black Shark 3S",
+  "name": "Black Shark 3 / Black Shark 3S",
   "models": {
    "KLE-H0": "Black Shark 3 Global",
    "KLE-A0": "Black Shark 3S China"

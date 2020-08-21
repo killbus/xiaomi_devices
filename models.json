@@ -1,7 +1,7 @@
 {
  "mione_plus": {
   "internal_name": "X1",
-  "name": "小米 1/小米 1S",
+  "name": "小米 1 / 小米 1S",
   "models": {
    "MI-ONE PLUS": "小米 1 联通版",
    "MI-ONE C1": "小米 1 电信版",
@@ -13,7 +13,7 @@
  },
  "aries": {
   "internal_name": "X2",
-  "name": "小米 2/小米 2S",
+  "name": "小米 2 / 小米 2S",
   "models": {
    "2012061": "小米 2 联通版",
    "2012062": "小米 2 电信版",
@@ -37,7 +37,7 @@
  },
  "cancro": {
   "internal_name": "X3W/X4",
-  "name": "小米 3/小米 4",
+  "name": "小米 3 / 小米 4",
   "models": {
    "2013062": "小米 3 联通版",
    "2013063": "小米 3 电信版",
@@ -199,7 +199,7 @@
  },
  "davinci": {
   "internal_name": "F10",
-  "name": "小米 9T/Redmi K20",
+  "name": "小米 9T / Redmi K20",
   "models": {
    "M1903F10G": "小米 9T 国际版",
    "M1903F10A": "Redmi K20 全网通版",
@@ -208,7 +208,7 @@
  },
  "raphael": {
   "internal_name": "F11",
-  "name": "小米 9T Pro/Redmi K20 Pro",
+  "name": "小米 9T Pro / Redmi K20 Pro",
   "models": {
    "M1903F11G": "小米 9T Pro 国际版",
    "M1903F11A": "Redmi K20 Pro 全网通版",
@@ -217,7 +217,7 @@
  },
  "pyxis": {
   "internal_name": "F3B",
-  "name": "小米 9 Lite/小米 CC9",
+  "name": "小米 9 Lite / 小米 CC9",
   "models": {
    "M1904F3BG": "小米 9 Lite 国际版",
    "M1904F3BC": "小米 CC9 全网通版"
@@ -302,7 +302,7 @@
  },
  "tucana": {
   "internal_name": "F4",
-  "name": "小米 Note 10/小米 CC9 Pro",
+  "name": "小米 Note 10 / 小米 CC9 Pro",
   "models": {
    "M1910F4G": "小米 Note 10 国际版",
    "M1910F4S": "小米 Note 10 Pro 国际版",
@@ -466,7 +466,7 @@
  },
  "clover": {
   "internal_name": "D9/D9P",
-  "name": "小米平板 4/小米平板 4 Plus",
+  "name": "小米平板 4 / 小米平板 4 Plus",
   "models": {
    "M1806D9W": "小米平板 4 Wi-Fi 版",
    "M1806D9E": "小米平板 4 LTE 版",
@@ -511,7 +511,7 @@
  },
  "wt86047": {
   "internal_name": "H2X",
-  "name": "红米 2/红米 2A",
+  "name": "红米 2 / 红米 2A",
   "models": {
    "2014813": "红米 2 移动版",
    "2014112": "红米 2 移动合约版",
@@ -552,7 +552,7 @@
  },
  "land": {
   "internal_name": "A12",
-  "name": "红米 3S/红米 3X",
+  "name": "红米 3S / 红米 3X",
   "models": {
    "2016030": "红米 3S 全网通版",
    "2016031": "红米 3S 国际版",
@@ -609,7 +609,7 @@
  },
  "vince": {
   "internal_name": "E7",
-  "name": "红米 5 Plus/红米 Note 5",
+  "name": "红米 5 Plus / 红米 Note 5",
   "models": {
    "MEE7": "红米 5 Plus 全网通版",
    "MET7": "红米 5 Plus 移动 4G+ 版",
@@ -818,7 +818,7 @@
  },
  "nikel": {
   "internal_name": "B6L/B6A",
-  "name": "红米 Note 4/红米 Note 4X",
+  "name": "红米 Note 4 / 红米 Note 4X",
   "models": {
    "2016050": "红米 Note 4 全网通版",
    "2016051": "红米 Note 4 移动版",
@@ -928,7 +928,7 @@
  },
  "merlin": {
   "internal_name": "J15S",
-  "name": "Redmi Note 9/Redmi 10X 4G",
+  "name": "Redmi Note 9 / Redmi 10X 4G",
   "models": {
    "M2003J15SS": "Redmi Note 9 国际版 (无 NFC)",
    "M2003J15SC": "Redmi 10X 4G 全网通版"
@@ -1024,7 +1024,7 @@
  },
  "lmi": {
   "internal_name": "J11",
-  "name": "Redmi K30 Pro/POCO F2 Pro",
+  "name": "Redmi K30 Pro / POCO F2 Pro",
   "models": {
    "M2001J11C": "Redmi K30 Pro 全网通版",
    "M2004J11G": "POCO F2 Pro"
@@ -1147,7 +1147,7 @@
  },
  "klein": {
   "internal_name": "",
-  "name": "腾讯黑鲨游戏手机 3/腾讯黑鲨游戏手机 3S",
+  "name": "腾讯黑鲨游戏手机 3 / 腾讯黑鲨游戏手机 3S",
   "models": {
    "KLE-A0": "腾讯黑鲨游戏手机 3S 全网通版",
    "KLE-H0": "黑鲨游戏手机 3 国际版"
