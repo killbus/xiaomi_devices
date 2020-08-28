@@ -1010,7 +1010,14 @@
   "name": "Redmi K30 5G",
   "models": {
    "M2001G7AE": "Redmi K30 5G China / Redmi K30 5G Speed Edition China",
-   "M2001G7AC": "Redmi K30 5G China / Redmi K30i China"
+   "M2001G7AC": "Redmi K30 5G China"
+  }
+ },
+ "picasso48m": {
+  "internal_name": "G7A",
+  "name": "Redmi K30i 5G",
+  "models": {
+   "M2001G7AC": "Redmi K30i 5G China"
   }
  },
  "phoenix": {
