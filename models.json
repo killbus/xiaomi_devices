@@ -728,7 +728,8 @@
   "models": {
    "M2006C3LC": "Redmi 9A 全网通版",
    "M2006C3LG": "Redmi 9A 国际版",
-   "M2006C3LVG": "Redmi 9AT 国际版"
+   "M2006C3LVG": "Redmi 9AT 国际版",
+   "M2006C3LI": "Redmi 9A 印度版"
   }
  },
  "angelica": {
@@ -745,11 +746,11 @@
    "M2006C3MNG": "Redmi 9C NFC 国际版"
   }
  },
- "angelicain": {
-  "internal_name": "C3M",
+ "cattail": {
+  "internal_name": "C3MI",
   "name": "Redmi 9",
   "models": {
-   "M2006C3MI": "Redmi 9 印度版"
+   "M2006C3MII": "Redmi 9 印度版"
   }
  },
  "lcsh92_wet_gb9": {
