@@ -1123,6 +1123,13 @@
    "M1912G7BI": "POCO X2 印度版"
   }
  },
+ "karna": {
+  "internal_name": "J20C",
+  "name": "POCO X3",
+  "models": {
+   "M2007J20CI": "POCO X3 印度版"
+  }
+ },
  "surya": {
   "internal_name": "J20C",
   "name": "POCO X3 NFC",
