@@ -3,9 +3,9 @@
   "internal_name": "X1",
   "name": "Mi 1 / Mi 1S",
   "models": {
+   "MI-ONE PLUS": "Mi 1 WCDMA",
+   "MI-ONE C1": "Mi 1 CDMA",
    "MI-ONE": "Mi 1 Lite",
-   "PLUS": "Mi 1 WCDMA",
-   "C1": "Mi 1 CDMA",
    "2012051": "Mi 1S WCDMA",
    "2012053": "Mi 1S CDMA",
    "2012052": "Mi 1S Lite"
