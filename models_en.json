@@ -3,9 +3,9 @@
   "internal_name": "X1",
   "name": "Mi 1 / Mi 1S",
   "models": {
-   "MI-ONE PLUS": "Mi 1 WCDMA",
-   "MI-ONE C1": "Mi 1 CDMA",
    "MI-ONE": "Mi 1 Lite",
+   "PLUS": "Mi 1 WCDMA",
+   "C1": "Mi 1 CDMA",
    "2012051": "Mi 1S WCDMA",
    "2012053": "Mi 1S CDMA",
    "2012052": "Mi 1S Lite"
@@ -51,7 +51,8 @@
   "internal_name": "X4LTE-CT",
   "name": "Mi 4",
   "models": {
-   "2014716` `2014726": "Mi 4 LTE China Telecom"
+   "2014716": "Mi 4 LTE China Telecom",
+   "2014726": "Mi 4 LTE China Telecom"
   }
  },
  "ferrari": {
@@ -228,7 +229,8 @@
   "models": {
    "M2001J2G": "Mi 10 Global",
    "M2001J2I": "Mi 10 India",
-   "M2001J2E` `M2001J2C": "Mi 10 China"
+   "M2001J2E": "Mi 10 China",
+   "M2001J2C": "Mi 10 China"
   }
  },
  "cmi": {
@@ -236,7 +238,8 @@
   "name": "Mi 10 Pro",
   "models": {
    "M2001J1G": "Mi 10 Pro Global",
-   "M2001J1E` `M2001J1C": "Mi 10 Pro China"
+   "M2001J1E": "Mi 10 Pro China",
+   "M2001J1C": "Mi 10 Pro China"
   }
  },
  "monet": {
@@ -286,7 +289,8 @@
   "name": "Mi Note",
   "models": {
    "2015011": "Mi Note Global",
-   "2014616` `201461`9": "Mi Note China",
+   "2014616": "Mi Note China",
+   "2014619": "Mi Note China",
    "2014618": "Mi Note China Mobile",
    "2014617": "Mi Note China Unicom"
   }
@@ -295,7 +299,8 @@
   "internal_name": "X7",
   "name": "Mi Note Pro",
   "models": {
-   "2015021` `2015022": "Mi Note Pro",
+   "2015021": "Mi Note Pro",
+   "2015022": "Mi Note Pro",
    "2015501": "Mi Note Pro China Mobile"
   }
  },
@@ -529,7 +534,8 @@
   "internal_name": "H2X",
   "name": "Redmi 2 / Redmi 2A",
   "models": {
-   "2014813` `2014112": "Redmi 2 China Mobile",
+   "2014813": "Redmi 2 China Mobile",
+   "2014112": "Redmi 2 China Mobile",
    "2014816": "Redmi 2A Prime (Snapdragon 410)"
   }
  },
@@ -541,7 +547,8 @@
    "2014818": "Redmi 2 India",
    "2014819": "Redmi 2 Brazil",
    "2014811": "Redmi 2 China Unicom",
-   "2014812` `2014821": "Redmi 2 China Telecom"
+   "2014812": "Redmi 2 China Telecom",
+   "2014821": "Redmi 2 China Telecom"
   }
  },
  "lte26007": {
@@ -549,7 +556,8 @@
   "name": "Redmi 2A",
   "models": {
    "2014502": "Redmi 2A",
-   "2014512` `2014055": "Redmi 2A Prime"
+   "2014512": "Redmi 2A Prime",
+   "2014055": "Redmi 2A Prime"
   }
  },
  "ido_xhdpi": {
@@ -557,10 +565,12 @@
   "name": "Redmi 3",
   "models": {
    "2015816": "Redmi 3 Global",
-   "2015811` `2015815": "Redmi 3 China",
+   "2015811": "Redmi 3 China",
+   "2015815": "Redmi 3 China",
    "2015812": "Redmi 3 China Mobile",
    "2015810": "Redmi 3 China Unicom",
-   "2015817` `2015819": "Redmi 3 Prime China",
+   "2015817": "Redmi 3 Prime China",
+   "2015819": "Redmi 3 Prime China",
    "2015818": "Redmi 3 Prime China Unicom"
   }
  },
@@ -645,7 +655,8 @@
   "internal_name": "C3D",
   "name": "Redmi 6",
   "models": {
-   "M1804C3DG` `M1804C3DH": "Redmi 6 Global",
+   "M1804C3DG": "Redmi 6 Global",
+   "M1804C3DH": "Redmi 6 Global",
    "M1804C3DI": "Redmi 6 India",
    "M1804C3DE": "Redmi 6 China",
    "M1804C3DT": "Redmi 6 China Mobile",
@@ -666,7 +677,8 @@
   "internal_name": "C3C",
   "name": "Redmi 6A",
   "models": {
-   "M1804C3CG` `M1804C3CH": "Redmi 6A Global",
+   "M1804C3CG": "Redmi 6A Global",
+   "M1804C3CH": "Redmi 6A Global",
    "M1804C3CI": "Redmi 6A India",
    "M1804C3CE": "Redmi 6A China",
    "M1804C3CT": "Redmi 6A China Mobile",
@@ -677,7 +689,8 @@
   "internal_name": "F6L",
   "name": "Redmi 7",
   "models": {
-   "M1810F6LG` `M1810F6LH": "Redmi 7 Global",
+   "M1810F6LG": "Redmi 7 Global",
+   "M1810F6LH": "Redmi 7 Global",
    "M1810F6LI": "Redmi 7 India",
    "M1810F6LE": "Redmi 7 China",
    "M1810F6LT": "Redmi 7 Chinese Carrier Version"
@@ -687,7 +700,8 @@
   "internal_name": "C3E",
   "name": "Redmi 7A",
   "models": {
-   "M1903C3EG` `M1903C3EH": "Redmi 7A Global",
+   "M1903C3EG": "Redmi 7A Global",
+   "M1903C3EH": "Redmi 7A Global",
    "M1903C3EI": "Redmi 7A India",
    "M1903C3EE": "Redmi 7A China",
    "M1903C3ET": "Redmi 7A China Mobile",
@@ -698,7 +712,8 @@
   "internal_name": "C3I",
   "name": "Redmi 8",
   "models": {
-   "M1908C3IG` `M1908C3IH": "Redmi 8 Global",
+   "M1908C3IG": "Redmi 8 Global",
+   "M1908C3IH": "Redmi 8 Global",
    "M1908C3II": "Redmi 8 India",
    "M1908C3IE": "Redmi 8 China",
    "M1908C3IC": "Redmi 8 Chinese Carrier Version"
@@ -708,7 +723,8 @@
   "internal_name": "C3K",
   "name": "Redmi 8A",
   "models": {
-   "M1908C3KG` `M1908C3KH": "Redmi 8A Global",
+   "M1908C3KG": "Redmi 8A Global",
+   "M1908C3KH": "Redmi 8A Global",
    "M1908C3KI": "Redmi 8A India",
    "M1908C3KE": "Redmi 8A China"
   }
@@ -800,8 +816,10 @@
   "name": "Redmi Note 1S / Redmi Note Prime",
   "models": {
    "2014912": "Redmi Note 1S China Unicom / Redmi Note Prime India",
-   "2014915` `2014911": "Redmi Note 1S China Mobile",
-   "2014916` `2014910": "Redmi Note 1S China Telecom"
+   "2014915": "Redmi Note 1S China Mobile",
+   "2014911": "Redmi Note 1S China Mobile",
+   "2014916": "Redmi Note 1S China Telecom",
+   "2014910": "Redmi Note 1S China Telecom"
   }
  },
  "hermes": {
@@ -810,7 +828,8 @@
   "models": {
    "2015051": "Redmi Note 2 (16GB)",
    "2015712": "Redmi Note 2 (32GB)",
-   "2015052` `2015055": "Redmi Note 2 (16GB) China Mobile",
+   "2015052": "Redmi Note 2 (16GB) China Mobile",
+   "2015055": "Redmi Note 2 (16GB) China Mobile",
    "2015056": "Redmi Note 2 (32GB) China Mobile"
   }
  },
@@ -827,7 +846,8 @@
   "name": "Redmi Note 3",
   "models": {
    "2015116": "Redmi Note 3 (Qualcomm) Global",
-   "2015112` `2015115": "Redmi Note 3 (Qualcomm) China"
+   "2015112": "Redmi Note 3 (Qualcomm) China",
+   "2015115": "Redmi Note 3 (Qualcomm) China"
   }
  },
  "kate": {
@@ -851,7 +871,8 @@
   "internal_name": "C6",
   "name": "Redmi Note 4 / Redmi Note 4X",
   "models": {
-   "2016100` `2016102": "Redmi Note 4 (Qualcomm) Global",
+   "2016100": "Redmi Note 4 (Qualcomm) Global",
+   "2016102": "Redmi Note 4 (Qualcomm) Global",
    "2016101": "Redmi Note 4X (Qualcomm) China",
    "2016130": "Redmi Note 4X (Qualcomm) China Mobile"
   }
@@ -860,7 +881,8 @@
   "internal_name": "E7S",
   "name": "Redmi Note 5 / Redmi Note 5 Pro",
   "models": {
-   "M1803E7SG` `M1803E7SH": "Redmi Note 5 Global",
+   "M1803E7SG": "Redmi Note 5 Global",
+   "M1803E7SH": "Redmi Note 5 Global",
    "MEI7S": "Redmi Note 5 Pro India",
    "MEE7S": "Redmi Note 5 China",
    "MET7S": "Redmi Note 5 China Mobile",
@@ -891,7 +913,8 @@
   "internal_name": "E7T",
   "name": "Redmi Note 6 Pro",
   "models": {
-   "M1806E7TG` `M1806E7TH": "Redmi Note 6 Pro Global",
+   "M1806E7TG": "Redmi Note 6 Pro Global",
+   "M1806E7TH": "Redmi Note 6 Pro Global",
    "M1806E7TI": "Redmi Note 6 Pro India"
   }
  },
@@ -899,7 +922,8 @@
   "internal_name": "F7A",
   "name": "Redmi Note 7 / Redmi Note 7S",
   "models": {
-   "M1901F7G` `M1901F7H": "Redmi Note 7 Global",
+   "M1901F7G": "Redmi Note 7 Global",
+   "M1901F7H": "Redmi Note 7 Global",
    "M1901F7I": "Redmi Note 7 / Redmi Note 7S India",
    "M1901F7E": "Redmi Note 7 China",
    "M1901F7T": "Redmi Note 7 China Mobile",
@@ -918,7 +942,8 @@
   "internal_name": "C3J",
   "name": "Redmi Note 8",
   "models": {
-   "M1908C3JG` `M1908C3JH": "Redmi Note 8 Global",
+   "M1908C3JG": "Redmi Note 8 Global",
+   "M1908C3JH": "Redmi Note 8 Global",
    "M1908C3JI": "Redmi Note 8 India",
    "M1908C3JE": "Redmi Note 8 China",
    "M1908C3JC": "Redmi Note 8 Chinese Carrier Version"
@@ -1078,7 +1103,8 @@
   "internal_name": "E6",
   "name": "Redmi S2 / Redmi Y2",
   "models": {
-   "M1803E6G` `M1803E6H": "Redmi S2 Global",
+   "M1803E6G": "Redmi S2 Global",
+   "M1803E6H": "Redmi S2 Global",
    "M1803E6I": "Redmi Y2 India",
    "M1803E6E": "Redmi S2 China",
    "M1803E6T": "Redmi S2 China Mobile",
@@ -1097,7 +1123,8 @@
   "internal_name": "C3G",
   "name": "Redmi Go",
   "models": {
-   "M1903C3GG` `M1903C3GH": "Redmi Go Global",
+   "M1903C3GG": "Redmi Go Global",
+   "M1903C3GH": "Redmi Go Global",
    "M1903C3GI": "Redmi Go India"
   }
  },
