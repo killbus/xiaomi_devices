@@ -45,9 +45,10 @@ def main(lang='en'):
         info.update({"name": name})
         models_ = {}
         for i in models:
-            model = i.split(':')[0].strip().strip('`').strip()
-            model_name = i.split(':')[1].strip()
-            models_.update({model: model_name})
+            model_list = i.split(':')[0].replace(r'`', '').strip().split(' ')
+            for model in model_list:
+                model_name = i.split(':')[1].strip()
+                models_.update({model: model_name})
         info.update({"models": models_})
         try:
             if DEVICES[codename]:
