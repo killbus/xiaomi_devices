@@ -45,7 +45,8 @@ def main(lang='en'):
         info.update({"name": name})
         models_ = {}
         for i in models:
-            model_list = i.split(':')[0].strip().split(' ')
+            model_list = re.split(r'`\ +`', i.split(':')[0].strip())
+            model_list = [i for i in model_list if i.strip().strip(r'`').strip()]
             for model in model_list:
                 model = model.replace(r'`', '').strip()
                 model_name = i.split(':')[1].strip()
