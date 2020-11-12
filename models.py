@@ -45,7 +45,7 @@ def main(lang='en'):
         info.update({"name": name})
         models_ = {}
         for i in models:
-            model = i.split(':')[0].strip()
+            model = i.split(':')[0].strip().strip('`').strip()
             model_name = i.split(':')[1].strip()
             models_.update({model: model_name})
         info.update({"models": models_})
