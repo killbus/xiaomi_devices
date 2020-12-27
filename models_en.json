@@ -291,6 +291,14 @@
    "M2007J17I": "Mi 10i India"
   }
  },
+ "venus": {
+  "internal_name": "K2",
+  "name": "Mi 11",
+  "models": {
+   "M2011K2G": "Mi 11 Global",
+   "M2011K2C": "Mi 11 China"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "Mi Note",
@@ -1015,7 +1023,8 @@
   "internal_name": "J22",
   "name": "Redmi Note 9T",
   "models": {
-   "M2007J22G": "Redmi Note 9T 5G Global"
+   "M2007J22G": "Redmi Note 9T 5G Global",
+   "M2007J22R": "Redmi Note 9T 5G Global"
   }
  },
  "curtana": {
