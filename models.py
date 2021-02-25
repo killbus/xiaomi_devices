@@ -16,7 +16,7 @@ def main(lang='en'):
         filename = f'{filestem}_{lang}.md'
     else:
         filename = f'{filestem}.md'
-    data = get("https://raw.githubusercontent.com/KHwang9883/MobileModels/" +
+    data = get("https://raw.githubusercontent.com/killbus/MobileModels/" +
                f"master/brands/{filename}").text
     data = [i for i in data.splitlines() if not str(i).startswith('#') and i]
     data = '\n'.join(data).replace('\n\n', '\n').replace('\n\n', '\n')
