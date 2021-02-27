@@ -805,12 +805,18 @@
   "name": "Redmi 9T / Redmi 9 Power / Redmi Note 9 4G",
   "models": {
    "M2010J19SG": "Redmi 9T 国际版",
-   "M2010J19SY": "Redmi 9T 国际版",
    "M2010J19SI": "Redmi 9 Power 印度版",
    "M2010J19SR": "Redmi 9T 日本版",
    "M2010J19ST": "Redmi 9T 泰国版",
    "M2010J19SL": "Redmi 9T 巴西版",
    "M2010J19SC": "Redmi Note 9 4G 全网通版"
+  }
+ },
+ "lemon": {
+  "internal_name": "J19S",
+  "name": "Redmi 9T",
+  "models": {
+   "M2010J19SY": "Redmi 9T 国际版"
   }
  },
  "lcsh92_wet_gb9": {
