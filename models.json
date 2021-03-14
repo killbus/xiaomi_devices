@@ -243,7 +243,7 @@
   }
  },
  "vangogh": {
-  "internal_name": "J9",
+  "internal_name": "J9A",
   "name": "小米 10 青春版",
   "models": {
    "M2002J9E": "小米 10 青春版 全网通版"
@@ -1191,6 +1191,7 @@
   "internal_name": "J11",
   "name": "Redmi K30 Pro",
   "models": {
+   "M2001J11C": "Redmi K30 Pro 变焦版 全网通版",
    "M2001J11E": "Redmi K30 Pro 变焦版 全网通版"
   }
  },
