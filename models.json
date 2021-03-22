@@ -1184,7 +1184,7 @@
   "name": "Redmi K30 Pro / POCO F2 Pro",
   "models": {
    "M2001J11C": "Redmi K30 Pro 全网通版",
-   "M2004J11G": "POCO F2 Pro"
+   "M2004J11G": "POCO F2 Pro 国际版"
   }
  },
  "lmipro": {
@@ -1204,16 +1204,18 @@
  },
  "alioth": {
   "internal_name": "K11A",
-  "name": "Redmi K40",
+  "name": "Redmi K40 / POCO F3",
   "models": {
-   "M2012K11AC": "Redmi K40 全网通版"
+   "M2012K11AC": "Redmi K40 全网通版",
+   "M2012K11AG": "POCO F3 国际版"
   }
  },
  "haydn": {
   "internal_name": "K11",
-  "name": "Redmi K40 Pro / Redmi K40 Pro+",
+  "name": "Redmi K40 Pro / Redmi K40 Pro+ / POCO F3 Pro",
   "models": {
-   "M2012K11C": "Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版"
+   "M2012K11C": "Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版",
+   "M2012K11G": "POCO F3 Pro 国际版"
   }
  },
  "omega": {
@@ -1280,6 +1282,13 @@
   "models": {
    "M2007J20CG": "POCO X3 NFC 国际版",
    "M2007J20CT": "POCO X3 NFC 泰国版"
+  }
+ },
+ "vayu": {
+  "internal_name": "J20S",
+  "name": "POCO X3 Pro",
+  "models": {
+   "M2102J20SG": "POCO X3 Pro 国际版"
   }
  },
  "shiva": {
@@ -1357,6 +1366,20 @@
   "models": {
    "MBU-A0": "腾讯黑鲨游戏手机 3 Pro 全网通版",
    "MBU-H0": "黑鲨游戏手机 3 Pro 国际版"
+  }
+ },
+ "penrose": {
+  "internal_name": "",
+  "name": "黑鲨游戏手机 4",
+  "models": {
+   "PRS-A0": "黑鲨游戏手机 4 全网通版"
+  }
+ },
+ "kaiser": {
+  "internal_name": "",
+  "name": "黑鲨游戏手机 4 Pro",
+  "models": {
+   "KSR-A0": "黑鲨游戏手机 4 Pro 全网通版"
   }
  }
 }
