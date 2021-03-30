@@ -453,6 +453,13 @@
    "M1810E5GG": "小米 MIX 3 5G"
   }
  },
+ "cetus": {
+  "internal_name": "J18",
+  "name": "小米 MIX Fold",
+  "models": {
+   "M2011J18C": "小米 MIX Fold"
+  }
+ },
  "hydrogen": {
   "internal_name": "B3",
   "name": "小米 Max",
@@ -1335,6 +1342,13 @@
   "name": "POCO X3 Pro",
   "models": {
    "M2102J20SG": "POCO X3 Pro 国际版"
+  }
+ },
+ "bhima": {
+  "internal_name": "J20S",
+  "name": "POCO X3 Pro",
+  "models": {
+   "M2102J20SI": "POCO X3 Pro 印度版"
   }
  },
  "shiva": {
