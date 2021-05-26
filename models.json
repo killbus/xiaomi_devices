@@ -1088,7 +1088,7 @@
  },
  "cannon": {
   "internal_name": "J22",
-  "name": "Redmi Note 9 5G",
+  "name": "Redmi Note 9",
   "models": {
    "M2007J22C": "Redmi Note 9 5G 全网通版"
   }
@@ -1179,6 +1179,13 @@
    "M2101K7BL": "Redmi Note 10S 巴西版"
   }
  },
+ "camellia": {
+  "internal_name": "K19",
+  "name": "Redmi Note 10",
+  "models": {
+   "M2103K19C": "Redmi Note 10 5G 全网通版"
+  }
+ },
  "camellian": {
   "internal_name": "K19/K19P",
   "name": "Redmi Note 10 5G / POCO M3 Pro",
@@ -1204,6 +1211,13 @@
   "models": {
    "M2101K6P": "Redmi Note 10 Pro 印度版",
    "M2101K6I": "Redmi Note 10 Pro Max 印度版"
+  }
+ },
+ "chopin": {
+  "internal_name": "K10A",
+  "name": "Redmi Note 10 Pro",
+  "models": {
+   "M2104K10AC": "Redmi Note 10 Pro 5G 全网通版"
   }
  },
  "atom": {
@@ -1463,7 +1477,8 @@
   "internal_name": "",
   "name": "黑鲨游戏手机 4",
   "models": {
-   "PRS-A0": "黑鲨游戏手机 4 全网通版"
+   "PRS-A0": "黑鲨游戏手机 4 全网通版",
+   "PRS-H0": "黑鲨游戏手机 4 国际版"
   }
  },
  "kaiser": {
