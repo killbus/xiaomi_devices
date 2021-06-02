@@ -1188,12 +1188,20 @@
  },
  "camellian": {
   "internal_name": "K19/K19P",
-  "name": "Redmi Note 10 5G / POCO M3 Pro",
+  "name": "Redmi Note 10 5G / Redmi Note 10T / POCO M3 Pro",
   "models": {
    "M2103K19G": "Redmi Note 10 5G 国际版",
-   "M2103K19Y": "Redmi Note 10 5G 国际版",
+   "M2103K19Y": "Redmi Note 10T 国际版",
    "M2103K19PG": "POCO M3 Pro 5G 国际版",
    "M2103K19PY": "POCO M3 Pro 5G 国际版"
+  }
+ },
+ "camelliain": {
+  "internal_name": "K19/K19P",
+  "name": "Redmi Note 10 5G / POCO M3 Pro",
+  "models": {
+   "M2103K19I": "Redmi Note 10 5G 印度版",
+   "M2103K19PI": "POCO M3 Pro 5G 印度版"
   }
  },
  "sweet": {
