@@ -1469,31 +1469,31 @@
   "internal_name": "",
   "name": "Black Shark 3 / Black Shark 3S",
   "models": {
-   "KLE-H0": "Black Shark 3 Global",
-   "KLE-A0": "Black Shark 3S China"
+   "SHARK KLE-H0": "Black Shark 3 Global",
+   "SHARK KLE-A0": "Black Shark 3S China"
   }
  },
  "mobius": {
   "internal_name": "",
   "name": "Black Shark 3 Pro",
   "models": {
-   "MBU-H0": "Black Shark 3 Pro Global",
-   "MBU-A0": "Black Shark 3 Pro China"
+   "SHARK MBU-H0": "Black Shark 3 Pro Global",
+   "SHARK MBU-A0": "Black Shark 3 Pro China"
   }
  },
  "penrose": {
   "internal_name": "",
   "name": "Black Shark 4",
   "models": {
-   "PRS-H0": "Black Shark 4 Global",
-   "PRS-A0": "Black Shark 4 China"
+   "SHARK PRS-H0": "Black Shark 4 Global",
+   "SHARK PRS-A0": "Black Shark 4 China"
   }
  },
  "kaiser": {
   "internal_name": "",
   "name": "Black Shark 4 Pro",
   "models": {
-   "KSR-A0": "Black Shark 4 Pro China"
+   "SHARK KSR-A0": "Black Shark 4 Pro China"
   }
  }
 }

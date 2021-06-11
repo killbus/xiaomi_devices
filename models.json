@@ -1469,31 +1469,31 @@
   "internal_name": "",
   "name": "腾讯黑鲨游戏手机 3 / 腾讯黑鲨游戏手机 3S",
   "models": {
-   "KLE-A0": "腾讯黑鲨游戏手机 3S 全网通版",
-   "KLE-H0": "黑鲨游戏手机 3 国际版"
+   "SHARK KLE-A0": "腾讯黑鲨游戏手机 3S 全网通版",
+   "SHARK KLE-H0": "黑鲨游戏手机 3 国际版"
   }
  },
  "mobius": {
   "internal_name": "",
   "name": "腾讯黑鲨游戏手机 3 Pro",
   "models": {
-   "MBU-A0": "腾讯黑鲨游戏手机 3 Pro 全网通版",
-   "MBU-H0": "黑鲨游戏手机 3 Pro 国际版"
+   "SHARK MBU-A0": "腾讯黑鲨游戏手机 3 Pro 全网通版",
+   "SHARK MBU-H0": "黑鲨游戏手机 3 Pro 国际版"
   }
  },
  "penrose": {
   "internal_name": "",
   "name": "黑鲨游戏手机 4",
   "models": {
-   "PRS-A0": "黑鲨游戏手机 4 全网通版",
-   "PRS-H0": "黑鲨游戏手机 4 国际版"
+   "SHARK PRS-A0": "黑鲨游戏手机 4 全网通版",
+   "SHARK PRS-H0": "黑鲨游戏手机 4 国际版"
   }
  },
  "kaiser": {
   "internal_name": "",
   "name": "黑鲨游戏手机 4 Pro",
   "models": {
-   "KSR-A0": "黑鲨游戏手机 4 Pro 全网通版"
+   "SHARK KSR-A0": "黑鲨游戏手机 4 Pro 全网通版"
   }
  }
 }
