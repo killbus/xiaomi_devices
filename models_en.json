@@ -248,8 +248,8 @@
   "models": {
    "M2002J9G": "Mi 10 Lite Global",
    "M2002J9S": "Mi 10 Lite Korea",
-   "M2002J9R": "Mi 10 Lite Japan",
-   "XIG01": "Mi 10 Lite Japan (NTT docomo)"
+   "M2002J9R": "Mi 10 Lite Japan (KDDI)",
+   "XIG01": "Mi 10 Lite Japan (KDDI)"
   }
  },
  "vangogh": {
@@ -1114,7 +1114,7 @@
   "name": "Redmi Note 9T",
   "models": {
    "M2007J22G": "Redmi Note 9T 5G Global",
-   "M2007J22R": "Redmi Note 9T 5G Japan",
+   "M2007J22R": "Redmi Note 9T 5G Japan (SoftBank)",
    "A001XM": "Redmi Note 9T 5G Japan (SoftBank)"
   }
  },

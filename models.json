@@ -255,8 +255,8 @@
   "models": {
    "M2002J9G": "小米 10 Lite 国际版",
    "M2002J9S": "小米 10 Lite 韩国版",
-   "M2002J9R": "小米 10 Lite 日本版",
-   "XIG01": "小米 10 Lite 日本版 (NTT docomo)"
+   "M2002J9R": "小米 10 Lite 日本版 (KDDI)",
+   "XIG01": "小米 10 Lite 日本版 (KDDI)"
   }
  },
  "cas": {
@@ -1114,7 +1114,7 @@
   "name": "Redmi Note 9T",
   "models": {
    "M2007J22G": "Redmi Note 9T 5G 国际版",
-   "M2007J22R": "Redmi Note 9T 5G 日本版",
+   "M2007J22R": "Redmi Note 9T 5G 日本版 (SoftBank)",
    "A001XM": "Redmi Note 9T 5G 日本版 (SoftBank)"
   }
  },
