@@ -326,7 +326,8 @@
   "name": "小米 11 青春版",
   "models": {
    "M2101K9C": "小米 11 青春版 全网通版",
-   "M2101K9G": "小米 11 Lite 5G 国际版"
+   "M2101K9G": "小米 11 Lite 5G 国际版",
+   "M2101K9R": "小米 11 Lite 5G 日本版"
   }
  },
  "courbet": {
@@ -1168,7 +1169,6 @@
   "internal_name": "K7BN",
   "name": "Redmi Note 10S",
   "models": {
-   "M2101K7BN": "Redmi Note 10S 国际版 (NFC)",
    "M2101K7BNY": "Redmi Note 10S 国际版 (NFC)"
   }
  },
