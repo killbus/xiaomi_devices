@@ -1511,5 +1511,12 @@
   "models": {
    "SHARK KSR-A0": "Black Shark 4 Pro China"
   }
+ },
+ "FYJ01QP": {
+  "internal_name": "",
+  "name": "Xiaomi Mijia Translator",
+  "models": {
+   "FYJ01QP": "Xiaomi Mijia Translator"
+  }
  }
 }
