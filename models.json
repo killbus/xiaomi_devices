@@ -1512,6 +1512,13 @@
    "SHARK KSR-A0": "黑鲨游戏手机 4 Pro 全网通版"
   }
  },
+ "baiji": {
+  "internal_name": "",
+  "name": "小米手表",
+  "models": {
+   "XMWT01": "小米手表"
+  }
+ },
  "FYJ01QP": {
   "internal_name": "",
   "name": "小米米家翻译机",
