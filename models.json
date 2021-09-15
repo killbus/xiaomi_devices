@@ -338,6 +338,13 @@
    "M2101K9AI": "小米 11 Lite 4G 印度版"
   }
  },
+ "lisa": {
+  "internal_name": "K9D",
+  "name": "Xiaomi 11 Lite 5G NE",
+  "models": {
+   "2109119DG": "Xiaomi 11 Lite 5G NE 国际版"
+  }
+ },
  "haydn": {
   "internal_name": "K11",
   "name": "小米 11i / Redmi K40 Pro / Redmi K40 Pro+",
@@ -358,6 +365,20 @@
   "name": "小米 11X Pro",
   "models": {
    "M2012K11I": "小米 11X Pro 印度版"
+  }
+ },
+ "amber": {
+  "internal_name": "K11R",
+  "name": "Xiaomi 11T",
+  "models": {
+   "21081111RG": "Xiaomi 11T 国际版"
+  }
+ },
+ "vili": {
+  "internal_name": "K3S",
+  "name": "Xiaomi 11T Pro",
+  "models": {
+   "2107113SG": "Xiaomi 11T Pro 国际版"
   }
  },
  "virgo": {
