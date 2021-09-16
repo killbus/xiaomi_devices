@@ -342,7 +342,8 @@
   "internal_name": "K9D",
   "name": "Xiaomi 11 Lite 5G NE",
   "models": {
-   "2109119DG": "Xiaomi 11 Lite 5G NE Global"
+   "2109119DG": "Xiaomi 11 Lite 5G NE Global",
+   "2109119DI": "Xiaomi 11 Lite 5G NE India"
   }
  },
  "haydn": {
