@@ -343,7 +343,7 @@
   "name": "Xiaomi 11 Lite 5G NE",
   "models": {
    "2109119DG": "Xiaomi 11 Lite 5G NE Global",
-   "2109119DI": "Xiaomi 11 Lite 5G NE India"
+   "2109119DI": "Xiaomi 11 Lite NE India"
   }
  },
  "haydn": {
@@ -536,6 +536,13 @@
   "name": "Mi CC 9e",
   "models": {
    "M1906F9SC": "Mi CC 9e China"
+  }
+ },
+ "mona": {
+  "internal_name": "F9B",
+  "name": "Xiaomi Civi",
+  "models": {
+   "2109119BC": "Xiaomi Civi China"
   }
  },
  "lotus": {

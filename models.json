@@ -343,7 +343,7 @@
   "name": "Xiaomi 11 Lite 5G NE",
   "models": {
    "2109119DG": "Xiaomi 11 Lite 5G NE 国际版",
-   "2109119DI": "Xiaomi 11 Lite 5G NE 印度版"
+   "2109119DI": "Xiaomi 11 Lite NE 印度版"
   }
  },
  "haydn": {
@@ -536,6 +536,13 @@
   "name": "小米 CC9e",
   "models": {
    "M1906F9SC": "小米 CC9e 全网通版"
+  }
+ },
+ "mona": {
+  "internal_name": "F9B",
+  "name": "Xiaomi Civi",
+  "models": {
+   "2109119BC": "Xiaomi Civi 全网通版"
   }
  },
  "lotus": {
@@ -1561,17 +1568,17 @@
  },
  "penrose": {
   "internal_name": "",
-  "name": "黑鲨游戏手机 4",
+  "name": "黑鲨 4",
   "models": {
-   "SHARK PRS-A0": "黑鲨游戏手机 4 全网通版",
-   "SHARK PRS-H0": "黑鲨游戏手机 4 国际版"
+   "SHARK PRS-A0": "黑鲨 4 全网通版",
+   "SHARK PRS-H0": "黑鲨 4 国际版"
   }
  },
  "kaiser": {
   "internal_name": "",
-  "name": "黑鲨游戏手机 4 Pro",
+  "name": "黑鲨 4 Pro",
   "models": {
-   "SHARK KSR-A0": "黑鲨游戏手机 4 Pro 全网通版"
+   "SHARK KSR-A0": "黑鲨 4 Pro 全网通版"
   }
  },
  "baiji": {
