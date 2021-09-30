@@ -1514,9 +1514,10 @@
  },
  "angelicain": {
   "internal_name": "C3M",
-  "name": "POCO C3",
+  "name": "POCO C3 / POCO C31",
   "models": {
-   "M2006C3MI": "POCO C3 印度版"
+   "M2006C3MI": "POCO C3 印度版",
+   "211033MI": "POCO C31 印度版"
   }
  },
  "shark": {
