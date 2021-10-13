@@ -1570,17 +1570,17 @@
  },
  "penrose": {
   "internal_name": "",
-  "name": "黑鲨 4",
+  "name": "黑鲨 4 / 黑鲨 4S",
   "models": {
-   "SHARK PRS-A0": "黑鲨 4 全网通版",
+   "SHARK PRS-A0": "黑鲨 4S 全网通版",
    "SHARK PRS-H0": "黑鲨 4 国际版"
   }
  },
  "kaiser": {
   "internal_name": "",
-  "name": "黑鲨 4 Pro",
+  "name": "黑鲨 4 Pro / 黑鲨 4S Pro",
   "models": {
-   "SHARK KSR-A0": "黑鲨 4 Pro 全网通版"
+   "SHARK KSR-A0": "黑鲨 4S Pro 全网通版"
   }
  },
  "baiji": {
