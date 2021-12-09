@@ -340,8 +340,9 @@
  },
  "lisa": {
   "internal_name": "K9D",
-  "name": "Xiaomi 11 Lite 5G NE",
+  "name": "Xiaomi 11 青春活力版 / Xiaomi 11 Lite 5G NE",
   "models": {
+   "2107119DC": "Xiaomi 11 青春活力版 全网通版",
    "2109119DG": "Xiaomi 11 Lite 5G NE 国际版",
    "2109119DI": "Xiaomi 11 Lite NE 5G 印度版"
   }
@@ -967,14 +968,13 @@
   }
  },
  "selene": {
-  "internal_name": "K19A/K19B/K19S/K19S",
-  "name": "Redmi 10 / Redmi 10 Prime / Redmi 10 2022 / Redmi Note 11 4G",
+  "internal_name": "K19A/K19B/K19S",
+  "name": "Redmi 10 / Redmi 10 Prime / Redmi 10 2022",
   "models": {
    "21061119AG": "Redmi 10 国际版",
    "21061119AL": "Redmi 10 拉美版",
    "21061119BI": "Redmi 10 Prime 印度版",
-   "21121119SG": "Redmi 10 2022 国际版",
-   "21121119SC": "Redmi Note 11 4G 全网通版"
+   "21121119SG": "Redmi 10 2022 国际版"
   }
  },
  "eos": {
@@ -1321,6 +1321,13 @@
   "models": {
    "M2104K10AC": "Redmi Note 10 Pro 5G 全网通版",
    "21061110AG": "POCO X3 GT 国际版"
+  }
+ },
+ "selenes": {
+  "internal_name": "K19S",
+  "name": "Redmi Note 11 4G",
+  "models": {
+   "21121119SC": "Redmi Note 11 4G 全网通版"
   }
  },
  "evergo": {
