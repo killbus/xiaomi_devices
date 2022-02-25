@@ -1375,19 +1375,21 @@
   }
  },
  "miel": {
-  "internal_name": "K7S",
-  "name": "Redmi Note 11S",
+  "internal_name": "K7S/K7P",
+  "name": "Redmi Note 11S / POCO M4 Pro",
   "models": {
    "2201117SG": "Redmi Note 11S Global",
    "2201117SI": "Redmi Note 11S India",
-   "2201117SL": "Redmi Note 11S Latin America"
+   "2201117SL": "Redmi Note 11S Latin America",
+   "2201117PI": "POCO M4 Pro India"
   }
  },
  "fleur": {
-  "internal_name": "K7S",
-  "name": "Redmi Note 11S",
+  "internal_name": "K7S/K7P",
+  "name": "Redmi Note 11S / POCO M4 Pro",
   "models": {
-   "2201117SY": "Redmi Note 11S Global (NFC)"
+   "2201117SY": "Redmi Note 11S Global (NFC)",
+   "2201117PG": "POCO M4 Pro Global"
   }
  },
  "evergo": {
@@ -1414,11 +1416,12 @@
  },
  "veux": {
   "internal_name": "K6S",
-  "name": "Redmi Note 11 Pro 5G",
+  "name": "Redmi Note 11 Pro 5G / Redmi Note 11E Pro",
   "models": {
    "2201116SG": "Redmi Note 11 Pro 5G Global",
    "2201116SR": "Redmi Note 11 Pro 5G Japan",
-   "2201116SI": "Redmi Note 11 Pro 5G India"
+   "2201116SI": "Redmi Note 11 Pro+ 5G India",
+   "2201116SC": "Redmi Note 11E Pro China"
   }
  },
  "pissarro": {
@@ -1534,9 +1537,9 @@
  },
  "ingres": {
   "internal_name": "L10",
-  "name": "Redmi K50 Gaming / POGO F4 GT",
+  "name": "Redmi K50G / POGO F4 GT",
   "models": {
-   "21121210C": "Redmi K50 Gaming China",
+   "21121210C": "Redmi K50G China",
    "21121210G": "POCO F4 GT Global",
    "21121210I": "POCO F4 GT India"
   }
@@ -1626,6 +1629,14 @@
   "name": "POCO X3 Pro",
   "models": {
    "M2102J20SI": "POCO X3 Pro India"
+  }
+ },
+ "peux": {
+  "internal_name": "K6P",
+  "name": "POCO X4 Pro 5G",
+  "models": {
+   "2201116PG": "POCO X4 Pro 5G Global",
+   "2201116PI": "POCO X4 Pro 5G India"
   }
  },
  "shiva": {
