@@ -1400,6 +1400,13 @@
    "21091116AC": "Redmi Note 11 5G China"
   }
  },
+ "light": {
+  "internal_name": "L19",
+  "name": "Redmi Note 11E 5G",
+  "models": {
+   "22041219C": "Redmi Note 11E 5G China"
+  }
+ },
  "viva": {
   "internal_name": "K6T",
   "name": "Redmi Note 11 Pro",
