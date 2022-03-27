@@ -1464,8 +1464,14 @@
    "2201116SC": "Redmi Note 11E Pro 全网通版",
    "2201116SG": "Redmi Note 11 Pro 5G 国际版",
    "2201116SR": "Redmi Note 11 Pro 5G 日本版",
+   "2201116PG": "POCO X4 Pro 5G 国际版"
+  }
+ },
+ "peux": {
+  "internal_name": "K6S/K6P",
+  "name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
+  "models": {
    "2201116SI": "Redmi Note 11 Pro+ 5G 印度版",
-   "2201116PG": "POCO X4 Pro 5G 国际版",
    "2201116PI": "POCO X4 Pro 5G 印度版"
   }
  },
