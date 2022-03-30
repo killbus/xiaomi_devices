@@ -1793,9 +1793,24 @@
  },
  "kaiser": {
   "internal_name": "",
-  "name": "Black Shark 4 Pro / Black Shark 4S Pro",
+  "name": "Black Shark 4 Pro / Black Shark 4S Pro / Black Shark 5 RS",
   "models": {
-   "SHARK KSR-A0": "Black Shark 4S Pro China"
+   "SHARK KSR-H0": "Black Shark 4 Pro Global",
+   "SHARK KSR-A0": "Black Shark 5 RS China"
+  }
+ },
+ "patriot": {
+  "internal_name": "",
+  "name": "Black Shark 5",
+  "models": {
+   "SHARK PAR-A0": "Black Shark 5 China"
+  }
+ },
+ "katyusha": {
+  "internal_name": "",
+  "name": "Black Shark 5 Pro",
+  "models": {
+   "SHARK KTUS-A0": "Black Shark 5 Pro China"
   }
  },
  "baiji": {

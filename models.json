@@ -1793,9 +1793,24 @@
  },
  "kaiser": {
   "internal_name": "",
-  "name": "黑鲨 4 Pro / 黑鲨 4S Pro",
+  "name": "黑鲨 4 Pro / 黑鲨 4S Pro / 黑鲨 5 RS",
   "models": {
-   "SHARK KSR-A0": "黑鲨 4S Pro 全网通版"
+   "SHARK KSR-A0": "黑鲨 5 RS 全网通版",
+   "SHARK KSR-H0": "黑鲨 4 Pro 国际版"
+  }
+ },
+ "patriot": {
+  "internal_name": "",
+  "name": "黑鲨 5",
+  "models": {
+   "SHARK PAR-A0": "黑鲨 5 全网通版"
+  }
+ },
+ "katyusha": {
+  "internal_name": "",
+  "name": "黑鲨 5 Pro",
+  "models": {
+   "SHARK KTUS-A0": "黑鲨 5 Pro 全网通版"
   }
  },
  "baiji": {
