@@ -1629,7 +1629,8 @@
   "name": "Redmi K40S / POCO F4",
   "models": {
    "22021211RC": "Redmi K40S 全网通版",
-   "22021211RG": "POCO F4 国际版"
+   "22021211RG": "POCO F4 国际版",
+   "22021211RI": "POCO F4 印度版"
   }
  },
  "rubens": {
@@ -1641,10 +1642,9 @@
  },
  "matisse": {
   "internal_name": "L11",
-  "name": "Redmi K50 Pro / POCO F4 Pro",
+  "name": "Redmi K50 Pro",
   "models": {
-   "22011211C": "Redmi K50 Pro 全网通版",
-   "22011211G": "POCO F4 Pro 国际版"
+   "22011211C": "Redmi K50 Pro 全网通版"
   }
  },
  "ingres": {
