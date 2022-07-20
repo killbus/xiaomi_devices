@@ -1473,7 +1473,8 @@
   "name": "Redmi Note 11 5G / Redmi Note 11T / POCO M4 Pro 5G",
   "models": {
    "21091116AC": "Redmi Note 11 5G 全网通版",
-   "21091116AI": "POCO M4 Pro 5G 印度版"
+   "21091116AI": "Redmi Note 11T 5G 印度版",
+   "22031116AI": "POCO M4 Pro 5G 印度版"
   }
  },
  "miel": {
@@ -1692,6 +1693,13 @@
    "21121210I": "POCO F4 GT 印度版"
   }
  },
+ "xagain": {
+  "internal_name": "L16",
+  "name": "Redmi K50i",
+  "models": {
+   "22041216I": "Redmi K50i 印度版"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "红米 Pro",
@@ -1807,6 +1815,13 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "21091116AG": "POCO M4 Pro 5G 国际版"
+  }
+ },
+ "rosemaryp": {
+  "internal_name": "K7BP",
+  "name": "POCO M5s",
+  "models": {
+   "2207117BPG": "POCO M5s 国际版"
   }
  },
  "angelicain": {
