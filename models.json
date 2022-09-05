@@ -1759,6 +1759,17 @@
    "M1903C3GI": "Redmi Go 印度版"
   }
  },
+ "ice": {
+  "internal_name": "C3S/C3SP",
+  "name": "Redmi A1 / POCO C50",
+  "models": {
+   "220733SG": "Redmi A1 国际版",
+   "220733SFG": "Redmi A1+ 国际版",
+   "220733SI": "Redmi A1 印度版",
+   "220733SL": "Redmi A1 拉美版",
+   "220733SPI": "POCO C50 印度版"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -1837,6 +1848,20 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "21091116AG": "POCO M4 Pro 5G 国际版"
+  }
+ },
+ "stone": {
+  "internal_name": "L19C",
+  "name": "POCO M5",
+  "models": {
+   "22071219CG": "POCO M5 国际版"
+  }
+ },
+ "rock": {
+  "internal_name": "L19C",
+  "name": "POCO M5",
+  "models": {
+   "22071219CI": "POCO M5 印度版"
   }
  },
  "rosemary_p": {
