@@ -1764,10 +1764,16 @@
   "name": "Redmi A1 / POCO C50",
   "models": {
    "220733SG": "Redmi A1 国际版",
-   "220733SFG": "Redmi A1+ 国际版",
    "220733SI": "Redmi A1 印度版",
    "220733SL": "Redmi A1 拉美版",
    "220733SPI": "POCO C50 印度版"
+  }
+ },
+ "snow": {
+  "internal_name": "D3F",
+  "name": "Redmi A1+",
+  "models": {
+   "220743FI": "Redmi A1+ 印度版"
   }
  },
  "beryllium": {
