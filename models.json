@@ -1793,9 +1793,10 @@
   }
  },
  "snow": {
-  "internal_name": "D3F",
+  "internal_name": "C3SF",
   "name": "Redmi A1+",
   "models": {
+   "220733SFG": "Redmi A1+ 国际版",
    "220743FI": "Redmi A1+ 印度版"
   }
  },
