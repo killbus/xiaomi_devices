@@ -649,6 +649,13 @@
    "2109119BC": "Xiaomi Civi 1S China"
   }
  },
+ "ziyi": {
+  "internal_name": "L9S",
+  "name": "Xiaomi Civi 2",
+  "models": {
+   "2209129SC": "Xiaomi Civi 2 China"
+  }
+ },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
