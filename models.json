@@ -1094,12 +1094,13 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19P",
-  "name": "Redmi 10 5G / Redmi 11 Prime 5G / Redmi Note 11E 5G / POCO M4 5G",
+  "internal_name": "L19/L19P/L19P",
+  "name": "Redmi 10 5G / Redmi 11 Prime 5G / Redmi Note 11E 5G / Redmi Note 11R / POCO M4 5G",
   "models": {
    "22041219G": "Redmi 10 5G 国际版",
    "22041219I": "Redmi 11 Prime 5G 印度版",
    "22041219C": "Redmi Note 11E 5G 全网通版",
+   "22095RA98C": "Redmi Note 11R 5G 全网通版",
    "22041219PI": "POCO M4 5G 印度版"
   }
  },
@@ -1466,12 +1467,13 @@
   }
  },
  "sweet": {
-  "internal_name": "K6",
-  "name": "Redmi Note 10 Pro",
+  "internal_name": "K6/K6A",
+  "name": "Redmi Note 10 Pro / Redmi Note 11 Pro 2023",
   "models": {
    "M2101K6G": "Redmi Note 10 Pro 国际版",
    "M2101K6T": "Redmi Note 10 Pro 泰国版",
-   "M2101K6R": "Redmi Note 10 Pro 日本版"
+   "M2101K6R": "Redmi Note 10 Pro 日本版",
+   "2209116AG": "Redmi Note 11 Pro 2023 国际版"
   }
  },
  "sweetin": {
@@ -1805,6 +1807,14 @@
   "models": {
    "220733SFG": "Redmi A1+ 国际版",
    "220743FI": "Redmi A1+ 印度版"
+  }
+ },
+ "yunluo": {
+  "internal_name": "L83",
+  "name": "Redmi Pad",
+  "models": {
+   "22081283C": "Redmi Pad 国行版",
+   "22081283G": "Redmi Pad 国际版"
   }
  },
  "beryllium": {
