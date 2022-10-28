@@ -1612,12 +1612,11 @@
    "22041216UG": "POCO X4 GT Pro 国际版"
   }
  },
- "": {
-  "internal_name": "M17/K91",
-  "name": "Redmi Note 12: / CyberDog 仿生四足机器人:",
+ "sunstone": {
+  "internal_name": "M17",
+  "name": "Redmi Note 12",
   "models": {
-   "22101317C": "Redmi Note 12 全网通版",
-   "21051191C": "CyberDog 仿生四足机器人"
+   "22101317C": "Redmi Note 12 全网通版"
   }
  },
  "ruby": {
@@ -2040,6 +2039,13 @@
   "name": "小米米家翻译机",
   "models": {
    "FYJ01QP": "小米米家翻译机"
+  }
+ },
+ "": {
+  "internal_name": "K91",
+  "name": "CyberDog 仿生四足机器人:",
+  "models": {
+   "21051191C": "CyberDog 仿生四足机器人"
   }
  }
 }
