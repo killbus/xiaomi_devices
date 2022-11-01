@@ -1635,9 +1635,9 @@
  },
  "rubypro": {
   "internal_name": "M16U",
-  "name": "Redmi Note 12 Discovery",
+  "name": "Redmi Note 12 Discovery Edition",
   "models": {
-   "22101316UC": "Redmi Note 12 Discovery China"
+   "22101316UC": "Redmi Note 12 Discovery Edition China"
   }
  },
  "atom": {
@@ -1824,6 +1824,7 @@
   "name": "Redmi A1",
   "models": {
    "220733SG": "Redmi A1 Global",
+   "220733SH": "Redmi A1 Global",
    "220733SI": "Redmi A1 India",
    "220733SL": "Redmi A1 Latin America"
   }
@@ -1833,6 +1834,7 @@
   "name": "Redmi A1+ / POCO C50",
   "models": {
    "220733SFG": "Redmi A1+ Global",
+   "220733SFH": "Redmi A1+ Global",
    "220743FI": "Redmi A1+ India",
    "220733SPI": "POCO C50 India"
   }
