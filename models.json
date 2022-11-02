@@ -1626,14 +1626,14 @@
    "22101316C": "Redmi Note 12 Pro 全网通版"
   }
  },
- "rubyplus": {
+ "rubypro": {
   "internal_name": "M16UP",
   "name": "Redmi Note 12 Pro+",
   "models": {
    "22101316UCP": "Redmi Note 12 Pro+ 全网通版"
   }
  },
- "rubypro": {
+ "rubyplus": {
   "internal_name": "M16U",
   "name": "Redmi Note 12 探索版",
   "models": {
