@@ -466,12 +466,14 @@
    "22071212AG": "Xiaomi 12T 国际版"
   }
  },
- "ditingp": {
-  "internal_name": "L12U",
-  "name": "Xiaomi 12T Pro",
+ "diting": {
+  "internal_name": "L12U/L12",
+  "name": "Xiaomi 12T Pro / Redmi K50 至尊版",
   "models": {
    "22081212UG": "Xiaomi 12T Pro 国际版",
-   "A201XM": "Xiaomi 12T Pro 日本版 (SoftBank)"
+   "22081212R": "Xiaomi 12T Pro 日本版 (SIM Free)",
+   "A201XM": "Xiaomi 12T Pro 日本版 (SoftBank)",
+   "22081212C": "Redmi K50 至尊版 全网通版"
   }
  },
  "fuxi": {
@@ -1782,13 +1784,6 @@
    "21121210C": "Redmi K50 电竞版 全网通版",
    "21121210G": "POCO F4 GT 国际版",
    "21121210I": "POCO F4 GT 印度版"
-  }
- },
- "diting": {
-  "internal_name": "L12",
-  "name": "Redmi K50 至尊版",
-  "models": {
-   "22081212C": "Redmi K50 至尊版 全网通版"
   }
  },
  "xagain": {
