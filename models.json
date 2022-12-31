@@ -1161,6 +1161,24 @@
    "22071219CI": "POCO M5 印度版"
   }
  },
+ "earth": {
+  "internal_name": "",
+  "name": "Redmi 12C",
+  "models": {
+   "22120RN86C": "Redmi 12C 全网通版",
+   "22120RN86G": "Redmi 12C 国际版",
+   "22120RN86H": "Redmi 12C 国际版",
+   "22120RN86I": "Redmi 12C 印度版",
+   "2212ARNC4L": "Redmi 12C 拉美版"
+  }
+ },
+ "aether": {
+  "internal_name": "",
+  "name": "Redmi 12C",
+  "models": {
+   "22126RN91Y": "Redmi 12C 国际版 (NFC)"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "红米 Note",
