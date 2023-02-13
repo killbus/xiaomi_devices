@@ -492,6 +492,14 @@
    "2210132G": "Xiaomi 13 Pro 国际版"
   }
  },
+ "ziyi": {
+  "internal_name": "L9S",
+  "name": "Xiaomi 13 Lite / Xiaomi Civi 2",
+  "models": {
+   "2210129SG": "Xiaomi 13 Lite 国际版",
+   "2209129SC": "Xiaomi Civi 2 全网通版"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "小米 Note",
@@ -666,13 +674,6 @@
   "name": "Xiaomi Civi 1S",
   "models": {
    "2109119BC": "Xiaomi Civi 1S 全网通版"
-  }
- },
- "ziyi": {
-  "internal_name": "L9S",
-  "name": "Xiaomi Civi 2",
-  "models": {
-   "2209129SC": "Xiaomi Civi 2 全网通版"
   }
  },
  "lotus": {
