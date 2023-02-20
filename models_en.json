@@ -715,65 +715,6 @@
    "M1906F9SI": "Mi A3 India"
   }
  },
- "mocha": {
-  "internal_name": "X6",
-  "name": "Mi Pad",
-  "models": {
-   "A0101": "Mi Pad"
-  }
- },
- "latte": {
-  "internal_name": "A3",
-  "name": "Mi Pad 2",
-  "models": {
-   "2015716": "Mi Pad 2"
-  }
- },
- "cappu": {
-  "internal_name": "C9",
-  "name": "Mi Pad 3",
-  "models": {
-   "MCE91": "Mi Pad 3"
-  }
- },
- "clover": {
-  "internal_name": "D9/D9P",
-  "name": "Mi Pad 4 / Mi Pad 4 Plus",
-  "models": {
-   "M1806D9W": "Mi Pad 4 Wi-Fi",
-   "M1806D9E": "Mi Pad 4 LTE",
-   "M1806D9PE": "Mi Pad 4 Plus LTE"
-  }
- },
- "nabu": {
-  "internal_name": "K82",
-  "name": "Xiaomi Pad 5",
-  "models": {
-   "21051182G": "Xiaomi Pad 5 Global",
-   "21051182C": "Xiaomi Pad 5 China"
-  }
- },
- "elish": {
-  "internal_name": "K81A",
-  "name": "Xiaomi Pad 5 Pro",
-  "models": {
-   "M2105K81AC": "Xiaomi Pad 5 Pro Wi-Fi"
-  }
- },
- "enuma": {
-  "internal_name": "K81",
-  "name": "Xiaomi Pad 5 Pro 5G",
-  "models": {
-   "M2105K81C": "Xiaomi Pad 5 Pro 5G"
-  }
- },
- "dagu": {
-  "internal_name": "L81A",
-  "name": "Xiaomi Pad 5 Pro 12.4",
-  "models": {
-   "22081281AC": "Xiaomi Pad 5 Pro 12.4"
-  }
- },
  "wt93007": {
   "internal_name": "H2TD",
   "name": "Redmi 1",
@@ -1903,14 +1844,6 @@
    "220733SPI": "POCO C50 India"
   }
  },
- "yunluo": {
-  "internal_name": "L83",
-  "name": "Redmi Pad",
-  "models": {
-   "22081283G": "Redmi Pad Global",
-   "22081283C": "Redmi Pad China"
-  }
- },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
@@ -2019,6 +1952,73 @@
   "models": {
    "220333QPG": "POCO C40 Global",
    "220333QPI": "POCO C40 India"
+  }
+ },
+ "mocha": {
+  "internal_name": "X6",
+  "name": "Mi Pad",
+  "models": {
+   "A0101": "Mi Pad"
+  }
+ },
+ "latte": {
+  "internal_name": "A3",
+  "name": "Mi Pad 2",
+  "models": {
+   "2015716": "Mi Pad 2"
+  }
+ },
+ "cappu": {
+  "internal_name": "C9",
+  "name": "Mi Pad 3",
+  "models": {
+   "MCE91": "Mi Pad 3"
+  }
+ },
+ "clover": {
+  "internal_name": "D9/D9P",
+  "name": "Mi Pad 4 / Mi Pad 4 Plus",
+  "models": {
+   "M1806D9W": "Mi Pad 4 Wi-Fi",
+   "M1806D9E": "Mi Pad 4 LTE",
+   "M1806D9PE": "Mi Pad 4 Plus LTE"
+  }
+ },
+ "nabu": {
+  "internal_name": "K82",
+  "name": "Xiaomi Pad 5",
+  "models": {
+   "21051182G": "Xiaomi Pad 5 Global",
+   "21051182C": "Xiaomi Pad 5 China"
+  }
+ },
+ "elish": {
+  "internal_name": "K81A",
+  "name": "Xiaomi Pad 5 Pro",
+  "models": {
+   "M2105K81AC": "Xiaomi Pad 5 Pro Wi-Fi"
+  }
+ },
+ "enuma": {
+  "internal_name": "K81",
+  "name": "Xiaomi Pad 5 Pro 5G",
+  "models": {
+   "M2105K81C": "Xiaomi Pad 5 Pro 5G"
+  }
+ },
+ "dagu": {
+  "internal_name": "L81A",
+  "name": "Xiaomi Pad 5 Pro 12.4",
+  "models": {
+   "22081281AC": "Xiaomi Pad 5 Pro 12.4"
+  }
+ },
+ "yunluo": {
+  "internal_name": "L83",
+  "name": "Redmi Pad",
+  "models": {
+   "22081283G": "Redmi Pad Global",
+   "22081283C": "Redmi Pad China"
   }
  },
  "baiji": {
