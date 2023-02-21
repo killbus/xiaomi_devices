@@ -1164,13 +1164,16 @@
  },
  "earth": {
   "internal_name": "",
-  "name": "Redmi 12C",
+  "name": "Redmi 12C / POCO C55",
   "models": {
    "22120RN86C": "Redmi 12C 全网通版",
    "22120RN86G": "Redmi 12C 国际版",
    "22120RN86H": "Redmi 12C 国际版",
    "22120RN86I": "Redmi 12C 印度版",
-   "2212ARNC4L": "Redmi 12C 拉美版"
+   "2212ARNC4L": "Redmi 12C 拉美版",
+   "22127PC95G": "POCO C55 国际版",
+   "22127PC95H": "POCO C55 国际版",
+   "22127PC95I": "POCO C55 印度版"
   }
  },
  "aether": {
