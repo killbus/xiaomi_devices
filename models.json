@@ -1925,6 +1925,16 @@
    "220733SPI": "POCO C50 印度版"
   }
  },
+ "water": {
+  "internal_name": "",
+  "name": "Redmi A2",
+  "models": {
+   "23026RN54G": "Redmi A2 国际版",
+   "23028RN4DG": "Redmi A2 国际版",
+   "23028RN4DH": "Redmi A2 国际版",
+   "23028RN4DI": "Redmi A2 印度版"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
@@ -1987,7 +1997,8 @@
   "internal_name": "M17P",
   "name": "POCO X5 5G",
   "models": {
-   "22111317PG": "POCO X5 5G 国际版"
+   "22111317PG": "POCO X5 5G 国际版",
+   "22111317PI": "POCO X5 5G 印度版"
   }
  },
  "shiva": {
