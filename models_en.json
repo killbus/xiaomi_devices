@@ -1621,11 +1621,11 @@
  },
  "sunstone": {
   "internal_name": "M17",
-  "name": "Redmi Note 12 5G",
+  "name": "Redmi Note 12 5G / Redmi Note 12R Pro",
   "models": {
    "22111317G": "Redmi Note 12 5G Global",
    "22111317I": "Redmi Note 12 5G India",
-   "22101317C": "Redmi Note 12 5G China"
+   "22101317C": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
   }
  },
  "sea": {
@@ -1913,9 +1913,12 @@
  },
  "water": {
   "internal_name": "",
-  "name": "Redmi A2+",
+  "name": "Redmi A2+ / POCO C51",
   "models": {
-   "23028RNCAG": "Redmi A2+ Global"
+   "23028RNCAG": "Redmi A2+ Global",
+   "2305EPCC4G": "POCO C51 Global",
+   "2302EPCC4H": "POCO C51 Global",
+   "2302EPCC4I": "POCO C51 India"
   }
  },
  "beryllium": {
