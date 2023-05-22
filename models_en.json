@@ -685,6 +685,13 @@
    "2109119BC": "Xiaomi Civi 1S China"
   }
  },
+ "yuechu": {
+  "internal_name": "M9",
+  "name": "Xiaomi Civi 3",
+  "models": {
+   "23046PNC9C": "Xiaomi Civi 3 China"
+  }
+ },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
@@ -1117,12 +1124,12 @@
   "name": "Redmi 12C / POCO C55",
   "models": {
    "22120RN86G": "Redmi 12C Global",
-   "22120RN86H": "Redmi 12C Global",
+   "22120RN86H": "Redmi 12C India",
    "22120RN86I": "Redmi 12C India",
    "22120RN86C": "Redmi 12C China",
    "2212ARNC4L": "Redmi 12C Latin America",
    "22127PC95G": "POCO C55 Global",
-   "22127PC95H": "POCO C55 Global",
+   "22127PC95H": "POCO C55 India",
    "22127PC95I": "POCO C55 India"
   }
  },
@@ -1886,7 +1893,7 @@
   "name": "Redmi A1",
   "models": {
    "220733SG": "Redmi A1 Global",
-   "220733SH": "Redmi A1 Global",
+   "220733SH": "Redmi A1 India",
    "220733SI": "Redmi A1 India",
    "220733SL": "Redmi A1 Latin America"
   }
@@ -1896,28 +1903,31 @@
   "name": "Redmi A1+ / POCO C50",
   "models": {
    "220733SFG": "Redmi A1+ Global",
-   "220733SFH": "Redmi A1+ Global",
+   "220733SFH": "Redmi A1+ India",
    "220743FI": "Redmi A1+ India",
+   "220733SPH": "POCO C50 India",
    "220733SPI": "POCO C50 India"
   }
  },
  "cloud": {
-  "internal_name": "",
+  "internal_name": "C3S2",
   "name": "Redmi A2",
   "models": {
    "23026RN54G": "Redmi A2 Global",
    "23028RN4DG": "Redmi A2 Global",
-   "23028RN4DH": "Redmi A2 Global",
+   "23028RN4DH": "Redmi A2 India",
    "23028RN4DI": "Redmi A2 India"
   }
  },
  "water": {
-  "internal_name": "",
+  "internal_name": "CSF2/CSP2",
   "name": "Redmi A2+ / POCO C51",
   "models": {
    "23028RNCAG": "Redmi A2+ Global",
+   "23028RNCAH": "Redmi A2+ India",
+   "23028RNCAI": "Redmi A2+ India",
    "2305EPCC4G": "POCO C51 Global",
-   "2302EPCC4H": "POCO C51 Global",
+   "2302EPCC4H": "POCO C51 India",
    "2302EPCC4I": "POCO C51 India"
   }
  },
