@@ -1124,8 +1124,15 @@
   "name": "Redmi 12",
   "models": {
    "23053RN02A": "Redmi 12 Global",
-   "23053RN02Y": "Redmi 12 Global (NFC)",
+   "23053RN02I": "Redmi 12 India",
    "23053RN02L": "Redmi 12 Latin America"
+  }
+ },
+ "heat": {
+  "internal_name": "M19A",
+  "name": "Redmi 12",
+  "models": {
+   "23053RN02Y": "Redmi 12 Global (NFC)"
   }
  },
  "earth": {
@@ -1644,6 +1651,14 @@
    "22101317C": "Redmi Note 12 5G China / Redmi Note 12R Pro China"
   }
  },
+ "": {
+  "internal_name": "M19/K91",
+  "name": "Redmi Note 12R: / Xiaomi CyberDog:",
+  "models": {
+   "23076RA4BC": "Redmi Note 12R China",
+   "21051191C": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
+  }
+ },
  "ocean": {
   "internal_name": "K7SR",
   "name": "Redmi Note 12S",
@@ -1705,8 +1720,7 @@
   "name": "Redmi Note 12 Turbo / POCO F5",
   "models": {
    "23049RAD8C": "Redmi Note 12 Turbo China",
-   "23049PCD8G": "POCO F5 Global",
-   "23049PCD8I": "POCO F5 India"
+   "23049PCD8G": "POCO F5 Global"
   }
  },
  "atom": {
@@ -1961,6 +1975,13 @@
    "M2104K10I": "POCO F3 GT India"
   }
  },
+ "marblein": {
+  "internal_name": "M16T",
+  "name": "POCO F5",
+  "models": {
+   "23049PCD8I": "POCO F5 India"
+  }
+ },
  "phoenixin": {
   "internal_name": "G7B",
   "name": "POCO X2",
@@ -2122,6 +2143,7 @@
   "name": "Xiaomi Pad 6",
   "models": {
    "23043RP34G": "Xiaomi Pad 6 Global",
+   "23043RP34I": "Xiaomi Pad 6 India",
    "23043RP34C": "Xiaomi Pad 6 China"
   }
  },
@@ -2152,13 +2174,6 @@
   "name": "Xiaomi Mijia Translator",
   "models": {
    "FYJ01QP": "Xiaomi Mijia Translator"
-  }
- },
- "": {
-  "internal_name": "K91",
-  "name": "Xiaomi CyberDog:",
-  "models": {
-   "21051191C": "Xiaomi CyberDog Bio-inspired Quadruped Robot"
   }
  }
 }

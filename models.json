@@ -795,7 +795,8 @@
   "name": "Xiaomi Pad 6",
   "models": {
    "23043RP34C": "Xiaomi Pad 6 国行版",
-   "23043RP34G": "Xiaomi Pad 6 国际版"
+   "23043RP34G": "Xiaomi Pad 6 国际版",
+   "23043RP34I": "Xiaomi Pad 6 印度版"
   }
  },
  "liuqin": {
@@ -1198,8 +1199,15 @@
   "name": "Redmi 12",
   "models": {
    "23053RN02A": "Redmi 12 国际版",
-   "23053RN02Y": "Redmi 12 国际版 (NFC)",
+   "23053RN02I": "Redmi 12 印度版",
    "23053RN02L": "Redmi 12 拉美版"
+  }
+ },
+ "heat": {
+  "internal_name": "M19A",
+  "name": "Redmi 12",
+  "models": {
+   "23053RN02Y": "Redmi 12 国际版 (NFC)"
   }
  },
  "earth": {
@@ -1718,6 +1726,14 @@
    "22111317I": "Redmi Note 12 5G 印度版"
   }
  },
+ "": {
+  "internal_name": "M19/K91",
+  "name": "Redmi Note 12R: / CyberDog 仿生四足机器人:",
+  "models": {
+   "23076RA4BC": "Redmi Note 12R 全网通版",
+   "21051191C": "CyberDog 仿生四足机器人"
+  }
+ },
  "ocean": {
   "internal_name": "K7SR",
   "name": "Redmi Note 12S",
@@ -1779,8 +1795,7 @@
   "name": "Redmi Note 12 Turbo / POCO F5",
   "models": {
    "23049RAD8C": "Redmi Note 12 Turbo 全网通版",
-   "23049PCD8G": "POCO F5 国际版",
-   "23049PCD8I": "POCO F5 印度版"
+   "23049PCD8G": "POCO F5 国际版"
   }
  },
  "atom": {
@@ -2043,6 +2058,13 @@
    "M2104K10I": "POCO F3 GT 印度版"
   }
  },
+ "marblein": {
+  "internal_name": "M16T",
+  "name": "POCO F5",
+  "models": {
+   "23049PCD8I": "POCO F5 印度版"
+  }
+ },
  "phoenixin": {
   "internal_name": "G7B",
   "name": "POCO X2",
@@ -2152,13 +2174,6 @@
   "name": "小米米家翻译机",
   "models": {
    "FYJ01QP": "小米米家翻译机"
-  }
- },
- "": {
-  "internal_name": "K91",
-  "name": "CyberDog 仿生四足机器人:",
-  "models": {
-   "21051191C": "CyberDog 仿生四足机器人"
   }
  }
 }
