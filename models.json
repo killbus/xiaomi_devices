@@ -1204,10 +1204,18 @@
   }
  },
  "heat": {
-  "internal_name": "M19A",
+  "internal_name": "M19E",
   "name": "Redmi 12",
   "models": {
    "23053RN02Y": "Redmi 12 国际版 (NFC)"
+  }
+ },
+ "sky": {
+  "internal_name": "M19",
+  "name": "Redmi 12 5G / Redmi Note 12R",
+  "models": {
+   "23076RN4BI": "Redmi 12 5G 印度版",
+   "23076RA4BC": "Redmi Note 12R 全网通版"
   }
  },
  "earth": {
@@ -1724,13 +1732,6 @@
    "22101317C": "Redmi Note 12 5G 全网通版 / Redmi Note 12R Pro 全网通版",
    "22111317G": "Redmi Note 12 5G 国际版",
    "22111317I": "Redmi Note 12 5G 印度版"
-  }
- },
- "sky": {
-  "internal_name": "M19",
-  "name": "Redmi Note 12R",
-  "models": {
-   "23076RA4BC": "Redmi Note 12R 全网通版"
   }
  },
  "ocean": {
