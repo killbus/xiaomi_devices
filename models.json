@@ -509,6 +509,22 @@
    "2209129SC": "Xiaomi Civi 2 全网通版"
   }
  },
+ "aristotle": {
+  "internal_name": "M12A",
+  "name": "Xiaomi 13T",
+  "models": {
+   "2306EPN60G": "Xiaomi 13T 国际版",
+   "2306EPN60R": "Xiaomi 13T 日本版"
+  }
+ },
+ "corot": {
+  "internal_name": "M12",
+  "name": "Xiaomi 13T Pro / Redmi K60 至尊版",
+  "models": {
+   "23078PND5G": "Xiaomi 13T Pro 国际版",
+   "23078RKD5C": "Redmi K60 至尊版 全网通版"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "小米 Note",
@@ -614,7 +630,7 @@
   "internal_name": "K8",
   "name": "Xiaomi MIX 4",
   "models": {
-   "2106118C": "Xiaomi MIX 4 全网通版"
+   "2106118C": "Xiaomi MIX 4"
   }
  },
  "zizhan": {
@@ -622,6 +638,13 @@
   "name": "Xiaomi MIX Fold 2",
   "models": {
    "22061218C": "Xiaomi MIX Fold 2"
+  }
+ },
+ "babylon": {
+  "internal_name": "M18",
+  "name": "Xiaomi MIX Fold 3",
+  "models": {
+   "2308CPXD0C": "Xiaomi MIX Fold 3"
   }
  },
  "hydrogen": {
@@ -804,6 +827,13 @@
   "name": "Xiaomi Pad 6 Pro",
   "models": {
    "23046RP50C": "Xiaomi Pad 6 Pro"
+  }
+ },
+ "yudi": {
+  "internal_name": "M80",
+  "name": "Xiaomi Pad 6 Max",
+  "models": {
+   "2307BRPDCC": "Xiaomi Pad 6 Max"
   }
  },
  "wt93007": {
@@ -1212,10 +1242,11 @@
  },
  "sky": {
   "internal_name": "M19",
-  "name": "Redmi 12 5G / Redmi Note 12R",
+  "name": "Redmi 12 5G / Redmi Note 12R / POCO M6 Pro 5G",
   "models": {
    "23076RN4BI": "Redmi 12 5G 印度版",
-   "23076RA4BC": "Redmi Note 12R 全网通版"
+   "23076RA4BC": "Redmi Note 12R 全网通版",
+   "23076PC4BI": "POCO M6 Pro 5G 印度版"
   }
  },
  "earth": {
@@ -2042,6 +2073,15 @@
   "models": {
    "22081283C": "Redmi Pad 国行版",
    "22081283G": "Redmi Pad 国际版"
+  }
+ },
+ "xun": {
+  "internal_name": "M84",
+  "name": "Redmi Pad SE",
+  "models": {
+   "23073RPBFC": "Redmi Pad SE 国行版",
+   "23073RPBFG": "Redmi Pad SE 国际版",
+   "23073RPBFL": "Redmi Pad SE 拉美版"
   }
  },
  "beryllium": {
