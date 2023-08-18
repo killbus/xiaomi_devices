@@ -1240,12 +1240,18 @@
    "23053RN02Y": "Redmi 12 国际版 (NFC)"
   }
  },
+ "river": {
+  "internal_name": "M19",
+  "name": "Redmi 12 5G",
+  "models": {
+   "23077RABDC": "Redmi 12 5G 全网通版",
+   "23076RN8DY": "Redmi 12 5G 国际版 (NFC)"
+  }
+ },
  "sky": {
   "internal_name": "M19",
   "name": "Redmi 12 5G / Redmi Note 12R / POCO M6 Pro 5G",
   "models": {
-   "23077RABDC": "Redmi 12 5G 全网通版",
-   "23076RN8DY": "Redmi 12 5G 国际版 (NFC)",
    "23076RN4BI": "Redmi 12 5G 印度版",
    "23076RA4BC": "Redmi Note 12R 全网通版",
    "23076PC4BI": "POCO M6 Pro 5G 印度版"
