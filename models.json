@@ -522,6 +522,8 @@
   "name": "Xiaomi 13T Pro / Redmi K60 至尊版",
   "models": {
    "23078PND5G": "Xiaomi 13T Pro 国际版",
+   "23088PND5R": "Xiaomi 13T Pro 日本版 (SIM Free)",
+   "A301XM": "Xiaomi 13T Pro 日本版 (SoftBank)",
    "23078RKD5C": "Redmi K60 至尊版 全网通版"
   }
  },
@@ -1798,7 +1800,7 @@
   }
  },
  "rubypro": {
-  "internal_name": "M16UP",
+  "internal_name": "M16U",
   "name": "Redmi Note 12 Pro+",
   "models": {
    "22101316UCP": "Redmi Note 12 Pro+ 全网通版",
@@ -1836,6 +1838,34 @@
    "23049RAD8C": "Redmi Note 12 Turbo 全网通版",
    "23049PCD8G": "POCO F5 国际版",
    "23049PCD8I": "POCO F5 印度版"
+  }
+ },
+ "gold": {
+  "internal_name": "N17",
+  "name": "Redmi Note 13 5G",
+  "models": {
+   "2312DRAABC": "Redmi Note 13 5G 全网通版",
+   "2312DRAABG": "Redmi Note 13 5G 国际版",
+   "2312DRAABI": "Redmi Note 13 5G 印度版"
+  }
+ },
+ "garnet": {
+  "internal_name": "",
+  "name": "Redmi Note 13 Pro",
+  "models": {
+   "2312DRA50C": "Redmi Note 13 Pro 全网通版",
+   "2312CRAD3C": "Redmi Note 13 Pro 全网通版",
+   "2312DRA50G": "Redmi Note 13 Pro 5G 国际版",
+   "2312DRA50I": "Redmi Note 13 Pro 5G 印度版"
+  }
+ },
+ "zircon": {
+  "internal_name": "N16U",
+  "name": "Redmi Note 13 Pro+",
+  "models": {
+   "23090RA98C": "Redmi Note 13 Pro+ 全网通版",
+   "23090RA98G": "Redmi Note 13 Pro+ 5G 国际版",
+   "23090RA98I": "Redmi Note 13 Pro+ 5G 印度版"
   }
  },
  "atom": {
