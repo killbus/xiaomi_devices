@@ -1769,7 +1769,7 @@
  },
  "garnet": {
   "internal_name": "",
-  "name": "Redmi Note 13 Pro",
+  "name": "Redmi Note 13 Pro 5G",
   "models": {
    "2312DRA50G": "Redmi Note 13 Pro 5G Global",
    "2312DRA50I": "Redmi Note 13 Pro 5G India",
@@ -1779,7 +1779,7 @@
  },
  "zircon": {
   "internal_name": "N16U",
-  "name": "Redmi Note 13 Pro+",
+  "name": "Redmi Note 13 Pro+ 5G",
   "models": {
    "23090RA98G": "Redmi Note 13 Pro+ 5G Global",
    "23090RA98I": "Redmi Note 13 Pro+ 5G India",
