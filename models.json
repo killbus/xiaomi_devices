@@ -514,7 +514,8 @@
   "name": "Xiaomi 13T",
   "models": {
    "2306EPN60G": "Xiaomi 13T 国际版",
-   "2306EPN60R": "Xiaomi 13T 日本版"
+   "2306EPN60R": "Xiaomi 13T 日本版 (SIM Free)",
+   "XIG04": "Xiaomi 13T 日本版 (KDDI)"
   }
  },
  "corot": {
@@ -1247,7 +1248,9 @@
   "name": "Redmi 12 5G",
   "models": {
    "23077RABDC": "Redmi 12 5G 全网通版",
-   "23076RN8DY": "Redmi 12 5G 国际版 (NFC)"
+   "23076RN8DY": "Redmi 12 5G 国际版 (NFC)",
+   "23076RA4BR": "Redmi 12 5G 日本版 (SIM Free)",
+   "XIG03": "Redmi 12 5G 日本版 (KDDI)"
   }
  },
  "sky": {
