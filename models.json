@@ -1300,12 +1300,13 @@
   }
  },
  "gale": {
-  "internal_name": "C3U",
-  "name": "Redmi 13C",
+  "internal_name": "C3U/C3UP",
+  "name": "Redmi 13C / POCO C65",
   "models": {
    "23106RN0DA": "Redmi 13C 国际版",
    "2311DRN14I": "Redmi 13C 印度版",
-   "23100RN82L": "Redmi 13C 拉美版"
+   "23100RN82L": "Redmi 13C 拉美版",
+   "2310FPCA4I": "POCO C65 印度版"
   }
  },
  "gust": {
@@ -1317,12 +1318,13 @@
   }
  },
  "air": {
-  "internal_name": "C3V",
-  "name": "Redmi 13R 5G / Redmi 13C 5G",
+  "internal_name": "C3V/C3VP",
+  "name": "Redmi 13R 5G / Redmi 13C 5G / POCO M6 5G",
   "models": {
    "23124RN87C": "Redmi 13R 5G 全网通版",
    "23124RN87G": "Redmi 13C 5G 国际版",
-   "23124RN87I": "Redmi 13C 5G 印度版"
+   "23124RN87I": "Redmi 13C 5G 印度版",
+   "23128PC33I": "POCO M6 5G 印度版"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2076,9 +2078,11 @@
  },
  "vermeer": {
   "internal_name": "N11",
-  "name": "Redmi K70",
+  "name": "Redmi K70 / POCO F6 Pro",
   "models": {
-   "23113RKC6C": "Redmi K70 全网通版"
+   "23113RKC6C": "Redmi K70 全网通版",
+   "23113RKC6G": "POCO F6 Pro 国际版",
+   "23113RKC6I": "POCO F6 Pro 印度版"
   }
  },
  "manet": {
