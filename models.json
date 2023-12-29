@@ -1319,9 +1319,9 @@
  },
  "air": {
   "internal_name": "C3V/C3VP",
-  "name": "Redmi 13R 5G / Redmi 13C 5G / POCO M6 5G",
+  "name": "Redmi 13C 5G / Redmi 13R 5G / POCO M6 5G",
   "models": {
-   "23124RN87C": "Redmi 13R 5G 全网通版",
+   "23124RN87C": "Redmi 13C 5G 全网通版 / Redmi 13R 5G 全网通版",
    "23124RN87G": "Redmi 13C 5G 国际版",
    "23124RN87I": "Redmi 13C 5G 印度版",
    "23128PC33I": "POCO M6 5G 印度版"
@@ -1885,6 +1885,21 @@
    "23049RAD8C": "Redmi Note 12 Turbo 全网通版",
    "23049PCD8G": "POCO F5 国际版",
    "23049PCD8I": "POCO F5 印度版"
+  }
+ },
+ "sapphire": {
+  "internal_name": "N7",
+  "name": "Redmi Note 13",
+  "models": {
+   "23129RAA4G": "Redmi Note 13 国际版",
+   "23129RA5FL": "Redmi Note 13 拉美版"
+  }
+ },
+ "sapphiren": {
+  "internal_name": "N7N",
+  "name": "Redmi Note 13",
+  "models": {
+   "23124RA7EO": "Redmi Note 13 国际版 (NFC)"
   }
  },
  "gold": {
