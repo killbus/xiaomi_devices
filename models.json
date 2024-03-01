@@ -2226,6 +2226,16 @@
    "2302EPCC4I": "POCO C51 印度版"
   }
  },
+ "blue": {
+  "internal_name": "",
+  "name": "Redmi A3 / POCO C61",
+  "models": {
+   "23129RN51X": "Redmi A3 国际版",
+   "23129RN51H": "Redmi A3 印度版",
+   "2312CRNCCL": "Redmi A3 拉美版",
+   "2312BPC51H": "POCO C61 印度版"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
