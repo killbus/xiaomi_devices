@@ -1282,7 +1282,8 @@
    "23077RABDC": "Redmi 12 5G 全网通版",
    "23076RN8DY": "Redmi 12 5G 国际版 (NFC)",
    "23076RA4BR": "Redmi 12 5G 日本版 (SIM Free)",
-   "XIG03": "Redmi 12 5G 日本版 (KDDI)"
+   "XIG03": "Redmi 12 5G 日本版 (KDDI)",
+   "A401XM": "Redmi 12 5G 日本版 (SoftBank)"
   }
  },
  "sky": {
@@ -1962,6 +1963,15 @@
    "23090RA98C": "Redmi Note 13 Pro+ 全网通版",
    "23090RA98G": "Redmi Note 13 Pro+ 5G 国际版",
    "23090RA98I": "Redmi Note 13 Pro+ 5G 印度版"
+  }
+ },
+ "peridot": {
+  "internal_name": "N16T",
+  "name": "Redmi Note 13 Turbo / POCO F6",
+  "models": {
+   "24069RA21C": "Redmi Note 13 Turbo 全网通版",
+   "24069PC21G": "POCO F6 国际版",
+   "24069PC21I": "POCO F6 印度版"
   }
  },
  "atom": {
