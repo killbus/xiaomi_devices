@@ -2380,34 +2380,6 @@
    "23073RPBFL": "Redmi Pad SE Latin America"
   }
  },
- "baiji": {
-  "internal_name": "",
-  "name": "Mi Watch",
-  "models": {
-   "XMWT01": "Mi Watch"
-  }
- },
- "axolotlaxie": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2",
-  "models": {
-   "M2320W1": "Xiaomi Watch 2"
-  }
- },
- "axolotl": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2 Pro",
-  "models": {
-   "M2234W1": "Xiaomi Watch 2 Pro Bluetooth"
-  }
- },
- "axolotlte": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2 Pro",
-  "models": {
-   "M2233W1": "Xiaomi Watch 2 Pro LTE"
-  }
- },
  "FYJ01QP": {
   "internal_name": "",
   "name": "Xiaomi Mijia Translator",

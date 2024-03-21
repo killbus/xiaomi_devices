@@ -2380,34 +2380,6 @@
    "220333QPI": "POCO C40 印度版"
   }
  },
- "baiji": {
-  "internal_name": "",
-  "name": "小米手表",
-  "models": {
-   "XMWT01": "小米手表"
-  }
- },
- "axolotlaxie": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2",
-  "models": {
-   "M2320W1": "Xiaomi Watch 2"
-  }
- },
- "axolotl": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2 Pro",
-  "models": {
-   "M2234W1": "Xiaomi Watch 2 Pro 蓝牙"
-  }
- },
- "axolotlte": {
-  "internal_name": "",
-  "name": "Xiaomi Watch 2 Pro",
-  "models": {
-   "M2233W1": "Xiaomi Watch 2 Pro LTE"
-  }
- },
  "FYJ01QP": {
   "internal_name": "",
   "name": "小米米家翻译机",
