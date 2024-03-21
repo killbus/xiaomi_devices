@@ -540,7 +540,7 @@
   "internal_name": "N2",
   "name": "Xiaomi 14 Pro",
   "models": {
-   "23116PN5BC": "Xiaomi 14 Pro China",
+   "23116PN5BC": "Xiaomi 14 Pro China / Xiaomi 14 Pro Ti China",
    "2311BPN23C": "Xiaomi 14 Pro Ti Satellite China"
   }
  },
@@ -740,6 +740,13 @@
   "name": "Xiaomi Civi 3",
   "models": {
    "23046PNC9C": "Xiaomi Civi 3 China"
+  }
+ },
+ "chenfeng": {
+  "internal_name": "N9",
+  "name": "Xiaomi Civi 4 Pro",
+  "models": {
+   "24053PY09C": "Xiaomi Civi 4 Pro China"
   }
  },
  "lotus": {
@@ -2378,6 +2385,27 @@
   "name": "Mi Watch",
   "models": {
    "XMWT01": "Mi Watch"
+  }
+ },
+ "axolotlaxie": {
+  "internal_name": "",
+  "name": "Xiaomi Watch 2",
+  "models": {
+   "M2320W1": "Xiaomi Watch 2"
+  }
+ },
+ "axolotl": {
+  "internal_name": "",
+  "name": "Xiaomi Watch 2 Pro",
+  "models": {
+   "M2234W1": "Xiaomi Watch 2 Pro Bluetooth"
+  }
+ },
+ "axolotlte": {
+  "internal_name": "",
+  "name": "Xiaomi Watch 2 Pro",
+  "models": {
+   "M2233W1": "Xiaomi Watch 2 Pro LTE"
   }
  },
  "FYJ01QP": {
