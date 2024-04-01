@@ -1986,6 +1986,15 @@
    "M2004J7BC": "Redmi 10X Pro 5G"
   }
  },
+ "peridot": {
+  "internal_name": "N16T",
+  "name": "Redmi Turbo 3 / POCO F6",
+  "models": {
+   "24069RA21C": "Redmi Turbo 3",
+   "24069PC21G": "POCO F6 国际版",
+   "24069PC21I": "POCO F6 印度版"
+  }
+ },
  "davinciin": {
   "internal_name": "F10",
   "name": "Redmi K20",
@@ -2273,14 +2282,6 @@
   "name": "POCO F3 GT",
   "models": {
    "M2104K10I": "POCO F3 GT 印度版"
-  }
- },
- "peridot": {
-  "internal_name": "N16T",
-  "name": "POCO F6",
-  "models": {
-   "24069PC21G": "POCO F6 国际版",
-   "24069PC21I": "POCO F6 印度版"
   }
  },
  "phoenixin": {
