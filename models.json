@@ -2270,6 +2270,14 @@
    "23073RPBFL": "Redmi Pad SE 拉美版"
   }
  },
+ "dizi": {
+  "internal_name": "",
+  "name": "Redmi Pad Pro",
+  "models": {
+   "2405CRPFDC": "Redmi Pad Pro 国行版",
+   "2405CRPFDG": "Redmi Pad Pro 国际版"
+  }
+ },
  "beryllium": {
   "internal_name": "E10",
   "name": "POCO F1",
