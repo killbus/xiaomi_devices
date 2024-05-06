@@ -552,6 +552,14 @@
    "24030PN60G": "Xiaomi 14 Ultra 国际版"
   }
  },
+ "chenfeng": {
+  "internal_name": "N9",
+  "name": "Xiaomi 14 Civi / Xiaomi Civi 4 Pro",
+  "models": {
+   "24053PY09I": "Xiaomi 14 Civi 印度版",
+   "24053PY09C": "Xiaomi Civi 4 Pro"
+  }
+ },
  "degas": {
   "internal_name": "N12A",
   "name": "Xiaomi 14T",
@@ -765,13 +773,6 @@
   "name": "Xiaomi Civi 3",
   "models": {
    "23046PNC9C": "Xiaomi Civi 3"
-  }
- },
- "chenfeng": {
-  "internal_name": "N9",
-  "name": "Xiaomi Civi 4 Pro",
-  "models": {
-   "24053PY09C": "Xiaomi Civi 4 Pro"
   }
  },
  "lotus": {
@@ -2200,7 +2201,7 @@
   }
  },
  "manet": {
-  "internal_name": "N11R",
+  "internal_name": "N11U",
   "name": "Redmi K70 Pro",
   "models": {
    "23117RK66C": "Redmi K70 Pro"
