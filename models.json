@@ -1398,9 +1398,15 @@
   "name": "Redmi 13C 5G / Redmi 13R 5G / POCO M6 5G",
   "models": {
    "23124RN87C": "Redmi 13C 5G 国行版 / Redmi 13R 5G",
-   "23124RN87G": "Redmi 13C 5G 国际版",
    "23124RN87I": "Redmi 13C 5G 印度版",
    "23128PC33I": "POCO M6 5G 印度版"
+  }
+ },
+ "atmos": {
+  "internal_name": "C3V",
+  "name": "Redmi 13C 5G",
+  "models": {
+   "23124RN87G": "Redmi 13C 5G 国际版"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2306,6 +2312,14 @@
    "2312BPC51H": "POCO C61 印度版"
   }
  },
+ "klein": {
+  "internal_name": "",
+  "name": "Redmi A3x",
+  "models": {
+   "24048RN6CG": "Redmi A3x 国际版",
+   "24048RN6CI": "Redmi A3x 印度版"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
@@ -2329,6 +2343,7 @@
   "models": {
    "2405CRPFDC": "Redmi Pad Pro 国行版",
    "2405CRPFDG": "Redmi Pad Pro 国际版",
+   "2405CRPFDL": "Redmi Pad Pro 拉美版",
    "2405CPCFBG": "POCO Pad 国际版"
   }
  },
