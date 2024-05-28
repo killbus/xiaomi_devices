@@ -1278,11 +1278,12 @@
   }
  },
  "breeze": {
-  "internal_name": "N19",
-  "name": "Redmi 13 5G / Redmi Note 13R",
+  "internal_name": "N19/N19P",
+  "name": "Redmi 13 5G / Redmi Note 13R / POCO M6 Plus 5G",
   "models": {
    "2406ERN9CC": "Redmi Note 13R China",
-   "2406ERN9CI": "Redmi 13 5G India"
+   "2406ERN9CI": "Redmi 13 5G India",
+   "24066PC95I": "POCO M6 Plus 5G India"
   }
  },
  "gale": {
