@@ -1950,8 +1950,7 @@
   "name": "Redmi Note 12 Pro 极速版 / POCO X5 Pro 5G",
   "models": {
    "22101320C": "Redmi Note 12 Pro 极速版",
-   "22101320G": "POCO X5 Pro 5G 国际版",
-   "22101320I": "POCO X5 Pro 5G 印度版"
+   "22101320G": "POCO X5 Pro 5G 国际版"
   }
  },
  "pearl": {
@@ -2165,8 +2164,7 @@
   "name": "Redmi K50 电竞版 / POGO F4 GT",
   "models": {
    "21121210C": "Redmi K50 电竞版",
-   "21121210G": "POCO F4 GT 国际版",
-   "21121210I": "POCO F4 GT 印度版"
+   "21121210G": "POCO F4 GT 国际版"
   }
  },
  "xagain": {
@@ -2203,8 +2201,7 @@
   "name": "Redmi K70 / POCO F6 Pro",
   "models": {
    "23113RKC6C": "Redmi K70",
-   "23113RKC6G": "POCO F6 Pro 国际版",
-   "23113RKC6I": "POCO F6 Pro 印度版"
+   "23113RKC6G": "POCO F6 Pro 国际版"
   }
  },
  "manet": {
@@ -2318,7 +2315,8 @@
   "name": "Redmi A3x",
   "models": {
    "24048RN6CG": "Redmi A3x 国际版",
-   "24048RN6CI": "Redmi A3x 印度版"
+   "24048RN6CI": "Redmi A3x 印度版",
+   "24044RN32L": "Redmi A3x 拉美版"
   }
  },
  "yunluo": {
@@ -2412,6 +2410,13 @@
   "models": {
    "22111317PG": "POCO X5 5G 国际版",
    "22111317PI": "POCO X5 5G 印度版"
+  }
+ },
+ "redwoodin": {
+  "internal_name": "M20",
+  "name": "POCO X5 Pro 5G",
+  "models": {
+   "22101320I": "POCO X5 Pro 5G 印度版"
   }
  },
  "shiva": {
