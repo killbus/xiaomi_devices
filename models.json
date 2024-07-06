@@ -537,8 +537,8 @@
   }
  },
  "shennong": {
-  "internal_name": "N2",
-  "name": "Xiaomi 14 Pro",
+  "internal_name": "N2/N2T",
+  "name": "Xiaomi 14 Pro / Xiaomi 14 Pro",
   "models": {
    "23116PN5BC": "Xiaomi 14 Pro / Xiaomi 14 Pro 钛金属版",
    "2311BPN23C": "Xiaomi 14 Pro 钛金属版 (卫星通讯)"
@@ -672,18 +672,18 @@
    "M1810E5GG": "小米 MIX 3 5G"
   }
  },
- "cetus": {
-  "internal_name": "J18",
-  "name": "MIX FOLD 小米折叠屏手机",
-  "models": {
-   "M2011J18C": "MIX FOLD 小米折叠屏手机"
-  }
- },
  "odin": {
   "internal_name": "K8",
   "name": "Xiaomi MIX 4",
   "models": {
    "2106118C": "Xiaomi MIX 4"
+  }
+ },
+ "cetus": {
+  "internal_name": "J18",
+  "name": "MIX FOLD 小米折叠屏手机",
+  "models": {
+   "M2011J18C": "MIX FOLD 小米折叠屏手机"
   }
  },
  "zizhan": {
@@ -705,6 +705,14 @@
   "name": "Xiaomi MIX Fold 4",
   "models": {
    "24072PX77C": "Xiaomi MIX Fold 4"
+  }
+ },
+ "ruyi": {
+  "internal_name": "N8",
+  "name": "Xiaomi MIX Flip",
+  "models": {
+   "2405CPX3DC": "Xiaomi MIX Flip 国行版",
+   "2405CPX3DG": "Xiaomi MIX Flip 国际版"
   }
  },
  "hydrogen": {
@@ -1210,14 +1218,14 @@
   }
  },
  "lemon": {
-  "internal_name": "J19S",
+  "internal_name": "J19N",
   "name": "Redmi 9T",
   "models": {
    "M2010J19SY": "Redmi 9T 国际版 (NFC)"
   }
  },
  "pomelo": {
-  "internal_name": "J19S",
+  "internal_name": "J19L",
   "name": "Redmi 9T",
   "models": {
    "M2010J19SL": "Redmi 9T 拉美版"
@@ -1244,7 +1252,7 @@
   }
  },
  "light": {
-  "internal_name": "L19/L19P",
+  "internal_name": "L19/L19X/L19P",
   "name": "Redmi 10 5G / Redmi 11 Prime 5G / Redmi Note 11E 5G / Redmi Note 11R / POCO M4 5G",
   "models": {
    "22041219G": "Redmi 10 5G 国际版",
@@ -2017,6 +2025,7 @@
    "2312CRAD3C": "Redmi Note 13 Pro 国行版",
    "2312DRA50G": "Redmi Note 13 Pro 5G 国际版",
    "2312DRA50I": "Redmi Note 13 Pro 5G 印度版",
+   "XIG05": "Redmi Note 13 Pro 5G 日本版 (KDDI)",
    "23122PCD1G": "POCO X6 5G 国际版",
    "23122PCD1I": "POCO X6 5G 印度版"
   }
@@ -2307,6 +2316,7 @@
    "23129RN51X": "Redmi A3 国际版",
    "23129RN51H": "Redmi A3 印度版",
    "2312CRNCCL": "Redmi A3 拉美版",
+   "2312BPC51X": "POCO C61 国际版",
    "2312BPC51H": "POCO C61 印度版"
   }
  },
@@ -2337,17 +2347,18 @@
   }
  },
  "dizi": {
-  "internal_name": "",
+  "internal_name": "N83/N83P",
   "name": "Redmi Pad Pro / POCO Pad",
   "models": {
    "2405CRPFDC": "Redmi Pad Pro 国行版",
    "2405CRPFDG": "Redmi Pad Pro 国际版",
+   "2405CRPFDI": "Redmi Pad Pro 印度版",
    "2405CRPFDL": "Redmi Pad Pro 拉美版",
    "2405CPCFBG": "POCO Pad 国际版"
   }
  },
  "ruan": {
-  "internal_name": "",
+  "internal_name": "N83U",
   "name": "Redmi Pad Pro 5G",
   "models": {
    "24074RPD2C": "Redmi Pad Pro 5G 国行版",
