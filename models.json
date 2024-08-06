@@ -2321,7 +2321,7 @@
   }
  },
  "klein": {
-  "internal_name": "",
+  "internal_name": "C3Y2",
   "name": "Redmi A3x",
   "models": {
    "24048RN6CG": "Redmi A3x 国际版",
@@ -2363,6 +2363,16 @@
   "models": {
    "24074RPD2C": "Redmi Pad Pro 5G 国行版",
    "24074RPD2G": "Redmi Pad Pro 5G 国际版"
+  }
+ },
+ "": {
+  "internal_name": "N85/K91",
+  "name": "Redmi Pad SE 8.7: / Redmi Pad SE 8.7 4G: / CyberDog 仿生四足机器人:",
+  "models": {
+   "24075RP89G": "Redmi Pad SE 8.7 国际版",
+   "24076RP19G": "Redmi Pad SE 8.7 4G 国际版",
+   "24076RP19I": "Redmi Pad SE 4G 印度版",
+   "21051191C": "CyberDog 仿生四足机器人"
   }
  },
  "beryllium": {
@@ -2488,13 +2498,6 @@
   "name": "小米米家翻译机",
   "models": {
    "FYJ01QP": "小米米家翻译机"
-  }
- },
- "": {
-  "internal_name": "K91",
-  "name": "CyberDog 仿生四足机器人:",
-  "models": {
-   "21051191C": "CyberDog 仿生四足机器人"
   }
  }
 }
