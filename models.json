@@ -2367,12 +2367,18 @@
  },
  "": {
   "internal_name": "N85/K91",
-  "name": "Redmi Pad SE 8.7: / Redmi Pad SE 8.7 4G: / CyberDog 仿生四足机器人:",
+  "name": "Redmi Pad SE 8.7: / CyberDog 仿生四足机器人:",
   "models": {
    "24075RP89G": "Redmi Pad SE 8.7 国际版",
-   "24076RP19G": "Redmi Pad SE 8.7 4G 国际版",
-   "24076RP19I": "Redmi Pad SE 4G 印度版",
    "21051191C": "CyberDog 仿生四足机器人"
+  }
+ },
+ "spark": {
+  "internal_name": "N85",
+  "name": "Redmi Pad SE 8.7 4G",
+  "models": {
+   "24076RP19G": "Redmi Pad SE 8.7 4G 国际版",
+   "24076RP19I": "Redmi Pad SE 4G 印度版"
   }
  },
  "beryllium": {
