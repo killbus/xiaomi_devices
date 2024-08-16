@@ -2350,27 +2350,28 @@
   "internal_name": "N83/N83P",
   "name": "Redmi Pad Pro / POCO Pad",
   "models": {
-   "2405CRPFDC": "Redmi Pad Pro 国行版",
-   "2405CRPFDG": "Redmi Pad Pro 国际版",
-   "2405CRPFDI": "Redmi Pad Pro 印度版",
-   "2405CRPFDL": "Redmi Pad Pro 拉美版",
-   "2405CPCFBG": "POCO Pad 国际版"
+   "2405CRPFDC": "Redmi Pad Pro Wi-Fi 国行版",
+   "2405CRPFDG": "Redmi Pad Pro Wi-Fi 国际版",
+   "2405CRPFDI": "Redmi Pad Pro Wi-Fi 印度版",
+   "2405CRPFDL": "Redmi Pad Pro Wi-Fi 拉美版",
+   "2405CPCFBG": "POCO Pad Wi-Fi 国际版"
   }
  },
  "ruan": {
   "internal_name": "N83U",
-  "name": "Redmi Pad Pro 5G",
+  "name": "Redmi Pad Pro 5G / POCO Pad 5G",
   "models": {
    "24074RPD2C": "Redmi Pad Pro 5G 国行版",
-   "24074RPD2G": "Redmi Pad Pro 5G 国际版"
+   "24074RPD2G": "Redmi Pad Pro 5G 国际版",
+   "24074RPD2I": "Redmi Pad Pro 5G 印度版",
+   "24074PCD2I": "POCO Pad 5G 印度版"
   }
  },
- "": {
-  "internal_name": "N85/K91",
-  "name": "Redmi Pad SE 8.7: / CyberDog 仿生四足机器人:",
+ "flare": {
+  "internal_name": "N85",
+  "name": "Redmi Pad SE 8.7",
   "models": {
-   "24075RP89G": "Redmi Pad SE 8.7 国际版",
-   "21051191C": "CyberDog 仿生四足机器人"
+   "24075RP89G": "Redmi Pad SE 8.7 Wi-Fi 国际版"
   }
  },
  "spark": {
@@ -2504,6 +2505,13 @@
   "name": "小米米家翻译机",
   "models": {
    "FYJ01QP": "小米米家翻译机"
+  }
+ },
+ "": {
+  "internal_name": "K91",
+  "name": "CyberDog 仿生四足机器人:",
+  "models": {
+   "21051191C": "CyberDog 仿生四足机器人"
   }
  }
 }
