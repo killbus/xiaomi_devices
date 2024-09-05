@@ -1418,13 +1418,21 @@
    "23124RN87G": "Redmi 13C 5G 国际版"
   }
  },
+ "pond": {
+  "internal_name": "C3N",
+  "name": "Redmi 14C / Redmi A3 Pro",
+  "models": {
+   "2409BRN2CA": "Redmi 14C 国际版",
+   "2409BRN2CI": "Redmi 14C 印度版",
+   "2409BRN2CL": "Redmi 14C 拉美版",
+   "2409BRN2CG": "Redmi A3 Pro 国际版"
+  }
+ },
  "lake": {
   "internal_name": "C3N",
   "name": "Redmi 14C",
   "models": {
-   "2409BRN2CA": "Redmi 14C 国际版",
-   "2409BRN2CI": "Redmi 14C 印度版",
-   "2409BRN2CL": "Redmi 14C 拉美版"
+   "2409BRN2CY": "Redmi 14C 国际版 (NFC)"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2336,13 +2344,6 @@
    "24048RN6CG": "Redmi A3x 国际版",
    "24048RN6CI": "Redmi A3x 印度版",
    "24044RN32L": "Redmi A3x 拉美版"
-  }
- },
- "pond": {
-  "internal_name": "C3N",
-  "name": "Redmi A3 Pro",
-  "models": {
-   "2409BRN2CG": "Redmi A3 Pro 国际版"
   }
  },
  "yunluo": {
