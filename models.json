@@ -578,6 +578,22 @@
    "2407FRK8EC": "Redmi K70 至尊版"
   }
  },
+ "dada": {
+  "internal_name": "O3",
+  "name": "Xiaomi 15",
+  "models": {
+   "24129PN74C": "Xiaomi 15 国行版",
+   "24129PN74G": "Xiaomi 15 国际版",
+   "24129PN74I": "Xiaomi 15 印度版"
+  }
+ },
+ "haotian": {
+  "internal_name": "O2",
+  "name": "Xiaomi 15 Pro",
+  "models": {
+   "2410DPN6CC": "Xiaomi 15 Pro"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "小米 Note",
@@ -910,6 +926,22 @@
   "models": {
    "24018RPACC": "Xiaomi Pad 6S Pro 12.4 国行版",
    "24018RPACG": "Xiaomi Pad 6S Pro 12.4 国际版"
+  }
+ },
+ "uke": {
+  "internal_name": "O82",
+  "name": "Xiaomi Pad 7",
+  "models": {
+   "2410CRP4CC": "Xiaomi Pad 7 国行版",
+   "2410CRP4CG": "Xiaomi Pad 7 国际版"
+  }
+ },
+ "muyu": {
+  "internal_name": "O81",
+  "name": "Xiaomi Pad 7 Pro",
+  "models": {
+   "24091RPADC": "Xiaomi Pad 7 Pro 国行版",
+   "24091RPADG": "Xiaomi Pad 7 Pro 国际版"
   }
  },
  "wt93007": {
@@ -1422,6 +1454,7 @@
   "internal_name": "C3N",
   "name": "Redmi 14C / Redmi A3 Pro",
   "models": {
+   "2409BRN2CC": "Redmi 14C 国行版",
    "2409BRN2CA": "Redmi 14C 国际版",
    "2409BRN2CI": "Redmi 14C 印度版",
    "2409BRN2CL": "Redmi 14C 拉美版",
@@ -1436,10 +1469,11 @@
   }
  },
  "flame": {
-  "internal_name": "",
-  "name": "Redmi 14R 5G",
+  "internal_name": "C3F/C3FP",
+  "name": "Redmi 14R 5G / POCO M7 5G",
   "models": {
-   "2411DRN47C": "Redmi 14R 5G"
+   "2411DRN47C": "Redmi 14R 5G",
+   "24108PCE2I": "POCO M7 5G 印度版"
   }
  },
  "lcsh92_wet_gb9": {
@@ -1906,10 +1940,9 @@
  },
  "xagapro": {
   "internal_name": "L16U",
-  "name": "Redmi Note 11T Pro+ / POCO X4 GT Pro",
+  "name": "Redmi Note 11T Pro+",
   "models": {
-   "22041216UC": "Redmi Note 11T Pro+",
-   "22041216UG": "POCO X4 GT Pro 国际版"
+   "22041216UC": "Redmi Note 11T Pro+"
   }
  },
  "tapas": {
@@ -2071,6 +2104,13 @@
    "24094RAD4C": "Redmi Note 14 5G 国行版",
    "24094RAD4G": "Redmi Note 14 5G 国际版",
    "24094RAD4I": "Redmi Note 14 5G 印度版"
+  }
+ },
+ "obsidian": {
+  "internal_name": "O6",
+  "name": "Redmi Note 14 Pro",
+  "models": {
+   "24116RACCG": "Redmi Note 14 Pro 国际版"
   }
  },
  "malachite": {
@@ -2390,9 +2430,9 @@
  },
  "xun": {
   "internal_name": "M84",
-  "name": "Redmi Pad SE",
+  "name": "Redmi Pad SE / Redmi Pad M7",
   "models": {
-   "23073RPBFC": "Redmi Pad SE 国行版",
+   "23073RPBFC": "Redmi Pad M7",
    "23073RPBFG": "Redmi Pad SE 国际版",
    "23073RPBFL": "Redmi Pad SE 拉美版"
   }
