@@ -565,7 +565,7 @@
   "name": "Xiaomi 14T",
   "models": {
    "2406APNFAG": "Xiaomi 14T 国际版",
-   "XIG06": "Xiaomi 14T 日本版 (KDDI)"
+   "XIG07": "Xiaomi 14T 日本版 (KDDI)"
   }
  },
  "rothko": {
@@ -574,6 +574,7 @@
   "models": {
    "2407FPN8EG": "Xiaomi 14T Pro 国际版",
    "2407FPN8ER": "Xiaomi 14T Pro 日本版 (无锁)",
+   "XIG06": "Xiaomi 14T Pro 日本版 (KDDI)",
    "A402XM": "Xiaomi 14T Pro 日本版 (SoftBank)",
    "2407FRK8EC": "Redmi K70 至尊版"
   }
@@ -2032,8 +2033,7 @@
   "name": "Redmi Note 12 Turbo / POCO F5",
   "models": {
    "23049RAD8C": "Redmi Note 12 Turbo",
-   "23049PCD8G": "POCO F5 国际版",
-   "23049PCD8I": "POCO F5 印度版"
+   "23049PCD8G": "POCO F5 国际版"
   }
  },
  "sapphire": {
@@ -2330,7 +2330,7 @@
   }
  },
  "zorn": {
-  "internal_name": "",
+  "internal_name": "O11",
   "name": "Redmi K80",
   "models": {
    "24117RK2CC": "Redmi K80"
@@ -2501,6 +2501,13 @@
   "name": "POCO F3 GT",
   "models": {
    "M2104K10I": "POCO F3 GT 印度版"
+  }
+ },
+ "marblein": {
+  "internal_name": "M16T",
+  "name": "POCO F5",
+  "models": {
+   "23049PCD8I": "POCO F5 印度版"
   }
  },
  "phoenixin": {
