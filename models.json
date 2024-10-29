@@ -1290,8 +1290,8 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19P",
-  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
+  "internal_name": "M19/M19J/M19/M19/M19/M19P",
+  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
   "models": {
    "23077RABDC": "Redmi 12 5G 国行版",
    "23076RN8DY": "Redmi 12 5G 国际版 (NFC)",
@@ -1311,7 +1311,7 @@
    "22120RN86G": "Redmi 12C 国际版",
    "22120RN86H": "Redmi 12C 印度版",
    "22120RN86I": "Redmi 12C 印度版",
-   "2212ARNC4L": "Redmi 12C 拉美版",
+   "2212ARNC4L": "Redmi 12C 拉美版 / 日本版",
    "22126RN91Y": "Redmi 12C 国际版 (NFC)",
    "22127PC95G": "POCO C55 国际版",
    "22127PC95H": "POCO C55 印度版",
@@ -1368,7 +1368,7 @@
    "2409BRN2CC": "Redmi 14C 国行版",
    "2409BRN2CA": "Redmi 14C 国际版",
    "2409BRN2CI": "Redmi 14C 印度版",
-   "2409BRN2CL": "Redmi 14C 拉美版",
+   "2409BRN2CL": "Redmi 14C 拉美版 / 日本版",
    "2409BRN2CY": "Redmi 14C 国际版 (NFC)",
    "2409BRN2CG": "Redmi A3 Pro 国际版",
    "2410FPCC5G": "POCO C75 国际版",

@@ -1184,8 +1184,8 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19P",
-  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
+  "internal_name": "M19/M19J/M19/M19/M19/M19P",
+  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
   "models": {
    "23076RN8DY": "Redmi 12 5G Global (NFC)",
    "23077RABDC": "Redmi 12 5G China",
@@ -1205,7 +1205,7 @@
    "22120RN86H": "Redmi 12C India",
    "22120RN86I": "Redmi 12C India",
    "22120RN86C": "Redmi 12C China",
-   "2212ARNC4L": "Redmi 12C Latin America",
+   "2212ARNC4L": "Redmi 12C Latin America / Japan",
    "22126RN91Y": "Redmi 12C Global (NFC)",
    "22127PC95G": "POCO C55 Global",
    "22127PC95H": "POCO C55 India",
@@ -1261,7 +1261,7 @@
   "models": {
    "2409BRN2CA": "Redmi 14C Global",
    "2409BRN2CI": "Redmi 14C India",
-   "2409BRN2CL": "Redmi 14C Latin America",
+   "2409BRN2CL": "Redmi 14C Latin America / Japan",
    "2409BRN2CC": "Redmi 14C China",
    "2409BRN2CY": "Redmi 14C Global (NFC)",
    "2409BRN2CG": "Redmi A3 Pro Global",
