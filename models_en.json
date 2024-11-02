@@ -208,10 +208,10 @@
  },
  "raphael": {
   "internal_name": "F11",
-  "name": "Mi 9T Pro / Redmi K20 Pro / Redmi K20 Pro Premium Edition",
+  "name": "Mi 9T Pro / Redmi K20 Pro",
   "models": {
    "M1903F11G": "Mi 9T Pro Global",
-   "M1903F11A": "Redmi K20 Pro Premium Edition China",
+   "M1903F11A": "Redmi K20 Pro China / Redmi K20 Pro Premium Edition China",
    "M1903F11C": "Redmi K20 Pro Chinese Carrier Version"
   }
  },
@@ -1184,8 +1184,8 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19J/M19/M19/M19/M19P",
-  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
+  "internal_name": "M19/M19J/M19/M19/M19P",
+  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi Note 12R / Redmi 12R / POCO M6 Pro 5G",
   "models": {
    "23076RN8DY": "Redmi 12 5G Global (NFC)",
    "23077RABDC": "Redmi 12 5G China",
@@ -1193,7 +1193,7 @@
    "XIG03": "Redmi 12 5G Japan (KDDI)",
    "A401XM": "Redmi 12 5G Japan (SoftBank)",
    "23076RN4BI": "Redmi 12 5G India",
-   "23076RA4BC": "Redmi Note 12R China",
+   "23076RA4BC": "Redmi Note 12R China / Redmi 12R China",
    "23076PC4BI": "POCO M6 Pro 5G India"
   }
  },
@@ -2314,7 +2314,7 @@
   "name": "Redmi Pad SE / Redmi Pad M7",
   "models": {
    "23073RPBFG": "Redmi Pad SE Global",
-   "23073RPBFC": "Redmi Pad M7 China",
+   "23073RPBFC": "Redmi Pad SE China / Redmi Pad M7 China",
    "23073RPBFL": "Redmi Pad SE Latin America"
   }
  },
