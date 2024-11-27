@@ -1290,8 +1290,8 @@
   }
  },
  "sky": {
-  "internal_name": "M19/M19J/M19/M19/M19/M19P",
-  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
+  "internal_name": "M19P/M19N/M19J/M19/M19/M19/M19P",
+  "name": "Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12 5G / Redmi 12R / Redmi Note 12R / POCO M6 Pro 5G",
   "models": {
    "23077RABDC": "Redmi 12 5G 国行版",
    "23076RN8DY": "Redmi 12 5G 国际版 (NFC)",
@@ -1319,7 +1319,7 @@
   }
  },
  "moon": {
-  "internal_name": "N19A/N19L/N19E/N19C/N19C",
+  "internal_name": "N19A/N19L/N19E/N19AP/N19AP",
   "name": "Redmi 13 / Redmi 13 / Redmi 13 / POCO M6 / POCO M6",
   "models": {
    "2404ARN45A": "Redmi 13 国际版",
@@ -1368,7 +1368,7 @@
    "2409BRN2CC": "Redmi 14C 国行版",
    "2409BRN2CA": "Redmi 14C 国际版",
    "2409BRN2CI": "Redmi 14C 印度版",
-   "2409BRN2CL": "Redmi 14C 拉美版 / 日本版",
+   "2409BRN2CL": "Redmi 14C 拉美版 / 日韩版",
    "2409BRN2CY": "Redmi 14C 国际版 (NFC)",
    "2409BRN2CG": "Redmi A3 Pro 国际版",
    "2410FPCC5G": "POCO C75 国际版",
@@ -1608,7 +1608,7 @@
   "name": "Redmi Note 9 Pro / Redmi Note 9S / Redmi Note 10 Lite",
   "models": {
    "M2003J6A1G": "Redmi Note 9S 国际版",
-   "M2003J6A1R": "Redmi Note 9S 日本版 / Redmi Note 9S 韩国版",
+   "M2003J6A1R": "Redmi Note 9S 日韩版",
    "M2003J6A1I": "Redmi Note 9 Pro 印度版",
    "2109106A1I": "Redmi Note 10 Lite 印度版"
   }
@@ -1636,7 +1636,7 @@
   }
  },
  "rosemary": {
-  "internal_name": "K7B/K7BN/K7BL/K7B/K7BP",
+  "internal_name": "K7B/K7BN/K7BL/K7BR/K7BP",
   "name": "Redmi Note 10S / Redmi Note 10S / Redmi Note 10S / Redmi Note 11 SE / POCO M5s",
   "models": {
    "M2101K7BG": "Redmi Note 10S 国际版",
@@ -1789,8 +1789,8 @@
   }
  },
  "tapas": {
-  "internal_name": "M7/M7L",
-  "name": "Redmi Note 12 / Redmi Note 12",
+  "internal_name": "M7/M7U/M7L",
+  "name": "Redmi Note 12 / Redmi Note 12 / Redmi Note 12",
   "models": {
    "23021RAAEG": "Redmi Note 12 国际版",
    "23027RAD4I": "Redmi Note 12 印度版",
@@ -1876,7 +1876,7 @@
   }
  },
  "gold": {
-  "internal_name": "N17",
+  "internal_name": "N17/N17A/N17A",
   "name": "Redmi Note 13 5G / Redmi Note 13 5G / Redmi Note 13R Pro / POCO X6 Neo",
   "models": {
    "2312DRAABC": "Redmi Note 13 5G 国行版",
@@ -1935,12 +1935,14 @@
   }
  },
  "malachite": {
-  "internal_name": "O16",
-  "name": "Redmi Note 14 Pro",
+  "internal_name": "O16/O16P",
+  "name": "Redmi Note 14 Pro / POCO X7",
   "models": {
    "24090RA29C": "Redmi Note 14 Pro 国行版",
    "24090RA29G": "Redmi Note 14 Pro 5G 国际版",
-   "24090RA29I": "Redmi Note 14 Pro 5G 印度版"
+   "24090RA29I": "Redmi Note 14 Pro 5G 印度版",
+   "24095PCADG": "POCO X7 国际版",
+   "24095PCADI": "POCO X7 印度版"
   }
  },
  "amethyst": {
@@ -2123,9 +2125,16 @@
  },
  "zorn": {
   "internal_name": "O11",
-  "name": "Redmi K80",
+  "name": "REDMI K80",
   "models": {
-   "24117RK2CC": "Redmi K80"
+   "24117RK2CC": "REDMI K80"
+  }
+ },
+ "miro": {
+  "internal_name": "O11U",
+  "name": "REDMI K80 Pro",
+  "models": {
+   "24122RKC7C": "REDMI K80 Pro"
   }
  },
  "omega": {
@@ -2216,6 +2225,14 @@
    "24044RN32L": "Redmi A3x 拉美版"
   }
  },
+ "warm": {
+  "internal_name": "C3F2",
+  "name": "Redmi A4 5G / POCO C75 5G",
+  "models": {
+   "24116RNC1I": "Redmi A4 5G 印度版",
+   "24116PCC1I": "POCO C75 5G 印度版"
+  }
+ },
  "yunluo": {
   "internal_name": "L83",
   "name": "Redmi Pad",
@@ -2240,7 +2257,7 @@
    "2405CRPFDC": "Redmi Pad Pro Wi-Fi 国行版",
    "2405CRPFDG": "Redmi Pad Pro Wi-Fi 国际版",
    "2405CRPFDI": "Redmi Pad Pro Wi-Fi 印度版",
-   "2405CRPFDL": "Redmi Pad Pro Wi-Fi 拉美版",
+   "2405CRPFDL": "Redmi Pad Pro Wi-Fi 拉美版 / 韩国版",
    "2405CPCFBG": "POCO Pad Wi-Fi 国际版"
   }
  },
@@ -2306,6 +2323,14 @@
   "models": {
    "22111317PG": "POCO X5 5G 国际版",
    "22111317PI": "POCO X5 5G 印度版"
+  }
+ },
+ "rodin": {
+  "internal_name": "O10",
+  "name": "POCO X7 Pro",
+  "models": {
+   "2412DPC0AG": "POCO X7 Pro 国际版",
+   "2412DPC0AI": "POCO X7 Pro 印度版"
   }
  },
  "shiva": {
