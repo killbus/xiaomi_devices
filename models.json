@@ -344,24 +344,20 @@
  },
  "haydn": {
   "internal_name": "K11",
-  "name": "小米 11i / Redmi K40 Pro / Redmi K40 Pro+",
+  "name": "小米 11i / 小米 11X Pro / Redmi K40 Pro / Redmi K40 Pro+",
   "models": {
    "M2012K11G": "小米 11i 国际版",
+   "M2012K11I": "小米 11X Pro 印度版",
    "M2012K11C": "Redmi K40 Pro+"
   }
  },
- "aliothin": {
+ "alioth": {
   "internal_name": "K11A",
-  "name": "小米 11X",
+  "name": "小米 11X / Redmi K40 / POCO F3",
   "models": {
-   "M2012K11AI": "小米 11X 印度版"
-  }
- },
- "haydnin": {
-  "internal_name": "K11",
-  "name": "小米 11X Pro",
-  "models": {
-   "M2012K11I": "小米 11X Pro 印度版"
+   "M2012K11AI": "小米 11X 印度版",
+   "M2012K11AC": "Redmi K40",
+   "M2012K11AG": "POCO F3 国际版"
   }
  },
  "agate": {
@@ -585,6 +581,16 @@
   "name": "Xiaomi 15 Pro",
   "models": {
    "2410DPN6CC": "Xiaomi 15 Pro"
+  }
+ },
+ "xuanyuan": {
+  "internal_name": "O1",
+  "name": "Xiaomi 15 Ultra",
+  "models": {
+   "25019PNF3C": "Xiaomi 15 Ultra 国行版",
+   "25010PN30C": "Xiaomi 15 Ultra 双卫星版 国行版",
+   "25010PN30G": "Xiaomi 15 Ultra 国际版",
+   "25010PN30I": "Xiaomi 15 Ultra 印度版"
   }
  },
  "virgo": {
@@ -2050,14 +2056,6 @@
   "name": "Redmi K30 至尊纪念版",
   "models": {
    "M2006J10C": "Redmi K30 至尊纪念版"
-  }
- },
- "alioth": {
-  "internal_name": "K11A",
-  "name": "Redmi K40 / POCO F3",
-  "models": {
-   "M2012K11AC": "Redmi K40",
-   "M2012K11AG": "POCO F3 国际版"
   }
  },
  "ares": {
