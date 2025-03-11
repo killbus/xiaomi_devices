@@ -1326,9 +1326,9 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP/N19AP",
-  "name": "Redmi 13 / Redmi 13 / Redmi 13 / POCO M6 / POCO M6",
+  "name": "Redmi 13 / Redmi 13X / Redmi 13 / Redmi 13 / POCO M6 / POCO M6",
   "models": {
-   "2404ARN45A": "Redmi 13 国际版",
+   "2404ARN45A": "Redmi 13 国际版 / Redmi 13X 国际版",
    "2404ARN45I": "Redmi 13 印度版",
    "24049RN28L": "Redmi 13 拉美版",
    "24040RN64Y": "Redmi 13 国际版 (NFC)",
@@ -1346,8 +1346,8 @@
   }
  },
  "gale": {
-  "internal_name": "C3U/C3UL/C3UN/C3UP/C3UP",
-  "name": "Redmi 13C / Redmi 13C / Redmi 13C / POCO C65 / POCO C65",
+  "internal_name": "C3UA/C3U/C3UL/C3UN/C3UP/C3UP",
+  "name": "Redmi 13C / Redmi 13C / Redmi 13C / Redmi 13C / POCO C65 / POCO C65",
   "models": {
    "23106RN0DA": "Redmi 13C 国际版",
    "2311DRN14I": "Redmi 13C 印度版",
@@ -1896,10 +1896,11 @@
   }
  },
  "emerald": {
-  "internal_name": "N6/N6P",
-  "name": "Redmi Note 13 Pro / POCO M6 Pro",
+  "internal_name": "N6/N6R/N6P",
+  "name": "Redmi Note 13 Pro / Redmi Note 14S / POCO M6 Pro",
   "models": {
    "23117RA68G": "Redmi Note 13 Pro 国际版",
+   "2502FRA65G": "Redmi Note 14S 国际版",
    "2312FPCA6G": "POCO M6 Pro 国际版"
   }
  },
