@@ -2146,17 +2146,19 @@
  },
  "zorn": {
   "internal_name": "O11",
-  "name": "REDMI K80",
+  "name": "REDMI K80 / POCO F7 Pro",
   "models": {
-   "24117RK2CC": "REDMI K80"
+   "24117RK2CC": "REDMI K80",
+   "24117RK2CG": "POCO F7 Pro 国际版"
   }
  },
  "miro": {
   "internal_name": "O11U",
-  "name": "REDMI K80 Pro",
+  "name": "REDMI K80 Pro / POCO F7 Ultra",
   "models": {
    "24122RKC7C": "REDMI K80 Pro",
-   "24127RK2CC": "REDMI K80 Pro 冠军版"
+   "24127RK2CC": "REDMI K80 Pro 冠军版",
+   "24122RKC7G": "POCO F7 Ultra 国际版"
   }
  },
  "omega": {
@@ -2313,6 +2315,14 @@
   "name": "POCO F1",
   "models": {
    "M1805E10A": "POCO F1"
+  }
+ },
+ "onyx": {
+  "internal_name": "O10U",
+  "name": "POCO F7",
+  "models": {
+   "25053PC47G": "POCO F7 国际版",
+   "25053PC47I": "POCO F7 印度版"
   }
  },
  "phoenixin": {
