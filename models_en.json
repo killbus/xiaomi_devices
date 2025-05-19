@@ -805,6 +805,13 @@
    "23046PNC9C": "Xiaomi Civi 3 China"
   }
  },
+ "luming": {
+  "internal_name": "O9",
+  "name": "Xiaomi Civi 5 Pro",
+  "models": {
+   "25067PYE3C": "Xiaomi Civi 5 Pro China"
+  }
+ },
  "lotus": {
   "internal_name": "F9",
   "name": "Mi Play",
@@ -1227,11 +1234,11 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP/N19AP",
-  "name": "Redmi 13 / REDMI 13X / Redmi 13 / REDMI 13x / Redmi 13 / POCO M6 / POCO M6",
+  "name": "Redmi 13 / Redmi 13X / Redmi 13 / Redmi 13x / Redmi 13 / POCO M6 / POCO M6",
   "models": {
-   "2404ARN45A": "Redmi 13 Global / REDMI 13x Global",
+   "2404ARN45A": "Redmi 13 Global / Redmi 13x Global",
    "2404ARN45I": "Redmi 13 India",
-   "24049RN28L": "Redmi 13 Latin America / REDMI 13x Latin America",
+   "24049RN28L": "Redmi 13 Latin America / Redmi 13x Latin America",
    "24040RN64Y": "Redmi 13 Global (NFC)",
    "2404APC5FG": "POCO M6 Global",
    "2404APC5FI": "POCO M6 India"
@@ -2169,13 +2176,13 @@
  },
  "serenity": {
   "internal_name": "C3Z",
-  "name": "REDMI A5 / POCO C71",
+  "name": "Redmi A5 / POCO C71",
   "models": {
-   "25028RN03G": "REDMI A5 Global",
-   "25028RN03A": "REDMI A5 Global",
-   "25028RN03Y": "REDMI A5 Global",
-   "25028RN03I": "REDMI A5 India",
-   "25028RN03L": "REDMI A5 Latin America",
+   "25028RN03G": "Redmi A5 Global",
+   "25028RN03A": "Redmi A5 Global",
+   "25028RN03Y": "Redmi A5 Global",
+   "25028RN03I": "Redmi A5 India",
+   "25028RN03L": "Redmi A5 Latin America",
    "25028PC03G": "POCO C71 Global",
    "25028PC03Y": "POCO C71 Global",
    "25028PC03I": "POCO C71 India",
@@ -2371,6 +2378,13 @@
   "models": {
    "24091RPADG": "Xiaomi Pad 7 Pro Global",
    "24091RPADC": "Xiaomi Pad 7 Pro China"
+  }
+ },
+ "jinghu": {
+  "internal_name": "O80",
+  "name": "Xiaomi Pad 7 Ultra",
+  "models": {
+   "25032RP42C": "Xiaomi Pad 7 Ultra"
   }
  },
  "yunluo": {
