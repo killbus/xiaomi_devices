@@ -964,6 +964,13 @@
    "25032RP42C": "Xiaomi Pad 7 Ultra"
   }
  },
+ "violin": {
+  "internal_name": "O81A",
+  "name": "Xiaomi Pad 7S Pro 12.5",
+  "models": {
+   "25053RP5CC": "Xiaomi Pad 7S Pro 12.5"
+  }
+ },
  "wt93007": {
   "internal_name": "H2TD",
   "name": "红米手机",
@@ -2353,6 +2360,26 @@
   "models": {
    "24076RP19G": "Redmi Pad SE 8.7 4G 国际版",
    "24076RP19I": "Redmi Pad SE 4G 印度版"
+  }
+ },
+ "taiko": {
+  "internal_name": "O84",
+  "name": "REDMI Pad 2",
+  "models": {
+   "25040RP0AC": "REDMI Pad 2 国行版",
+   "25040RP0AG": "Redmi Pad 2 国际版",
+   "25040RP0AI": "Redmi Pad 2 印度版",
+   "25040RP0AE": "Redmi Pad 2 欧洲版",
+   "25040RP0AL": "Redmi Pad 2 拉美版"
+  }
+ },
+ "koto": {
+  "internal_name": "O84X",
+  "name": "REDMI Pad 2 4G",
+  "models": {
+   "2505DRP06C": "REDMI Pad 2 4G 国行版",
+   "2505DRP06G": "Redmi Pad 2 4G 国际版",
+   "2505DRP06I": "Redmi Pad 2 4G 印度版"
   }
  },
  "beryllium": {
