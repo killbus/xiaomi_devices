@@ -2198,6 +2198,13 @@
    "24122RKC7G": "POCO F7 Ultra 国际版"
   }
  },
+ "dali": {
+  "internal_name": "O12",
+  "name": "REDMI K80 至尊版",
+  "models": {
+   "25060RK16C": "REDMI K80 至尊版"
+  }
+ },
  "omega": {
   "internal_name": "H3C",
   "name": "红米 Pro",
@@ -2367,10 +2374,10 @@
   "name": "REDMI Pad 2",
   "models": {
    "25040RP0AC": "REDMI Pad 2 国行版",
-   "25040RP0AG": "Redmi Pad 2 国际版",
-   "25040RP0AI": "Redmi Pad 2 印度版",
-   "25040RP0AE": "Redmi Pad 2 欧洲版",
-   "25040RP0AL": "Redmi Pad 2 拉美版"
+   "25040RP0AG": "REDMI Pad 2 国际版",
+   "25040RP0AI": "REDMI Pad 2 印度版",
+   "25040RP0AE": "REDMI Pad 2 欧洲版",
+   "25040RP0AL": "REDMI Pad 2 拉美版"
   }
  },
  "koto": {
@@ -2378,8 +2385,15 @@
   "name": "REDMI Pad 2 4G",
   "models": {
    "2505DRP06C": "REDMI Pad 2 4G 国行版",
-   "2505DRP06G": "Redmi Pad 2 4G 国际版",
-   "2505DRP06I": "Redmi Pad 2 4G 印度版"
+   "2505DRP06G": "REDMI Pad 2 4G 国际版",
+   "2505DRP06I": "REDMI Pad 2 4G 印度版"
+  }
+ },
+ "turner": {
+  "internal_name": "O88",
+  "name": "REDMI K Pad",
+  "models": {
+   "25079RPDCC": "REDMI K Pad 国行版"
   }
  },
  "beryllium": {
