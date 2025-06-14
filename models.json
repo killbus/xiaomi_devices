@@ -600,6 +600,21 @@
    "25042PN24C": "Xiaomi 15S Pro"
   }
  },
+ "goya": {
+  "internal_name": "O12A",
+  "name": "Xiaomi 15T",
+  "models": {
+   "25069PTEBG": "Xiaomi 15T 国际版"
+  }
+ },
+ "klimt": {
+  "internal_name": "O12U",
+  "name": "Xiaomi 15T Pro",
+  "models": {
+   "2506BPN68G": "Xiaomi 15T Pro 国际版",
+   "2506BPN68R": "Xiaomi 15T Pro 日本版 (无锁)"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "小米 Note",
@@ -735,6 +750,14 @@
   "models": {
    "2405CPX3DC": "Xiaomi MIX Flip 国行版",
    "2405CPX3DG": "Xiaomi MIX Flip 国际版"
+  }
+ },
+ "bixi": {
+  "internal_name": "O8",
+  "name": "Xiaomi MIX Flip 2",
+  "models": {
+   "2505APX7BC": "Xiaomi MIX Flip 2 国行版",
+   "2505APX7BG": "Xiaomi MIX Flip 2 国际版"
   }
  },
  "hydrogen": {
@@ -2386,14 +2409,15 @@
   "models": {
    "2505DRP06C": "REDMI Pad 2 4G 国行版",
    "2505DRP06G": "REDMI Pad 2 4G 国际版",
-   "2505DRP06I": "REDMI Pad 2 4G 印度版"
+   "2505DRP06I": "REDMI Pad 2 4G 印度版",
+   "2505DRP06E": "REDMI Pad 2 4G 欧洲版"
   }
  },
  "turner": {
   "internal_name": "O88",
   "name": "REDMI K Pad",
   "models": {
-   "25079RPDCC": "REDMI K Pad 国行版"
+   "25079RPDCC": "REDMI K Pad"
   }
  },
  "beryllium": {
