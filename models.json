@@ -1443,6 +1443,16 @@
    "24108PCE2I": "POCO M7 5G 印度版"
   }
  },
+ "spring": {
+  "internal_name": "O19",
+  "name": "Redmi 15 5G / POCO M7 Plus 5G",
+  "models": {
+   "25057RN09G": "Redmi 15 5G 国际版",
+   "25057RN09E": "Redmi 15 5G 欧洲版",
+   "25057RN09I": "Redmi 15 5G 印度版",
+   "25057PC09I": "POCO M7 Plus 5G 印度版"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "红米 Note",
@@ -1990,10 +2000,10 @@
  },
  "beryl": {
   "internal_name": "O17/O17P",
-  "name": "Redmi Note 14 5G / Redmi Note 14 5G / POCO M7 Pro 5G",
+  "name": "Redmi Note 14 5G / Redmi Note 14 SE 5G / Redmi Note 14 5G / POCO M7 Pro 5G",
   "models": {
    "24094RAD4C": "Redmi Note 14 5G 国行版",
-   "24094RAD4I": "Redmi Note 14 5G 印度版",
+   "24094RAD4I": "Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G 印度版",
    "24094RAD4G": "Redmi Note 14 5G 国际版",
    "2409FPCC4G": "POCO M7 Pro 5G 国际版"
   }
