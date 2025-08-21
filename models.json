@@ -1376,15 +1376,14 @@
   }
  },
  "moon": {
-  "internal_name": "N19A/N19L/N19E/N19AP/N19AP",
-  "name": "Redmi 13 / REDMI 13x / Redmi 13 / REDMI 13x / Redmi 13 / POCO M6 / POCO M6",
+  "internal_name": "N19A/N19L/N19E/N19AP",
+  "name": "Redmi 13 / REDMI 13x / Redmi 13 / REDMI 13x / Redmi 13 / POCO M6",
   "models": {
    "2404ARN45A": "Redmi 13 国际版 / REDMI 13x 国际版",
    "2404ARN45I": "Redmi 13 印度版",
    "24049RN28L": "Redmi 13 拉美版 / REDMI 13x 拉美版",
    "24040RN64Y": "Redmi 13 国际版 (NFC)",
-   "2404APC5FG": "POCO M6 国际版",
-   "2404APC5FI": "POCO M6 印度版"
+   "2404APC5FG": "POCO M6 国际版"
   }
  },
  "breeze": {
@@ -2035,6 +2034,36 @@
    "24115RA8EI": "Redmi Note 14 Pro+ 5G 印度版"
   }
  },
+ "kunzite": {
+  "internal_name": "P17",
+  "name": "REDMI Note 15",
+  "models": {
+   "25098RA98C": "REDMI Note 15 国行版",
+   "25098RA98G": "Redmi Note 15 5G 国际版",
+   "25098RA98E": "Redmi Note 15 5G 欧洲版",
+   "25098RA98I": "Redmi Note 15 5G 印度版"
+  }
+ },
+ "lapis": {
+  "internal_name": "P16",
+  "name": "REDMI Note 15 Pro",
+  "models": {
+   "25080RABDC": "REDMI Note 15 Pro 国行版",
+   "25080RABDG": "Redmi Note 15 Pro 5G 国际版",
+   "25080RABDI": "Redmi Note 15 Pro 5G 印度版",
+   "25080RABDR": "Redmi Note 15 Pro 5G 日本版"
+  }
+ },
+ "flourite": {
+  "internal_name": "P16U/P16US",
+  "name": "REDMI Note 15 Pro+ / REDMI Note 15 Pro+",
+  "models": {
+   "2510ERA8BC": "REDMI Note 15 Pro+ 国行版",
+   "2510ERA8BG": "Redmi Note 15 Pro+ 5G 国际版",
+   "2510ERA8BI": "Redmi Note 15 Pro+ 5G 印度版",
+   "25104RADAC": "REDMI Note 15 Pro+ 卫星消息版"
+  }
+ },
  "atom": {
   "internal_name": "J7A",
   "name": "Redmi 10X 5G",
@@ -2497,6 +2526,14 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "21091116AG": "POCO M4 Pro 5G 国际版"
+  }
+ },
+ "creek": {
+  "internal_name": "O19AP",
+  "name": "POCO M7",
+  "models": {
+   "25062PC34G": "POCO M7 国际版",
+   "25062PC34E": "POCO M7 欧洲版"
   }
  },
  "angelicain": {
