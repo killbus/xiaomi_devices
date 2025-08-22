@@ -1442,13 +1442,26 @@
    "24108PCE2I": "POCO M7 5G 印度版"
   }
  },
+ "creek": {
+  "internal_name": "O19A/O19AP",
+  "name": "Redmi 15 / POCO M7",
+  "models": {
+   "25062RN2DA": "Redmi 15 国际版",
+   "25062RN2DY": "Redmi 15 国际版 (NFC)",
+   "25062RN2DE": "Redmi 15 欧洲版",
+   "25062RN2DL": "Redmi 15 拉美版",
+   "25062PC34G": "POCO M7 国际版",
+   "25062PC34E": "POCO M7 欧洲版"
+  }
+ },
  "spring": {
   "internal_name": "O19",
-  "name": "Redmi 15 5G / POCO M7 Plus 5G",
+  "name": "Redmi 15 5G / REDMI Note 15R / POCO M7 Plus 5G",
   "models": {
    "25057RN09G": "Redmi 15 5G 国际版",
    "25057RN09E": "Redmi 15 5G 欧洲版",
    "25057RN09I": "Redmi 15 5G 印度版",
+   "25057RA09C": "REDMI Note 15R",
    "25057PC09I": "POCO M7 Plus 5G 印度版"
   }
  },
@@ -2526,14 +2539,6 @@
   "name": "POCO M4 Pro 5G",
   "models": {
    "21091116AG": "POCO M4 Pro 5G 国际版"
-  }
- },
- "creek": {
-  "internal_name": "O19AP",
-  "name": "POCO M7",
-  "models": {
-   "25062PC34G": "POCO M7 国际版",
-   "25062PC34E": "POCO M7 欧洲版"
   }
  },
  "angelicain": {
