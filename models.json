@@ -1465,6 +1465,18 @@
    "25057PC09I": "POCO M7 Plus 5G 印度版"
   }
  },
+ "dew": {
+  "internal_name": "P15A",
+  "name": "Redmi 15C / POCO C85",
+  "models": {
+   "25078RA3EA": "Redmi 15C 国际版",
+   "25078RA3EY": "Redmi 15C 国际版 (NFC)",
+   "25078RA3EE": "Redmi 15C 欧洲版",
+   "25078RA3EL": "Redmi 15C 拉美版",
+   "25078PC3EG": "POCO C85 国际版",
+   "25078PC3EE": "POCO C85 欧洲版"
+  }
+ },
  "lcsh92_wet_gb9": {
   "internal_name": "H3W",
   "name": "红米 Note",
