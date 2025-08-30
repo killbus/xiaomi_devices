@@ -2582,5 +2582,12 @@
   "models": {
    "21051191C": "CyberDog 仿生四足机器人"
   }
+ },
+ "konghou": {
+  "internal_name": "P802",
+  "name": "Xiaomi YU7 后排移动控制屏",
+  "models": {
+   "2503CVPC6C": "Xiaomi YU7 后排移动控制屏"
+  }
  }
 }
