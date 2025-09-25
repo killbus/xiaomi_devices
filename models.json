@@ -615,6 +615,29 @@
    "2506BPN68R": "Xiaomi 15T Pro 日本版 (无锁)"
   }
  },
+ "pudding": {
+  "internal_name": "P3",
+  "name": "Xiaomi 17",
+  "models": {
+   "25113PN0EC": "Xiaomi 17 国行版",
+   "25113PN0EG": "Xiaomi 17 国际版",
+   "25113PN0EI": "Xiaomi 17 印度版"
+  }
+ },
+ "pandora": {
+  "internal_name": "Q200",
+  "name": "Xiaomi 17 Pro",
+  "models": {
+   "25098PN5AC": "Xiaomi 17 Pro"
+  }
+ },
+ "popsicle": {
+  "internal_name": "P2",
+  "name": "Xiaomi 17 Pro Max",
+  "models": {
+   "2509FPN0BC": "Xiaomi 17 Pro Max"
+  }
+ },
  "virgo": {
   "internal_name": "X5",
   "name": "小米 Note",
@@ -756,8 +779,7 @@
   "internal_name": "O8",
   "name": "Xiaomi MIX Flip 2",
   "models": {
-   "2505APX7BC": "Xiaomi MIX Flip 2 国行版",
-   "2505APX7BG": "Xiaomi MIX Flip 2 国际版"
+   "2505APX7BC": "Xiaomi MIX Flip 2 国行版"
   }
  },
  "hydrogen": {
@@ -965,11 +987,12 @@
   }
  },
  "uke": {
-  "internal_name": "O82",
-  "name": "Xiaomi Pad 7",
+  "internal_name": "O82/O82P",
+  "name": "Xiaomi Pad 7 / POCO Pad X1",
   "models": {
    "2410CRP4CC": "Xiaomi Pad 7 国行版",
-   "2410CRP4CG": "Xiaomi Pad 7 国际版"
+   "2410CRP4CG": "Xiaomi Pad 7 国际版",
+   "25099RP08G": "POCO Pad X1 国际版"
   }
  },
  "muyu": {
@@ -992,6 +1015,31 @@
   "name": "Xiaomi Pad 7S Pro 12.5",
   "models": {
    "25053RP5CC": "Xiaomi Pad 7S Pro 12.5"
+  }
+ },
+ "turner": {
+  "internal_name": "O88",
+  "name": "Xiaomi Pad Mini / REDMI K Pad",
+  "models": {
+   "25079RPDCG": "Xiaomi Pad Mini 国际版",
+   "25079RPDCC": "REDMI K Pad"
+  }
+ },
+ "yupei": {
+  "internal_name": "P82",
+  "name": "Xiaomi Pad 8",
+  "models": {
+   "25097RP43C": "Xiaomi Pad 8 国行版",
+   "25097RP43G": "Xiaomi Pad 8 国际版",
+   "25097RP43I": "Xiaomi Pad 8 印度版"
+  }
+ },
+ "piano": {
+  "internal_name": "P81",
+  "name": "Xiaomi Pad 8 Pro",
+  "models": {
+   "25091RP04C": "Xiaomi Pad 8 Pro 国行版",
+   "25091RP04G": "Xiaomi Pad 8 Pro 国际版"
   }
  },
  "wt93007": {
@@ -1377,12 +1425,12 @@
  },
  "moon": {
   "internal_name": "N19A/N19L/N19E/N19AP",
-  "name": "Redmi 13 / REDMI 13x / Redmi 13 / REDMI 13x / Redmi 13 / POCO M6",
+  "name": "Redmi 13 / REDMI 13x / Redmi 13 / REDMI 13x / Redmi 13 / REDMI 13x / POCO M6",
   "models": {
    "2404ARN45A": "Redmi 13 国际版 / REDMI 13x 国际版",
    "2404ARN45I": "Redmi 13 印度版",
    "24049RN28L": "Redmi 13 拉美版 / REDMI 13x 拉美版",
-   "24040RN64Y": "Redmi 13 国际版 (NFC)",
+   "24040RN64Y": "Redmi 13 国际版 (NFC) / REDMI 13x 国际版 (NFC)",
    "2404APC5FG": "POCO M6 国际版"
   }
  },
@@ -1444,37 +1492,50 @@
  },
  "creek": {
   "internal_name": "O19A/O19AP",
-  "name": "Redmi 15 / POCO M7",
+  "name": "REDMI 15 / POCO M7",
   "models": {
-   "25062RN2DA": "Redmi 15 国际版",
-   "25062RN2DY": "Redmi 15 国际版 (NFC)",
-   "25062RN2DE": "Redmi 15 欧洲版",
-   "25062RN2DL": "Redmi 15 拉美版",
+   "25062RN2DA": "REDMI 15 国际版",
+   "25062RN2DY": "REDMI 15 国际版 (NFC)",
+   "25062RN2DE": "REDMI 15 欧洲版",
+   "25062RN2DL": "REDMI 15 拉美版",
    "25062PC34G": "POCO M7 国际版",
    "25062PC34E": "POCO M7 欧洲版"
   }
  },
  "spring": {
   "internal_name": "O19",
-  "name": "Redmi 15 5G / REDMI Note 15R / POCO M7 Plus 5G",
+  "name": "REDMI 15 5G / REDMI Note 15R / POCO M7 Plus 5G",
   "models": {
-   "25057RN09G": "Redmi 15 5G 国际版",
-   "25057RN09E": "Redmi 15 5G 欧洲版",
-   "25057RN09I": "Redmi 15 5G 印度版",
+   "25057RN09G": "REDMI 15 5G 国际版",
+   "25057RN09E": "REDMI 15 5G 欧洲版",
+   "25057RN09I": "REDMI 15 5G 印度版",
    "25057RA09C": "REDMI Note 15R",
    "25057PC09I": "POCO M7 Plus 5G 印度版"
   }
  },
  "dew": {
   "internal_name": "P15A",
-  "name": "Redmi 15C / POCO C85",
+  "name": "REDMI 15C / POCO C85",
   "models": {
-   "25078RA3EA": "Redmi 15C 国际版",
-   "25078RA3EY": "Redmi 15C 国际版 (NFC)",
-   "25078RA3EE": "Redmi 15C 欧洲版",
-   "25078RA3EL": "Redmi 15C 拉美版",
+   "25078RA3EA": "REDMI 15C 国际版",
+   "25078RA3EY": "REDMI 15C 国际版 (NFC)",
+   "25078RA3EE": "REDMI 15C 欧洲版",
+   "25078RA3EL": "REDMI 15C 拉美版",
    "25078PC3EG": "POCO C85 国际版",
    "25078PC3EE": "POCO C85 欧洲版"
+  }
+ },
+ "tornado": {
+  "internal_name": "P15/P15X/P15",
+  "name": "REDMI 15C 5G / REDMI 15R 5G / POCO M8 5G",
+  "models": {
+   "2508CRN2BC": "REDMI 15C 5G 国行版",
+   "2508CRN2BG": "REDMI 15C 5G 国际版",
+   "2508CRN2BE": "REDMI 15C 5G 欧洲版",
+   "2508CRN2BI": "REDMI 15C 5G 印度版",
+   "2508CRN2BR": "REDMI 15C 5G 日本版",
+   "25082RNC1C": "REDMI 15R 5G",
+   "2508CPC2BI": "POCO M8 5G 印度版"
   }
  },
  "lcsh92_wet_gb9": {
@@ -2064,9 +2125,9 @@
   "name": "REDMI Note 15",
   "models": {
    "25098RA98C": "REDMI Note 15 国行版",
-   "25098RA98G": "Redmi Note 15 5G 国际版",
-   "25098RA98E": "Redmi Note 15 5G 欧洲版",
-   "25098RA98I": "Redmi Note 15 5G 印度版"
+   "25098RA98G": "REDMI Note 15 5G 国际版",
+   "25098RA98E": "REDMI Note 15 5G 欧洲版",
+   "25098RA98I": "REDMI Note 15 5G 印度版"
   }
  },
  "lapis": {
@@ -2074,9 +2135,9 @@
   "name": "REDMI Note 15 Pro",
   "models": {
    "25080RABDC": "REDMI Note 15 Pro 国行版",
-   "25080RABDG": "Redmi Note 15 Pro 5G 国际版",
-   "25080RABDI": "Redmi Note 15 Pro 5G 印度版",
-   "25080RABDR": "Redmi Note 15 Pro 5G 日本版"
+   "25080RABDG": "REDMI Note 15 Pro 5G 国际版",
+   "25080RABDI": "REDMI Note 15 Pro 5G 印度版",
+   "25080RABDR": "REDMI Note 15 Pro 5G 日本版"
   }
  },
  "flourite": {
@@ -2084,8 +2145,8 @@
   "name": "REDMI Note 15 Pro+ / REDMI Note 15 Pro+",
   "models": {
    "2510ERA8BC": "REDMI Note 15 Pro+ 国行版",
-   "2510ERA8BG": "Redmi Note 15 Pro+ 5G 国际版",
-   "2510ERA8BI": "Redmi Note 15 Pro+ 5G 印度版",
+   "2510ERA8BG": "REDMI Note 15 Pro+ 5G 国际版",
+   "2510ERA8BI": "REDMI Note 15 Pro+ 5G 印度版",
    "25104RADAC": "REDMI Note 15 Pro+ 卫星消息版"
   }
  },
@@ -2471,17 +2532,28 @@
   "internal_name": "O84X",
   "name": "REDMI Pad 2 4G",
   "models": {
-   "2505DRP06C": "REDMI Pad 2 4G 国行版",
    "2505DRP06G": "REDMI Pad 2 4G 国际版",
    "2505DRP06I": "REDMI Pad 2 4G 印度版",
    "2505DRP06E": "REDMI Pad 2 4G 欧洲版"
   }
  },
- "turner": {
-  "internal_name": "O88",
-  "name": "REDMI K Pad",
+ "flute": {
+  "internal_name": "P83/P83P",
+  "name": "REDMI Pad 2 Pro / POCO Pad M1",
   "models": {
-   "25079RPDCC": "REDMI K Pad"
+   "25099RP13C": "REDMI Pad 2 Pro 国行版",
+   "25099RP13G": "REDMI Pad 2 Pro 国际版",
+   "25099RP13I": "REDMI Pad 2 Pro 印度版",
+   "2509ARPBDG": "POCO Pad M1 国际版"
+  }
+ },
+ "organ": {
+  "internal_name": "P83X",
+  "name": "REDMI Pad 2 Pro 5G",
+  "models": {
+   "2509BRP2DC": "REDMI Pad 2 Pro 5G 国行版",
+   "2509BRP2DG": "REDMI Pad 2 Pro 5G 国际版",
+   "2509BRP2DI": "REDMI Pad 2 Pro 5G 印度版"
   }
  },
  "beryllium": {
