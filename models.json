@@ -2338,8 +2338,8 @@
   }
  },
  "miro": {
-  "internal_name": "O11U",
-  "name": "REDMI K80 Pro / POCO F7 Ultra",
+  "internal_name": "O11U/O11US/O11U",
+  "name": "REDMI K80 Pro / REDMI K80 Pro 冠军版 / POCO F7 Ultra",
   "models": {
    "24122RKC7C": "REDMI K80 Pro",
    "24127RK2CC": "REDMI K80 Pro 冠军版",
@@ -2351,6 +2351,20 @@
   "name": "REDMI K80 至尊版",
   "models": {
    "25060RK16C": "REDMI K80 至尊版"
+  }
+ },
+ "annibale": {
+  "internal_name": "P11",
+  "name": "REDMI K90",
+  "models": {
+   "2510DRK44C": "REDMI K90"
+  }
+ },
+ "myron": {
+  "internal_name": "P11U",
+  "name": "REDMI K90 Pro Max",
+  "models": {
+   "25102RKBEC": "REDMI K90 Pro Max"
   }
  },
  "omega": {
