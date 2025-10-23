@@ -2355,17 +2355,19 @@
  },
  "annibale": {
   "internal_name": "P11",
-  "name": "REDMI K90",
+  "name": "REDMI K90 / POCO F8 Pro",
   "models": {
-   "2510DRK44C": "REDMI K90"
+   "2510DRK44C": "REDMI K90",
+   "2510DPC44G": "POCO F8 Pro 国际版"
   }
  },
  "myron": {
-  "internal_name": "P11U/P11UIP",
-  "name": "REDMI K90 Pro Max / REDMI K90 Pro Max",
+  "internal_name": "P11U/P11UIP/P11U",
+  "name": "REDMI K90 Pro Max / REDMI K90 Pro Max / POCO F8 Ultra",
   "models": {
    "25102RKBEC": "REDMI K90 Pro Max",
-   "25102RK69C": "REDMI K90 Pro Max 冠军版"
+   "25102RK69C": "REDMI K90 Pro Max 冠军版",
+   "25102PCBEG": "POCO F8 Ultra 国际版"
   }
  },
  "omega": {
