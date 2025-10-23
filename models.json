@@ -2361,10 +2361,11 @@
   }
  },
  "myron": {
-  "internal_name": "P11U",
-  "name": "REDMI K90 Pro Max",
+  "internal_name": "P11U/P11UIP",
+  "name": "REDMI K90 Pro Max / REDMI K90 Pro Max",
   "models": {
-   "25102RKBEC": "REDMI K90 Pro Max"
+   "25102RKBEC": "REDMI K90 Pro Max",
+   "25102RK69C": "REDMI K90 Pro Max 冠军版"
   }
  },
  "omega": {

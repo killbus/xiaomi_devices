@@ -2215,10 +2215,11 @@
   }
  },
  "myron": {
-  "internal_name": "P11U",
-  "name": "REDMI K90 Pro Max",
+  "internal_name": "P11U/P11UIP",
+  "name": "REDMI K90 Pro Max / REDMI K90 Pro Max",
   "models": {
-   "25102RKBEC": "REDMI K90 Pro Max China"
+   "25102RKBEC": "REDMI K90 Pro Max China",
+   "25102RK69C": "REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China"
   }
  },
  "omega": {
